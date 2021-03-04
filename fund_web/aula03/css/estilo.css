@@ -160,4 +160,23 @@ header a {
     background-color:#fff;
     color: rgb(74, 149, 11);
 }
+.img-background {
+    background: #fff url(../demo/backgrounds/01.png) repeat-y left top;
+    padding:0;
+}
+
+.box-2 {
+    background-color: #fff;
+    width: 50%;
+    float: right;
+    padding-right:150px;
+}
 /* end of classes */
+
+footer section {
+    background-color: rgb(17, 35, 34);
+}
+
+.creditos {
+    background-color: rgb(26, 59, 58);
+}
