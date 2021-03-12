@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Minha festa!</title>
+    <link rel="stylesheet" href="./css/estilo.css">
+    <script src="./js/jquery.min.js"></script>
+	<script src="./js/quiz-plugin.js"></script>
+    <script>
+        $(function(){
+            //criando as questões
+            let options = {message: "Você acertou "
+                , questions: [{id:1
+                    , question: "bla bla bla"
+                    , items :["item1", "item 2", "item 3"]
+                    , correct: 0
+                }
+                , {id:2
+                    , question: "ble ble ble"
+                    , items :["item1", "item 2", "item 3"]
+                    , correct: 2
+                }
+                , {id:3
+                    , question: "bli bli bli"
+                    , items :["item1", "item 2", "item 3"]
+                    , correct: 1
+                }
+                , {id:4
+                    , question: "blo blo blo"
+                    , items :["item1", "item 2", "item 3"]
+                    , correct: 0
+                }]
+            }
+
+            //Carregando o quiz
+            $(".quiz").quiz(options);
+            
+        })
+    </script>
+</head>
+<body>
+    <nav>
+        <ul>
+            <li>
+                <a href="index.html">Introdução</a>
+            </li>
+            <li>
+                <a href="origem.html">Origem</a>
+            </li>
+            <li>
+                <a href="racismo.html">Racismo e Esteriótipo</a>
+            </li>
+            <li>
+                <a href="quiz.html">Quiz</a>
+            </li>
+            <li>
+                <a href="contatos.html">Contatos</a>
+            </li>
+        </ul>
+    </nav>
+    <h1>Cultura Espanhola</h1>
+    <h3>Quiz</h3>
+
+    <div class="quiz"></div>
+
+
+</body>
+</html>

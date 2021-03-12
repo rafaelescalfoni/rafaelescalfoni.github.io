@@ -1,0 +1,63 @@
+div {
+    border: 1px solid #000;
+    position:relative;
+    /*margin: 10px 15px;*/
+}
+
+
+#banner {
+    height:200px;
+    background-color: #333;
+    color: #fff;
+    margin-bottom: 50px;
+    /*transform:rotateX(50deg);*/
+}
+
+#banner a {
+    color: #fff;
+    font-size:1.5em;
+    position: absolute;
+    bottom: 10px;
+    left: 20px;
+}
+
+#banner a:hover {
+    transform: scale(2);
+    color:darkorange;
+    transition: transform 1s linear 5s, color 1s;
+}
+
+#banner h3, #banner p {
+    position: absolute;
+    left: 30px;
+}
+
+#banner h3 {
+    top:20px;
+    font-size:2em;
+    text-shadow: 3px 3px 5px #f00;
+    text-transform: uppercase;
+}
+
+
+#banner p {
+    top:80px;
+    width: 300px;
+    font-size:0.7em;
+}
+
+.box {
+    border:1px solid #000; 
+    width: 210px;
+    height: 210px;
+    padding: 10px 5px;
+    margin: 20px;
+    float:left;
+    box-sizing: border-box; 
+    border-radius: 50%;
+    text-align: center;
+    background: radial-gradient( red, yellow);
+    box-shadow: -5px -10px 10px #333;
+    
+}
+

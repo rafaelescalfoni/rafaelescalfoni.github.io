@@ -4,7 +4,7 @@ body {
 }
 
 header, main, footer {
-    width:80%;
+    width:900px;
     margin: auto;
 
 }
@@ -40,7 +40,6 @@ main {
     background-color: #fff;
 }
 
-
 #banner {
     width: 98%;
     margin: auto;
@@ -75,8 +74,8 @@ main {
 }
 
 .col-3 {
-    width:28%;
-    margin: 10px 15px;
+    width:30%;
+    margin: 10px 14px;
     float:left;
 }
 
