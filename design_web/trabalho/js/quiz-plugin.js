@@ -1,10 +1,13 @@
-; (function($){
+;
+//iife
+ (function($){
     let questions;
     let data;
+
     $.fn.quiz = function(options){
         data = options;
         questions = options.questions;
-        let $divExternal = $(this);
+        let $divExternal = $(this); //no caso, div .quiz
         let itemNum = 1;
         $.each(questions, function(index, obj){
             let $divQuestion = $("<div>").addClass("quiz-question")
@@ -40,7 +43,10 @@
         $.each($divQuizz.children(".quiz-question"), function(index, $question){
 
             $.each($($question).children(".quiz-item"), function(index, $item){
+                
                 let $radio = $($item).children("input");
+                
+                console.log($radio);
                 let questionId = $($radio).attr("name");
                 let correctItem = findRightAnswer(questionId, questions);
                 if ($radio.prop("checked")){
