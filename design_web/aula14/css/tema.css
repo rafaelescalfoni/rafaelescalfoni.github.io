@@ -1,0 +1,7 @@
+.jumbotron {
+    background-image: url(../img/vitrine.jpg);
+    background-size: cover;
+    background-position: center;
+    color: #fff;
+    text-shadow: 1px 1px 2px #000;
+}

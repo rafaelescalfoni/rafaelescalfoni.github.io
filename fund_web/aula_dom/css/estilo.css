@@ -1,0 +1,9 @@
+.fig-grande {
+    width: 400px;
+    border-radius: 15px;
+}
+
+.fig-pequena {
+    width:200px;
+    border-radius:0;
+}

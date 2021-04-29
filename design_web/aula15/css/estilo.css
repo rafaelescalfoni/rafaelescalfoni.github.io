@@ -1,0 +1,15 @@
+div {
+    
+
+}
+
+.navbar ul {
+    list-style-type: none;
+}
+.navbar li {
+    padding-right: 10px;
+}
+
+.carousel-item img {
+    height:400px;
+}
