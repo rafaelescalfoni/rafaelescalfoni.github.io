@@ -1,0 +1,165 @@
+
+                <html><head><meta http-equiv="Content-Type" content="text/html; charset=utf8"><meta name="Generator" content="scriptLattes"><title>teste-01</title><link rel="stylesheet" href="css/scriptLattes.css" type="text/css"><link rel="stylesheet" type="text/css" href="css/jquery.dataTables.css"><link rel="stylesheet" type="text/css" href="css/dataTables.colVis.min.css"><script type="text/javascript" charset="utf8" src="js/jquery.min.js"></script><script type="text/javascript" charset="utf8" src="js/jquery.dataTables.min.js"></script><script type="text/javascript" charset="utf8" src="js/dataTables.colVis.min.js"></script><script src="http://professor.ufabc.edu.br/~jesus.mena/sorttable.js"></script></head><body><div id="header2"> <button onClick="history.go(-1)">Voltar</button><h2>teste-01</h2></div>
+                
+        <script type="text/javascript" src="./jquery.min.js"></script>
+        <!--
+        <script type="text/javascript" src="./highcharts.js"></script>
+        <script type="text/javascript" src="./exporting.js"></script>
+        <script type="text/javascript" src="./drilldown.js"></script>
+        -->
+
+        <script src="http://code.highcharts.com/highcharts.js"></script>
+        <script src="http://code.highcharts.com/modules/drilldown.js"></script>
+        <script src="http://code.highcharts.com/modules/exporting.js"></script>
+
+        <script type="text/javascript">
+        // Load the fonts
+        Highcharts.createElement('link', {
+           href: 'http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700',
+           rel: 'stylesheet',
+           type: 'text/css'
+        }, null, document.getElementsByTagName('head')[0]);
+
+        Highcharts.theme = {
+   colors: ["#118D95", "#8085e9", "#8d4654", "#7798BF", "#aaeeee", "#ff0066", "#eeaaee", "#2b908f", "#90ee7e", "#55BF3B", "#DF5353", "#7798BF", "#aaeeee"],
+   chart: {
+      backgroundColor: null,
+      style: {
+         fontFamily: "'Source Sans Pro', 'sans-serif'"
+      }
+   },
+   title: {
+      style: {
+         color: 'black',
+         fontSize: '16px',
+         fontWeight: 'bold'
+      }
+   },
+   subtitle: {
+      style: {
+         color: 'black'
+      }
+   },
+   tooltip: {
+      borderWidth: 0
+   },
+   legend: {
+      itemStyle: {
+         fontWeight: 'bold',
+         fontSize: '13px'
+      }
+   },
+   xAxis: {
+      labels: {
+         style: {
+            color: '#6e6e70'
+         }
+      }
+   },
+   yAxis: {
+      labels: {
+         style: {
+            color: '#6e6e70'
+         }
+      }
+   },
+   plotOptions: {
+      series: {
+         shadow: true
+      },
+      candlestick: {
+         lineColor: '#404048'
+      },
+      map: {
+         shadow: false
+      }
+   },
+
+   // Highstock specific
+   navigator: {
+      xAxis: {
+         gridLineColor: '#D0D0D8'
+      }
+   },
+   rangeSelector: {
+      buttonTheme: {
+         fill: 'white',
+         stroke: '#C0C0C8',
+         'stroke-width': 1,
+         states: {
+            select: {
+               fill: '#D0D0D8'
+            }
+         }
+      }
+   },
+   scrollbar: {
+      trackBorderColor: '#C0C0C8'
+   },
+
+   // General
+   background2: '#E0E0E8'
+};
+
+        Highcharts.setOptions(Highcharts.theme);
+        $(function () {
+            $('#container').highcharts({subtitle: {text: ''}, 
+title: {text: 'Total de projetos de pesquisa'}, 
+series: [{data: [[2011,
+2],
+[2012,
+1],
+[2013,
+1],
+[2014,
+1]], 
+name: 'Total'}], 
+yAxis: {labels: {overflow: 'justify'}, 
+title: {text: 'Quantidade', 
+align: 'middle'}, 
+stackLabels: {enabled: true, 
+format: '{stack}'}, 
+min: 0}, 
+chart: {type: 'column', 
+height: 300}, 
+tooltip: {pointFormat: '<span style="color:{series.color}">\u25CF</span> {series.name}: <b>{point.y}</b><br/>', 
+shared: false, 
+headerFormat: '<span style="font-size: 10px">{point.key}{point.stack}{series.stack}</span><br/>', 
+valueSuffix: '', 
+enabled: true}, 
+credits: {enabled: false}, 
+plotOptions: {column: {stacking: null}, 
+series: {shadow: 'true'}, 
+bar: {dataLabels: {enabled: false}}}, 
+xAxis: {type: 'category', 
+title: {text: ''}}, 
+legend: {layout: 'vertical', 
+align: 'right', 
+enabled: false, 
+borderWidth: 1, 
+backgroundColor: (Highcharts.theme && Highcharts.theme.legendBackgroundColor || '#FFFFFF'), 
+verticalAlign: 'middle', 
+shadow: true}});
+        });
+        </script>
+        
+                <h3>Total de projetos de pesquisa</h3> <br>
+                    <div id="container" style="min-width: 310px; max-width: 1920px; height: 300; margin: 0"></div>
+                    Número total de itens: 5<br>
+                    
+                    
+                    <div id="dv-year-2014"><h3 class="year">2014</h3> <table>
+            <tr valign="top"><td>1. &nbsp;</td> <td><span class="projects">2014-Atual</span>. <b>Documentacao e analise de arvores de genealogia academica do Brasil (Projeto MCTI/CNPq/Universal 2014)</b><br><i><font size=-1>Descrição: No decorrer do tempo a ciência evolui em diferentes ambientes e ritmos que podem ser dados por incrementos graduais ou por revoluções que permitiram responder os principais desafios de cada época. No ambiente acadêmico, esta evolução é facilitada pelos pesquisadores orientadores ou formadores de recursos humanos nos níveis de graduação, mestrado, doutorado ou pós-doutorado. Sob este aspecto, dada a dedicação à formação de cientistas, muitos pesquisadores acadêmicos tiveram um papel extremamente importante na ciência. Até hoje, com a finalidade de preservar a história acadêmica, poucos empreendimentos foram realizados para registrar e documentar a influência que cada pesquisador têm exercido sobre seus orientandos ao longo dos anos. Nesse contexto, a genealogia acadêmica é utilizada para documentar e organizar, através de uma árvore (ou conjuntos de árvores) de genealogia, pesquisadores por meio de suas relações (linhagem) de orientação ou supervisão acadêmica. No Brasil, a identificação dos pesquisadores ancestrais é uma tarefa desafiadora pois atualmente não existem repositórios que permitam o registro de informações da linhagem acadêmica de pesquisadores associados a diferentes áreas de atuação acadêmica. Este projeto concentra-se no desenvolvimento de uma metodologia computacional para a geração e análise de árvores de genealogia acadêmica para pesquisadores que formaram ou tiveram formação no Brasil.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3) / Mestrado acadêmico: (2) / Doutorado: (1) . Integrantes: Jesús Pascual Mena Chalco - Coordenador / Etelvino José Henriques Bechara - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio financeiro. Número de produções C, T A: 7 / Número de orientações: 3</font></i><br><i><font size=-1>Membro: <a href="http://lattes.cnpq.br/4727357182510680">Jesus Pascual Mena Chalco</a>.</font></td></tr>
+            </table></div><div id="dv-year-2013"><h3 class="year">2013</h3> <table>
+            <tr valign="top"><td>1. &nbsp;</td> <td><span class="projects">2013-Atual</span>. <b>NUVEM - Nucleo Estrategico de Universos Virtuais, Entretenimento e Mobilidade</b><br><i><font size=-1>Descrição: O Núcleo Estratégico de Universos Virtuais, Entretenimento e Mobilidade (NUVEM) tem o objetivo de produzir novos conhecimentos, formar recursos humanos de alto nível e gerar soluções inovadoras e interdisciplinares em áreas relacionadas com as Tecnologias de Informação e Comunicação (TICs) e suas interações com demandas da sociedade, como melhoria da qualidade de vida dos cidadãos e sustentabilidade.. Situação: Em andamento; Natureza: Pesquisa.</font></i><br><i><font size=-1>Membro: <a href="http://lattes.cnpq.br/4727357182510680">Jesus Pascual Mena Chalco</a>.</font></td></tr>
+            </table></div><div id="dv-year-2012"><h3 class="year">2012</h3> <table>
+            <tr valign="top"><td>1. &nbsp;</td> <td><span class="projects">2012-Atual</span>. <b>NAP-USP eScience</b><br><i><font size=-1>Descrição: Modern science is interdisciplinary and data-intensive. For instance, in the 1000 Genomes Project (www.1000genomes.org), the comparative study of 629 individuals has already generated 7.3 TB of data. Analogous situations exist in fields such as astronomy, agriculture, social sciences, etc. Ten years ago, the problem was how to obtain data. Today, the bottleneck is the need for new computational strategies and tools so that scientists can manage these massive volumes of heterogeneous, distributed, data, so that they can generate new knowledge from the processing, analysis and visualization of the data. This launched the basis of the so-called eScience: the combination of advanced research in computer science and mathematical modeling to allow and accelerate research in other knowledge domains. National programs in eScience have been created in the US, GB, Australia and other countries, that recognized the importance of this theme for the advancement of science. The main goal of this project is the design and construction of a collaborative network for research in eScience, in a partnership that involves computer science, mathematical modeling and specific domains in the exact, life, agricultural sciences and social sciences.. Situação: Em andamento; Natureza: Pesquisa.</font></i><br><i><font size=-1>Membro: <a href="http://lattes.cnpq.br/2240951178648368">Roberto Marcondes Cesar Junior</a>.</font><br><i><font size=-1>Descrição: Modern science is interdisciplinary and data-intensive. For instance, in the 1000 Genomes Project (www.1000genomes.org), the comparative study of 629 individuals has already generated 7.3 TB of data. Analogous situations exist in fields such as astronomy, agriculture, social sciences, etc. Ten years ago, the problem was how to obtain data. Today, the bottleneck is the need for new computational strategies and tools so that scientists can manage these massive volumes of heterogeneous, distributed, data, so that they can generate new knowledge from the processing, analysis and visualization of the data. This launched the basis of the so-called eScience: the combination of advanced research in computer science and mathematical modeling to allow and accelerate research in other knowledge domains. National programs in eScience have been created in the US, GB, Australia and other countries, that recognized the importance of this theme for the advancement of science. The main goal of this project is the design and construction of a collaborative network for research in eScience, in a partnership that involves computer science, mathematical modeling and specific domains in the exact, life, agricultural sciences and social sciences.. Situação: Em andamento; Natureza: Pesquisa.</font></i><br><i><font size=-1>Membro: <a href="http://lattes.cnpq.br/4727357182510680">Jesus Pascual Mena Chalco</a>.</font></td></tr>
+            </table></div><div id="dv-year-2011"><h3 class="year">2011</h3> <table>
+            <tr valign="top"><td>1. &nbsp;</td> <td><span class="projects">2011-2013</span>. <b>Analise e sintese de faces e expressoes faciais em 3D</b><br><i><font size=-1>Descrição: O projeto prevê o desenvolvimento de métodos e aplicações de Computação Gráfica, Visão Computacional e Reconhecimento de Padrões para a análise (estudo/caracterização) e síntese (geração/criação) de faces e expressões faciais em 3D. Neste projeto serão estudados o problemas de análise e síntese de faces 3D considerando tanto um banco de dados de faces 3D reais, quanto modelos de faces sintéticos. O principal foco do projeto reside no desenvolvimento de técnicas para a reconstrução e caricaturização facial 3D a partir de amostras de treinamento de faces reais.. Situação: Concluído; Natureza: Pesquisa.</font></i><br><i><font size=-1>Membro: <a href="http://lattes.cnpq.br/4727357182510680">Jesus Pascual Mena Chalco</a>.</font></td></tr>
+            
+            <tr valign="top"><td>2. &nbsp;</td> <td><span class="projects">2011-Atual</span>. <b>Tematico-Pronex: Modelos e metodos de e-Science para ciencias da vida e agrarias</b><br><i><font size=-1>Descrição: A ciência moderna é crescentemente interdisciplinar e intensiva em dados. Na área de ciências da vida, por exemplo, com o surgimento de plataformas de alto desempenho para análise de imagens e estudos genômicos, o gargalo não está mais na aquisição de dados, mas sim no seu armazenamento, processamento, análise e visualização. Este cenário levou ao surgimento de um novo campo de pesquisa - eScience - que combina pesquisa avançada em computação e em modelagem matemática para permitir e acelerar pesquisa em outros domínios do conhecimento, desde as ciências exatas até as humanidades e artes. A eScience envolve a chamada "computação centrada em dados" (data-intensive computing), com a busca de soluções para gerenciamento de grandes volumes de dados produzidos por (e para) experimentos científicos, para que a descoberta científica não venha a ser detida pelo "dilúvio de dados". Este projeto visa a criação de uma rede colaborativa de eScience para acelerar pesquisa avançada em ciências da vida (biologia, medicina, oceanografia) e ciências agrárias. Está estruturado em tomo de cinco linhas de pesquisa - biologia de sistemas, planejamento de safras, computação visual, modelagem matemática e bancos de dados. Dentro dessas linhas, serão tratadas questões em aberto associadas às principais componentes de um ambiente de pesquisa em eScience: armazenamento, processamento, análise e visualização de grandes volumes de dados científicos. Os pesquisadores principais têm histórico de cooperação e coordenação de projetos nessas linhas. Questões de interoperalidade permeiam todo o projeto.. Situação: Em andamento; Natureza: Pesquisa.</font></i><br><i><font size=-1>Membro: <a href="http://lattes.cnpq.br/2240951178648368">Roberto Marcondes Cesar Junior</a>.</font></td></tr>
+            </table></div>
+                    </table>
+                <br><p><br>(*) Relatório criado com produções desde 2010 até 2018
+<br>Data de processamento: 22/10/2018 11:21:04<br>         <div id="footer">         Relatório gerado por <a href="http://scriptlattes.sourceforge.net/">scriptLattes V8.11</a>.         Os resultados estão sujeitos a falhas devido a inconsistências no preenchimento dos CVs Lattes. E-mail de contato: <a href="mailto:admin@email.com">admin@email.com</a>         </div> <script type="text/javascript">            var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");            document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));            </script>            <script type="text/javascript">            try {              var pageTracker = _gat._getTracker("UA-5266248-1");              pageTracker._trackPageview();            } catch(err) {}            </script></body></html>
+              

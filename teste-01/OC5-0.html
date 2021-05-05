@@ -1,0 +1,203 @@
+
+                <html><head><meta http-equiv="Content-Type" content="text/html; charset=utf8"><meta name="Generator" content="scriptLattes"><title>teste-01</title><link rel="stylesheet" href="css/scriptLattes.css" type="text/css"><link rel="stylesheet" type="text/css" href="css/jquery.dataTables.css"><link rel="stylesheet" type="text/css" href="css/dataTables.colVis.min.css"><script type="text/javascript" charset="utf8" src="js/jquery.min.js"></script><script type="text/javascript" charset="utf8" src="js/jquery.dataTables.min.js"></script><script type="text/javascript" charset="utf8" src="js/dataTables.colVis.min.js"></script><script src="http://professor.ufabc.edu.br/~jesus.mena/sorttable.js"></script></head><body><div id="header2"> <button onClick="history.go(-1)">Voltar</button><h2>teste-01</h2></div>
+                
+        <script type="text/javascript" src="./jquery.min.js"></script>
+        <!--
+        <script type="text/javascript" src="./highcharts.js"></script>
+        <script type="text/javascript" src="./exporting.js"></script>
+        <script type="text/javascript" src="./drilldown.js"></script>
+        -->
+
+        <script src="http://code.highcharts.com/highcharts.js"></script>
+        <script src="http://code.highcharts.com/modules/drilldown.js"></script>
+        <script src="http://code.highcharts.com/modules/exporting.js"></script>
+
+        <script type="text/javascript">
+        // Load the fonts
+        Highcharts.createElement('link', {
+           href: 'http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700',
+           rel: 'stylesheet',
+           type: 'text/css'
+        }, null, document.getElementsByTagName('head')[0]);
+
+        Highcharts.theme = {
+   colors: ["#118D95", "#8085e9", "#8d4654", "#7798BF", "#aaeeee", "#ff0066", "#eeaaee", "#2b908f", "#90ee7e", "#55BF3B", "#DF5353", "#7798BF", "#aaeeee"],
+   chart: {
+      backgroundColor: null,
+      style: {
+         fontFamily: "'Source Sans Pro', 'sans-serif'"
+      }
+   },
+   title: {
+      style: {
+         color: 'black',
+         fontSize: '16px',
+         fontWeight: 'bold'
+      }
+   },
+   subtitle: {
+      style: {
+         color: 'black'
+      }
+   },
+   tooltip: {
+      borderWidth: 0
+   },
+   legend: {
+      itemStyle: {
+         fontWeight: 'bold',
+         fontSize: '13px'
+      }
+   },
+   xAxis: {
+      labels: {
+         style: {
+            color: '#6e6e70'
+         }
+      }
+   },
+   yAxis: {
+      labels: {
+         style: {
+            color: '#6e6e70'
+         }
+      }
+   },
+   plotOptions: {
+      series: {
+         shadow: true
+      },
+      candlestick: {
+         lineColor: '#404048'
+      },
+      map: {
+         shadow: false
+      }
+   },
+
+   // Highstock specific
+   navigator: {
+      xAxis: {
+         gridLineColor: '#D0D0D8'
+      }
+   },
+   rangeSelector: {
+      buttonTheme: {
+         fill: 'white',
+         stroke: '#C0C0C8',
+         'stroke-width': 1,
+         states: {
+            select: {
+               fill: '#D0D0D8'
+            }
+         }
+      }
+   },
+   scrollbar: {
+      trackBorderColor: '#C0C0C8'
+   },
+
+   // General
+   background2: '#E0E0E8'
+};
+
+        Highcharts.setOptions(Highcharts.theme);
+        $(function () {
+            $('#container').highcharts({subtitle: {text: ''}, 
+title: {text: 'Iniciação científica'}, 
+series: [{data: [[2010,
+1],
+[2013,
+2],
+[2014,
+3],
+[2015,
+1],
+[2016,
+2],
+[2017,
+7],
+[2018,
+5]], 
+name: 'Total'}], 
+yAxis: {labels: {overflow: 'justify'}, 
+title: {text: 'Quantidade', 
+align: 'middle'}, 
+stackLabels: {enabled: true, 
+format: '{stack}'}, 
+min: 0}, 
+chart: {type: 'column', 
+height: 300}, 
+tooltip: {pointFormat: '<span style="color:{series.color}">\u25CF</span> {series.name}: <b>{point.y}</b><br/>', 
+shared: false, 
+headerFormat: '<span style="font-size: 10px">{point.key}{point.stack}{series.stack}</span><br/>', 
+valueSuffix: '', 
+enabled: true}, 
+credits: {enabled: false}, 
+plotOptions: {column: {stacking: null}, 
+series: {shadow: 'true'}, 
+bar: {dataLabels: {enabled: false}}}, 
+xAxis: {type: 'category', 
+title: {text: ''}}, 
+legend: {layout: 'vertical', 
+align: 'right', 
+enabled: false, 
+borderWidth: 1, 
+backgroundColor: (Highcharts.theme && Highcharts.theme.legendBackgroundColor || '#FFFFFF'), 
+verticalAlign: 'middle', 
+shadow: true}});
+        });
+        </script>
+        
+                <h3>Iniciação científica</h3> <br>
+                    <div id="container" style="min-width: 310px; max-width: 1920px; height: 300; margin: 0"></div>
+                    Número total de itens: 21<br>
+                    
+                    
+                    <div id="dv-year-2018"><h3 class="year">2018</h3> <table>
+            <tr valign="top"><td>1. &nbsp;</td> <td>Ana Laura Belotto Claudio (coorientador). <b>Identificação de similaridade em disciplinas do catálogo da UFABC</b>. (Graduando em Ciência da Computação) - Universidade Federal do ABC, PIC-UFABC. 2018.<br><i><font size=-1>Orientador: <a href="http://lattes.cnpq.br/4727357182510680">Jesús Pascual Mena Chalco</a>.</font></td></tr>
+            
+            <tr valign="top"><td>2. &nbsp;</td> <td>Arthur Veloso Kamienski. <b>Identificando pesquisadores relevantes em grafos de genealogia acadêmica: Uma abordagem baseada em PageRank</b>. (Graduando em Ciência da Computação) - Universidade Federal do ABC, Fundação de Amparo à Pesquisa do Estado de São Paulo. 2018.<br><i><font size=-1>Orientador: <a href="http://lattes.cnpq.br/4727357182510680">Jesús Pascual Mena Chalco</a>.</font></td></tr>
+            
+            <tr valign="top"><td>3. &nbsp;</td> <td>Brian Alves Andreossi. <b>Heurísticas computacionais para identificação e redução de potenciais conflitos de interesse em bancas de concursos</b>. (Graduando em Ciência da Computação) - Universidade Federal do ABC, . 2018.<br><i><font size=-1>Orientador: <a href="http://lattes.cnpq.br/4727357182510680">Jesús Pascual Mena Chalco</a>.</font></td></tr>
+            
+            <tr valign="top"><td>4. &nbsp;</td> <td>Erick Akio Oti Aoyagui (coorientador). <b>Detecção de comunidades em grafos de genealogia acadêmica através de propagação de rótulos</b>. (Graduando em Ciência da Computação) - Universidade Federal do ABC, PIC-UFABC. 2018.<br><i><font size=-1>Orientador: <a href="http://lattes.cnpq.br/4727357182510680">Jesús Pascual Mena Chalco</a>.</font></td></tr>
+            
+            <tr valign="top"><td>5. &nbsp;</td> <td>Isabela Maria Biagioni Pedro (coorientador). <b>Análise de regiões urbanas brasileiras com base em características da configuração de logradouros</b>. (Graduando em Ciência e Tecnologia) - Universidade Federal do ABC, PIC-UFABC. 2018.<br><i><font size=-1>Orientador: <a href="http://lattes.cnpq.br/4727357182510680">Jesús Pascual Mena Chalco</a>.</font></td></tr>
+            </table></div><div id="dv-year-2017"><h3 class="year">2017</h3> <table>
+            <tr valign="top"><td>1. &nbsp;</td> <td>Ana da Silva de Paula. <b>Análise do paradoxo da amizade em árvores de genealogia acadêmica</b>. Iniciação Científica - Universidade Federal do ABC, PICME. 2017.<br><i><font size=-1>Orientador: <a href="http://lattes.cnpq.br/4727357182510680">Jesús Pascual Mena Chalco</a>.</font></td></tr>
+            
+            <tr valign="top"><td>2. &nbsp;</td> <td>Ana Laura Belotto Claudio. <b>Classificação automática de filmes por análise de texto: uma abordagem baseada em aprendizado de máquina (coorientador)</b>. (Graduando em Ciência e Tecnologia) - Universidade Federal do ABC, PIC-UFABC. 2017.<br><i><font size=-1>Orientador: <a href="http://lattes.cnpq.br/4727357182510680">Jesús Pascual Mena Chalco</a>.</font></td></tr>
+            
+            <tr valign="top"><td>3. &nbsp;</td> <td>Diego Pereira de Lima. <b>Detecção automática de plágio em código-fonte Java: estudo e desenvolvimento de algoritmos</b>. (Graduando em Ciência da Computação) - Universidade Federal do ABC, PIBIC-UFABC. 2017.<br><i><font size=-1>Orientador: <a href="http://lattes.cnpq.br/4727357182510680">Jesús Pascual Mena Chalco</a>.</font></td></tr>
+            
+            <tr valign="top"><td>4. &nbsp;</td> <td>Lara Tenore Ferreira. <b>Análise webométrica da UFABC: Uma abordagem computacional baseada emgrafos de hiperlinks</b>. (Graduando em Ciência e Tecnologia) - Universidade Federal do ABC, UFABC. 2017.<br><i><font size=-1>Orientador: <a href="http://lattes.cnpq.br/4727357182510680">Jesús Pascual Mena Chalco</a>.</font></td></tr>
+            
+            <tr valign="top"><td>5. &nbsp;</td> <td>Lucas Theodoro Guimarães de Almeida. <b>Inter- e intra-relação dos sub-domínios da UFABC através de grafos de hiperlinks: Uma abordagemwebométrica</b>. (Graduando em Ciência e Tecnologia) - Universidade Federal do ABC, . 2017.<br><i><font size=-1>Orientador: <a href="http://lattes.cnpq.br/4727357182510680">Jesús Pascual Mena Chalco</a>.</font></td></tr>
+            
+            <tr valign="top"><td>6. &nbsp;</td> <td>Nathalia Tescarollo Gonçalves. <b>Análise do deslocamento geográfico de pesquisadores em relação ao Brasil: migrações endógenas, imigrações e emigrações (Coorientador)</b>. (Graduando em Ciência e Tecnologia) - Universidade Federal do ABC, PIC-UFABC. 2017.<br><i><font size=-1>Orientador: <a href="http://lattes.cnpq.br/4727357182510680">Jesús Pascual Mena Chalco</a>.</font></td></tr>
+            
+            <tr valign="top"><td>7. &nbsp;</td> <td>Victor Hugo Silva Oliveira. <b>Análise de websites institucionais usando webometria e teoria espectral dos grafos</b>. (Graduando em Ciência da Computação) - Universidade Federal do ABC, . 2017.<br><i><font size=-1>Orientador: <a href="http://lattes.cnpq.br/4727357182510680">Jesús Pascual Mena Chalco</a>.</font></td></tr>
+            </table></div><div id="dv-year-2016"><h3 class="year">2016</h3> <table>
+            <tr valign="top"><td>1. &nbsp;</td> <td>Diego Pereira de Lima. <b>Detecção de similaridade em códigos-fonte através de agrupamento do fluxo de processamento</b>. (Graduando em Ciência da Computação) - Universidade Federal do ABC, PIBIC-UFABC. 2016.<br><i><font size=-1>Orientador: <a href="http://lattes.cnpq.br/4727357182510680">Jesús Pascual Mena Chalco</a>.</font></td></tr>
+            
+            <tr valign="top"><td>2. &nbsp;</td> <td>Rodrigo Martins de Oliveira. <b>Metamotifs em redes complexas: Uma nova abordagem para a análise de relaçõs entre motifs</b>. (Graduando em Ciência da Computação) - Universidade Federal do ABC, PIBIC-UFABC. 2016.<br><i><font size=-1>Orientador: <a href="http://lattes.cnpq.br/4727357182510680">Jesús Pascual Mena Chalco</a>.</font></td></tr>
+            </table></div><div id="dv-year-2015"><h3 class="year">2015</h3> <table>
+            <tr valign="top"><td>1. &nbsp;</td> <td>Gabriel Augusto Bianchi Azevedo Ferreira. <b>Olhando para a cidade: Big Data e visão computacional para análise de ambientes urbanos</b>. (Graduando em Engenharia Mecânica - Ênfase em Mecatrônica) - Universidade de São Paulo, Fundação de Amparo à Pesquisa do Estado de São Paulo. 2015.<br><i><font size=-1>Orientador: <a href="http://lattes.cnpq.br/2240951178648368">Roberto Marcondes Cesar Junior</a>.</font></td></tr>
+            </table></div><div id="dv-year-2014"><h3 class="year">2014</h3> <table>
+            <tr valign="top"><td>1. &nbsp;</td> <td>Marcelo Schirbel Gomes. <b>Estudo, desenvolvimento e implementação de algoritmos computacionais de casamento aproximado entre strings</b>. (Graduando em Ciência da Computação) - Universidade Federal do ABC, PIC-UFABC. 2014.<br><i><font size=-1>Orientador: <a href="http://lattes.cnpq.br/4727357182510680">Jesús Pascual Mena Chalco</a>.</font></td></tr>
+            
+            <tr valign="top"><td>2. &nbsp;</td> <td>Rodrigo Martins de Oliveira. <b>Motifs em redes complexas: estudo, desenvolvimento e implementação de algoritmos eficientes em redes de grande porte</b>. (Graduando em Ciência da Computação) - Universidade Federal do ABC, PIC-UFABC. 2014.<br><i><font size=-1>Orientador: <a href="http://lattes.cnpq.br/4727357182510680">Jesús Pascual Mena Chalco</a>.</font></td></tr>
+            
+            <tr valign="top"><td>3. &nbsp;</td> <td>Victor Campagner de Barros. <b>Inferência de gênero baseada em nomes completos: estudo, desenvolvimento e implementação de algoritmos de aprendizado de máquina supervisionado</b>. (Graduando em Ciência da Computação) - Universidade Federal do ABC, PIC-UFABC. 2014.<br><i><font size=-1>Orientador: <a href="http://lattes.cnpq.br/4727357182510680">Jesús Pascual Mena Chalco</a>.</font></td></tr>
+            </table></div><div id="dv-year-2013"><h3 class="year">2013</h3> <table>
+            <tr valign="top"><td>1. &nbsp;</td> <td>Rodrigo Martins de Oliveira. <b>Problemas de timetabling: Um estudo comparativo de algoritmos de otimização combinatória (PDPD)</b>. (Graduando em Ciência e Tecnologia) - Universidade Federal do ABC, Conselho Nacional de Desenvolvimento Científico e Tecnológico. 2013.<br><i><font size=-1>Orientador: <a href="http://lattes.cnpq.br/4727357182510680">Jesús Pascual Mena Chalco</a>.</font></td></tr>
+            
+            <tr valign="top"><td>2. &nbsp;</td> <td>Vinicius Fonseca Gomes. <b>Estudo comparativo de métricas topológicas em redes de coautoria científica dos docentes da UFABC (PDPD)</b>. (Graduando em Ciência e Tecnologia) - Universidade Federal do ABC, Conselho Nacional de Desenvolvimento Científico e Tecnológico. 2013.<br><i><font size=-1>Orientador: <a href="http://lattes.cnpq.br/4727357182510680">Jesús Pascual Mena Chalco</a>.</font></td></tr>
+            </table></div><div id="dv-year-2010"><h3 class="year">2010</h3> <table>
+            <tr valign="top"><td>1. &nbsp;</td> <td>Marcel Santos Claro. <b>Rotulação e extração de contornos de estruturas rami cadas</b>. Iniciação Científica - Universidade de São Paulo, Fundação de Amparo à Pesquisa do Estado de São Paulo. 2010.<br><i><font size=-1>Orientador: <a href="http://lattes.cnpq.br/2240951178648368">Roberto Marcondes Cesar Junior</a>.</font></td></tr>
+            </table></div>
+                    </table>
+                <br><p><br>(*) Relatório criado com produções desde 2010 até 2018
+<br>Data de processamento: 22/10/2018 11:21:04<br>         <div id="footer">         Relatório gerado por <a href="http://scriptlattes.sourceforge.net/">scriptLattes V8.11</a>.         Os resultados estão sujeitos a falhas devido a inconsistências no preenchimento dos CVs Lattes. E-mail de contato: <a href="mailto:admin@email.com">admin@email.com</a>         </div> <script type="text/javascript">            var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");            document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));            </script>            <script type="text/javascript">            try {              var pageTracker = _gat._getTracker("UA-5266248-1");              pageTracker._trackPageview();            } catch(err) {}            </script></body></html>
+              

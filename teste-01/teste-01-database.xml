@@ -1,0 +1,2654 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<curriculo_lattes data_processamento="22/10/2018 11:21:04">
+  <pesquisador id="2837012019824386">
+    <identificacao>
+      <identificador10></identificador10>
+      <nome_inicial>Andréa Britto Mattos</nome_inicial>
+      <nome_completo>Andréa Britto Mattos</nome_completo>
+      <nome_citacao_bibliografica>MATTOS, A. B.;MATTOS, ANDRÉA BRITTO;MATTOS, A B</nome_citacao_bibliografica>
+      <sexo>Masculino</sexo>
+    </identificacao>
+    <idiomas>
+      <idioma>
+          <nome>Inglês</nome>
+          <proficiencia>Compreende Bem, Fala Bem, Lê Bem, Escreve Bem.</proficiencia>
+      </idioma>
+      <idioma>
+          <nome>Espanhol</nome>
+          <proficiencia>Compreende Bem, Fala Bem, Lê Bem, Escreve Bem.</proficiencia>
+      </idioma>
+    </idiomas>
+    <endereco>
+      <endereco_profissional>Universidade de São Paulo, Instituto de Matemática e Estatística. Rua do Matão, 1010 - Cidade Universitária Butantã 05508-090 - Sao Paulo, SP - Brasil URL da Homepage: http://www.vision.ime.usp.br/~dedea/</endereco_profissional>
+      <endereco_profissional_lat>-23.5598580</endereco_profissional_lat>
+      <endereco_profissional_long>-46.7329875</endereco_profissional_long>
+    </endereco>
+    <formacao_academica>
+        <formacao>
+          <ano_inicio>2009</ano_inicio>
+          <ano_conclusao>2011</ano_conclusao>
+          <tipo>Mestrado em Ciências da Computação</tipo>
+          <nome_instituicao>Universidade de São Paulo, USP, Brasil</nome_instituicao>
+          <descricao>Título: Animação de Faces Tridimensionais Baseada em Registro Estrutural,Ano de Obtenção: 2011. Orientador: Roberto Marcondes Cesar Junior. Bolsista do(a): Fundação de Amparo à Pesquisa do Estado de São Paulo. Grande área: Ciências Exatas e da Terra / Área: Ciência da Computação.</descricao>
+        </formacao>
+        <formacao>
+          <ano_inicio>2005</ano_inicio>
+          <ano_conclusao>2008</ano_conclusao>
+          <tipo>Graduação em Bacharelado em Ciência da Computação</tipo>
+          <nome_instituicao>Universidade de São Paulo, USP, Brasil</nome_instituicao>
+          <descricao>Título: Sistema de Animação Facial Tridimensional e Síntese de Voz. Orientador: Roberto Marcondes Cesar Junior.</descricao>
+        </formacao>
+    </formacao_academica>
+    <premios_titulos>
+        <premio_titulo>
+          <ano>2014</ano>
+          <descricao>Winner of The Paciello Group Web Accessibility Challenge in W4A'14, 11th Web for All Conference.</descricao>
+        </premio_titulo>
+    </premios_titulos>
+    <colaboradores>
+        <id_lattes_colaborador>8987939273905087</id_lattes_colaborador>
+        <id_lattes_colaborador>2837012019824386</id_lattes_colaborador>
+        <id_lattes_colaborador>6278715393178229</id_lattes_colaborador>
+        <id_lattes_colaborador>2240951178648368</id_lattes_colaborador>
+        <id_lattes_colaborador>9500245604678806</id_lattes_colaborador>
+        <id_lattes_colaborador>7411185094432621</id_lattes_colaborador>
+        <id_lattes_colaborador>3297406696314967</id_lattes_colaborador>
+        <id_lattes_colaborador>4727357182510680</id_lattes_colaborador>
+        <id_lattes_colaborador>4259409970128066</id_lattes_colaborador>
+    </colaboradores>
+    <texto_em_jornal>
+        <texto>
+          <ano>0</ano>
+          <autores>MATTOS, A B</autores>
+          <titulo>Olhar Eletrônico</titulo>
+          <nome_jornal>Pesquisa FAPESP</nome_jornal>
+          <data></data>
+          <volume></volume>
+          <paginas></paginas>
+        </texto>
+        <texto>
+          <ano>0</ano>
+          <autores>MATTOS, A B</autores>
+          <titulo>A New Technology To Help Visually Impaired Shoppers Is Being Tested By IBM in Brazil</titulo>
+          <nome_jornal>Forbes</nome_jornal>
+          <data></data>
+          <volume></volume>
+          <paginas></paginas>
+        </texto>
+    </texto_em_jornal>
+    <trabalho_completo_congresso>
+        <trabalho_completo>
+          <doi>http://dx.doi.org/10.1145/2596695.2596707</doi>
+          <autores>MATTOS, ANDRÉA BRITTO; CARDONHA, CARLOS ; GALLO, DIEGO ; AVEGLIANO, PRISCILLA ; HERRMANN, RICARDO ; BORGER, SERGIO</autores>
+          <titulo>Marker-based image recognition of dynamic content for the visually impaired</titulo>
+          <nome_evento>the 11th Web for All Conference</nome_evento>
+          <ano>2014</ano>
+          <volume></volume>
+          <paginas>1</paginas>
+        </trabalho_completo>
+        <trabalho_completo>
+          <doi></doi>
+          <autores>MATTOS, A. B.; HERRMANN, R. G. ; SHIGENO, K. K. ; FERIS, R. S.</autores>
+          <titulo>A Mission-Oriented Citizen Science Platform for Efficient Flower Classification Based on Combination of Feature Descriptors</titulo>
+          <nome_evento>International Workshop on Environmental Multimedia Retrieval 2014</nome_evento>
+          <ano>2014</ano>
+          <volume></volume>
+          <paginas></paginas>
+        </trabalho_completo>
+        <trabalho_completo>
+          <doi></doi>
+          <autores>MATTOS, A. B.; KAMPEN, M. V. ; CARRICO, C. ; CRIVELLARO, A.</autores>
+          <titulo>E-commerce Market Analysis from a Graph-Based Product Classifier</titulo>
+          <nome_evento>Computational Processing of the Portuguese Language</nome_evento>
+          <ano>2012</ano>
+          <volume></volume>
+          <paginas></paginas>
+        </trabalho_completo>
+        <trabalho_completo>
+          <doi></doi>
+          <autores>MATTOS, A. B.; MENA-CHALCO, J. P. ; CESAR JUNIOR, R. M.</autores>
+          <titulo>3D facial animation based on structural registration</titulo>
+          <nome_evento>XXIV Sibgrapi (Conference on Graphics</nome_evento>
+          <ano>2011</ano>
+          <volume></volume>
+          <paginas></paginas>
+        </trabalho_completo>
+        <trabalho_completo>
+          <doi></doi>
+          <autores>MATTOS, A. B.; MONTAGNER, I. ; CRIVELLARO, A. ; KLAVA, B. ; BRUN, M.</autores>
+          <titulo>Computer vision research at IBOPE Media automation tools to reduce human intervention</titulo>
+          <nome_evento>XXIV Sibgrapi (Conference on Graphics</nome_evento>
+          <ano>2011</ano>
+          <volume></volume>
+          <paginas></paginas>
+        </trabalho_completo>
+        <trabalho_completo>
+          <doi>http://dx.doi.org/10.1109/SIBGRAPI.2010.44</doi>
+          <autores>MATTOS, A B; MENA-CHALCO, J P ; CESAR, R M ; VELHO, L</autores>
+          <titulo>3D Linear Facial Animation Based on Real Data</titulo>
+          <nome_evento>2010 23rd SIBGRAPI Conference on Graphics</nome_evento>
+          <ano>2010</ano>
+          <volume></volume>
+          <paginas>271</paginas>
+        </trabalho_completo>
+    </trabalho_completo_congresso>
+    <resumo_expandido_congresso>
+        <resumo_expandido>
+          <doi>http://dx.doi.org/10.1145/2578726.2582620</doi>
+          <autores>MATTOS, ANDRÉA BRITTO; HERRMANN, RICARDO GUIMARÃES ; SHIGENO, KELLY KIYUMI ; FERIS, ROGERIO SCHMIDT</autores>
+          <titulo>Flower Classification for a Citizen Science Mobile App</titulo>
+          <nome_evento>International Conference, 2014</nome_evento>
+          <ano>2014</ano>
+          <volume></volume>
+          <paginas>532</paginas>
+        </resumo_expandido>
+        <resumo_expandido>
+          <doi>http://dx.doi.org/10.1145/2596695.2596722</doi>
+          <autores>MATTOS, ANDRÉA BRITTO; HERRMANN, RICARDO ; CARDONHA, CARLOS ; GALLO, DIEGO ; AVEGLIANO, PRISCILLA ; BORGER, SERGIO</autores>
+          <titulo>Marker-assisted recognition of dynamic content in public spaces</titulo>
+          <nome_evento>the 11th Web for All Conference, 2014</nome_evento>
+          <ano>2014</ano>
+          <volume></volume>
+          <paginas>1</paginas>
+        </resumo_expandido>
+        <resumo_expandido>
+          <doi></doi>
+          <autores>AVEGLIANO, P. ; CARDONHA, C. ; MATTOS, A. B. ; BORGER, S.</autores>
+          <titulo>Shelf replenishment optimization towards the confluence of mobile and analytics</titulo>
+          <nome_evento>INFORMS, 2014, Boston. 14th Annual Conference on Business Analytics</nome_evento>
+          <ano>2014</ano>
+          <volume></volume>
+          <paginas></paginas>
+        </resumo_expandido>
+    </resumo_expandido_congresso>
+    <participacao_evento>
+        <evento>
+          <titulo>International Conference on Multimedia Retrieval - ICMR. 2014. (Congresso).</titulo>
+          <ano>2014</ano>
+        </evento>
+        <evento>
+          <titulo>International Workshop on Environmental Multimedia Retrieval - EMR. 2014. (Oficina).</titulo>
+          <ano>2014</ano>
+        </evento>
+        <evento>
+          <titulo>The Web for All Conference - W4A. 2014. (Congresso).</titulo>
+          <ano>2014</ano>
+        </evento>
+        <evento>
+          <titulo>World Wide Web Conference - WWW. 2014. (Congresso).</titulo>
+          <ano>2014</ano>
+        </evento>
+        <evento>
+          <titulo>Computational Processing of the Portuguese Language - PROPOR. 2012. (Congresso).</titulo>
+          <ano>2012</ano>
+        </evento>
+        <evento>
+          <titulo>XXIV Sibgrapi (Conference on Graphics, Patterns and Images). 2011. (Congresso).</titulo>
+          <ano>2011</ano>
+        </evento>
+        <evento>
+          <titulo>XXIII Sibgrapi (Conference on Graphics, Patterns and Images). 2010. (Congresso).</titulo>
+          <ano>2010</ano>
+        </evento>
+    </participacao_evento>
+    <organizacao_evento>
+        <evento>
+          <titulo></titulo>
+          <natureza></natureza>
+          <ano>0</ano>
+        </evento>
+        <evento>
+          <titulo></titulo>
+          <natureza></natureza>
+          <ano>0</ano>
+        </evento>
+    </organizacao_evento>
+  </pesquisador>
+  <pesquisador id="4727357182510680">
+    <identificacao>
+      <identificador10></identificador10>
+      <nome_inicial>Jesús P. Mena-Chalco</nome_inicial>
+      <nome_completo>Jesús Pascual Mena Chalco</nome_completo>
+      <nome_citacao_bibliografica>MENA-CHALCO, J. P.;MENA CHALCO, J. P.;MENA-CHALCO, JESÚS P.;MENA-CHALCO, JESÚS PASCUAL;MENA-CHALCO, JESUS P.;MENA-CHALCO, JESÚS</nome_citacao_bibliografica>
+      <sexo>Masculino</sexo>
+    </identificacao>
+    <idiomas>
+      <idioma>
+          <nome>Espanhol</nome>
+          <proficiencia>Compreende Bem, Fala Bem, Lê Bem, Escreve Bem.</proficiencia>
+      </idioma>
+      <idioma>
+          <nome>Português</nome>
+          <proficiencia>Compreende Bem, Fala Bem, Lê Bem, Escreve Bem.</proficiencia>
+      </idioma>
+      <idioma>
+          <nome>Inglês</nome>
+          <proficiencia>Compreende Bem, Fala Razoavelmente, Lê Bem, Escreve Bem.</proficiencia>
+      </idioma>
+    </idiomas>
+    <endereco>
+      <endereco_profissional>Universidade Federal do ABC, Centro de Matemática, Computação e Cognição. Avenida dos Estados 5001 Bairro Bangu 09210580 - Santo André, SP - Brasil Telefone: (11) 49967950 URL da Homepage: http://professor.ufabc.edu.br/~jesus.mena</endereco_profissional>
+      <endereco_profissional_lat>-23.6447853</endereco_profissional_lat>
+      <endereco_profissional_long>-46.5305749</endereco_profissional_long>
+    </endereco>
+    <formacao_academica>
+        <formacao>
+          <ano_inicio>2005</ano_inicio>
+          <ano_conclusao>2010</ano_conclusao>
+          <tipo>Doutorado em Ciências da Computação</tipo>
+          <nome_instituicao>Universidade de São Paulo, USP, Brasil</nome_instituicao>
+          <descricao>com período co-tutela em Instituto Nacional de Matemática Pura e Aplicada (Orientador: Luiz Carlos Pacheco Rodrigues Velho). Título: Reconstrução de faces 3D através de espaços de componentes principais, Ano de obtenção: 2010. Orientador: Roberto Marcondes Cesar Junior. Bolsista do(a): CAPES - Programa de Estudantes-Convênio de Pós-Graduação, CAPES PEC/PG, Brasil. Palavras-chave: Pattern Recognition; computer vision. Grande área: Ciências Exatas e da Terra Grande Área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Reconhecimento de Padrões. Setores de atividade: Informática.</descricao>
+        </formacao>
+        <formacao>
+          <ano_inicio>2003</ano_inicio>
+          <ano_conclusao>2005</ano_conclusao>
+          <tipo>Mestrado em Ciências da Computação</tipo>
+          <nome_instituicao>Universidade de São Paulo, USP, Brasil</nome_instituicao>
+          <descricao>Título: Identificação de regiões codificantes de proteína através da transformada modificada de Morlet,Ano de Obtenção: 2005. Orientador: Roberto Marcondes Cesar Junior. Bolsista do(a): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior, CAPES, Brasil. Palavras-chave: Bioinformatics; Digital Signal Processing; Pattern Recognition. Grande área: Ciências Exatas e da Terra</descricao>
+        </formacao>
+        <formacao>
+          <ano_inicio>1996</ano_inicio>
+          <ano_conclusao>2000</ano_conclusao>
+          <tipo>Graduação em Engenharia de Sistemas</tipo>
+          <nome_instituicao>Universidad Nacional de San Agustín, UNSA, Peru</nome_instituicao>
+          <descricao>Título: Identificación y clasificación de regiones codificantes de proteínas: un estudio comparativo de métodos independientes del modelo de ADN codificante.</descricao>
+        </formacao>
+    </formacao_academica>
+    <projetos_pesquisa>
+        <projeto>
+          <ano_inicio>2014</ano_inicio>
+          <ano_conclusao>Atual</ano_conclusao>
+          <nome>Documentação e análise de árvores de genealogia acadêmica do Brasil (Projeto MCTI/CNPq/Universal 2014)</nome>
+          <descricao>Descrição: No decorrer do tempo a ciência evolui em diferentes ambientes e ritmos que podem ser dados por incrementos graduais ou por revoluções que permitiram responder os principais desafios de cada época. No ambiente acadêmico, esta evolução é facilitada pelos pesquisadores orientadores ou formadores de recursos humanos nos níveis de graduação, mestrado, doutorado ou pós-doutorado. Sob este aspecto, dada a dedicação à formação de cientistas, muitos pesquisadores acadêmicos tiveram um papel extremamente importante na ciência. Até hoje, com a finalidade de preservar a história acadêmica, poucos empreendimentos foram realizados para registrar e documentar a influência que cada pesquisador têm exercido sobre seus orientandos ao longo dos anos. Nesse contexto, a genealogia acadêmica é utilizada para documentar e organizar, através de uma árvore (ou conjuntos de árvores) de genealogia, pesquisadores por meio de suas relações (linhagem) de orientação ou supervisão acadêmica. No Brasil, a identificação dos pesquisadores ancestrais é uma tarefa desafiadora pois atualmente não existem repositórios que permitam o registro de informações da linhagem acadêmica de pesquisadores associados a diferentes áreas de atuação acadêmica. Este projeto concentra-se no desenvolvimento de uma metodologia computacional para a geração e análise de árvores de genealogia acadêmica para pesquisadores que formaram ou tiveram formação no Brasil.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3) / Mestrado acadêmico: (2) / Doutorado: (1) . Integrantes: Jesús Pascual Mena Chalco - Coordenador / Etelvino José Henriques Bechara - Integrante.Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio financeiro. Número de produções C, T A: 7 / Número de orientações: 3</descricao>
+        </projeto>
+        <projeto>
+          <ano_inicio>2013</ano_inicio>
+          <ano_conclusao>Atual</ano_conclusao>
+          <nome>NUVEM - Núcleo Estratégico de Universos Virtuais, Entretenimento e Mobilidade</nome>
+          <descricao>Descrição: O Núcleo Estratégico de Universos Virtuais, Entretenimento e Mobilidade (NUVEM) tem o objetivo de produzir novos conhecimentos, formar recursos humanos de alto nível e gerar soluções inovadoras e interdisciplinares em áreas relacionadas com as Tecnologias de Informação e Comunicação (TICs) e suas interações com demandas da sociedade, como melhoria da qualidade de vida dos cidadãos e sustentabilidade.. Situação: Em andamento; Natureza: Pesquisa.</descricao>
+        </projeto>
+        <projeto>
+          <ano_inicio>2012</ano_inicio>
+          <ano_conclusao>Atual</ano_conclusao>
+          <nome>NAP-USP eScience</nome>
+          <descricao>Descrição: Modern science is interdisciplinary and data-intensive. For instance, in the 1000 Genomes Project (www.1000genomes.org), the comparative study of 629 individuals has already generated 7.3 TB of data. Analogous situations exist in fields such as astronomy, agriculture, social sciences, etc. Ten years ago, the problem was how to obtain data. Today, the bottleneck is the need for new computational strategies and tools so that scientists can manage these massive volumes of heterogeneous, distributed, data, so that they can generate new knowledge from the processing, analysis and visualization of the data. This launched the basis of the so-called eScience: the combination of advanced research in computer science and mathematical modeling to allow and accelerate research in other knowledge domains. National programs in eScience have been created in the US, GB, Australia and other countries, that recognized the importance of this theme for the advancement of science. The main goal of this project is the design and construction of a collaborative network for research in eScience, in a partnership that involves computer science, mathematical modeling and specific domains in the exact, life, agricultural sciences and social sciences.. Situação: Em andamento; Natureza: Pesquisa.</descricao>
+        </projeto>
+        <projeto>
+          <ano_inicio>2011</ano_inicio>
+          <ano_conclusao>2013</ano_conclusao>
+          <nome>Análise e síntese de faces e expressões faciais em 3D</nome>
+          <descricao>Descrição: O projeto prevê o desenvolvimento de métodos e aplicações de Computação Gráfica, Visão Computacional e Reconhecimento de Padrões para a análise (estudo/caracterização) e síntese (geração/criação) de faces e expressões faciais em 3D. Neste projeto serão estudados o problemas de análise e síntese de faces 3D considerando tanto um banco de dados de faces 3D reais, quanto modelos de faces sintéticos. O principal foco do projeto reside no desenvolvimento de técnicas para a reconstrução e caricaturização facial 3D a partir de amostras de treinamento de faces reais.. Situação: Concluído; Natureza: Pesquisa.</descricao>
+        </projeto>
+    </projetos_pesquisa>
+    <area_atuacao>
+          <descricao>Grande área: Ciências Exatas e da Terra / Área: Ciência da Computação.</descricao>
+          <descricao>Grande área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Reconhecimento de Padrões.</descricao>
+          <descricao>Grande área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Bibliometria.</descricao>
+          <descricao>Grande área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Cientometria.</descricao>
+          <descricao>Grande área: Ciências Sociais Aplicadas / Área: Ciência da Informação.</descricao>
+          <descricao>Grande área: Ciências Sociais Aplicadas / Área: Ciência da Informação / Subárea: Biblioteconomia/Especialidade: Métodos Quantitativos. Bibliometria.</descricao>
+    </area_atuacao>
+    <premios_titulos>
+        <premio_titulo>
+          <ano>2017</ano>
+          <descricao>(como orientador da IC de Ana Laura Belotto Claudio) Menção Honrosa no X Simpósio de Iniciação Científica da UFABC, UFABC.</descricao>
+        </premio_titulo>
+        <premio_titulo>
+          <ano>2016</ano>
+          <descricao>Prêmio de Excelência Acadêmica da UFABC no Programa de pós-graduação em Ciência da Computação, Pró-Reitoria de Pesquisa - UFABC.</descricao>
+        </premio_titulo>
+        <premio_titulo>
+          <ano>2015</ano>
+          <descricao>(como orientador do PDPD de Marcelo Schirbel Gomes) Menção Honrosa no VIII Simpósio de Iniciação Científica da UFABC, UFABC.</descricao>
+        </premio_titulo>
+        <premio_titulo>
+          <ano>2015</ano>
+          <descricao>(como orientador da IC de Rodrigo Martins de Oliveira) Menção Honrosa no VIII Simpósio de Iniciação Científica da UFABC, UFABC.</descricao>
+        </premio_titulo>
+        <premio_titulo>
+          <ano>2014</ano>
+          <descricao>(como orientador da IC de Rodrigo Martins de Oliveira) Menção Honrosa no VII Simpósio de Iniciação Científica da UFABC, UFABC.</descricao>
+        </premio_titulo>
+        <premio_titulo>
+          <ano>2012</ano>
+          <descricao>Melhor apresentação no VI Simpósio de Iniciação Científica e Pós-Graduação do IME-USP. Trabalho: Interação acadêmica dos docentes do IME-USP no período 2000-2011, IME-USP.</descricao>
+        </premio_titulo>
+        <premio_titulo>
+          <ano>2011</ano>
+          <descricao>Tese de doutorado selecionada entre as 10 melhores da áreas de Computação Gráfica e Processamento de Imagens no WTD do SIBGRAPI: '3D human face reconstruction using principal components spaces', SBC.</descricao>
+        </premio_titulo>
+        <premio_titulo>
+          <ano>2011</ano>
+          <descricao>Best Paper: Artigo selecionado entre os 3 melhores trabalhos do 'Computer Graphics, Virtual reality and Image Processing symposium' - CLEI2011., Publicação na edição especial do Electronic Notes in Theoretical Computer Science - ENTCS (Elsevier).</descricao>
+        </premio_titulo>
+    </premios_titulos>
+    <colaboradores>
+        <id_lattes_colaborador>2201580020088062</id_lattes_colaborador>
+        <id_lattes_colaborador>5183243664164009</id_lattes_colaborador>
+        <id_lattes_colaborador>4231401119207209</id_lattes_colaborador>
+        <id_lattes_colaborador>8077591135604655</id_lattes_colaborador>
+        <id_lattes_colaborador>2837012019824386</id_lattes_colaborador>
+        <id_lattes_colaborador>1689147340536405</id_lattes_colaborador>
+        <id_lattes_colaborador>4137970595713658</id_lattes_colaborador>
+        <id_lattes_colaborador>1225632464417175</id_lattes_colaborador>
+        <id_lattes_colaborador>8874849216659304</id_lattes_colaborador>
+        <id_lattes_colaborador>0926213060635986</id_lattes_colaborador>
+        <id_lattes_colaborador>6156509933307243</id_lattes_colaborador>
+        <id_lattes_colaborador>1068554491963326</id_lattes_colaborador>
+        <id_lattes_colaborador>3351423223842967</id_lattes_colaborador>
+        <id_lattes_colaborador>8420771612707965</id_lattes_colaborador>
+        <id_lattes_colaborador>9530134149603361</id_lattes_colaborador>
+        <id_lattes_colaborador>2552938367742788</id_lattes_colaborador>
+        <id_lattes_colaborador>8870386830890118</id_lattes_colaborador>
+        <id_lattes_colaborador>3088534305427464</id_lattes_colaborador>
+        <id_lattes_colaborador>5205312713550726</id_lattes_colaborador>
+        <id_lattes_colaborador>8651120265403591</id_lattes_colaborador>
+        <id_lattes_colaborador>2522777418118689</id_lattes_colaborador>
+        <id_lattes_colaborador>4833115415298367</id_lattes_colaborador>
+        <id_lattes_colaborador>6263519747443173</id_lattes_colaborador>
+        <id_lattes_colaborador>6723025825127615</id_lattes_colaborador>
+        <id_lattes_colaborador>1542169517430156</id_lattes_colaborador>
+        <id_lattes_colaborador>1343302903420183</id_lattes_colaborador>
+        <id_lattes_colaborador>8502570969357785</id_lattes_colaborador>
+        <id_lattes_colaborador>7877919355989843</id_lattes_colaborador>
+        <id_lattes_colaborador>9829199474735249</id_lattes_colaborador>
+        <id_lattes_colaborador>4727357182510680</id_lattes_colaborador>
+        <id_lattes_colaborador>4754764003480925</id_lattes_colaborador>
+        <id_lattes_colaborador>7427573617921461</id_lattes_colaborador>
+        <id_lattes_colaborador>3794241680729178</id_lattes_colaborador>
+        <id_lattes_colaborador>9836776931160228</id_lattes_colaborador>
+        <id_lattes_colaborador>9500245604678806</id_lattes_colaborador>
+        <id_lattes_colaborador>4643608666899616</id_lattes_colaborador>
+        <id_lattes_colaborador>4416858554787169</id_lattes_colaborador>
+        <id_lattes_colaborador>3867942762661182</id_lattes_colaborador>
+        <id_lattes_colaborador>2240951178648368</id_lattes_colaborador>
+        <id_lattes_colaborador>2136637687433098</id_lattes_colaborador>
+        <id_lattes_colaborador>4134800147939218</id_lattes_colaborador>
+        <id_lattes_colaborador>7069264281185562</id_lattes_colaborador>
+        <id_lattes_colaborador>1660070580824436</id_lattes_colaborador>
+        <id_lattes_colaborador>2187256941320925</id_lattes_colaborador>
+        <id_lattes_colaborador>4308525060697337</id_lattes_colaborador>
+        <id_lattes_colaborador>1965696768654682</id_lattes_colaborador>
+        <id_lattes_colaborador>7213131263042115</id_lattes_colaborador>
+        <id_lattes_colaborador>1429856361091649</id_lattes_colaborador>
+        <id_lattes_colaborador>5822640461328016</id_lattes_colaborador>
+        <id_lattes_colaborador>8076305092222491</id_lattes_colaborador>
+        <id_lattes_colaborador>8309958472855694</id_lattes_colaborador>
+        <id_lattes_colaborador>6778636685706386</id_lattes_colaborador>
+        <id_lattes_colaborador>4093653182381054</id_lattes_colaborador>
+        <id_lattes_colaborador>5181219020795189</id_lattes_colaborador>
+        <id_lattes_colaborador>2254436025676785</id_lattes_colaborador>
+        <id_lattes_colaborador>4333940423066302</id_lattes_colaborador>
+        <id_lattes_colaborador>8938252042140828</id_lattes_colaborador>
+        <id_lattes_colaborador>0262743382336524</id_lattes_colaborador>
+        <id_lattes_colaborador>1278004515460973</id_lattes_colaborador>
+        <id_lattes_colaborador>3262926164579789</id_lattes_colaborador>
+        <id_lattes_colaborador>0437948815138207</id_lattes_colaborador>
+    </colaboradores>
+    <artigos_em_periodicos>
+        <artigo>
+          <doi>http://dx.doi.org/10.1007/s10209-017-0540-1</doi>
+          <titulo>Mobile device accessibility for the visually impaired: problems mapping and recommendations</titulo>
+          <autores>DAMACENO, R. J. P. ; BRAGA, J. C. ; MENA-CHALCO, J. P.</autores>
+          <revista>Universal Access in the Information Society</revista>
+          <volume>Universal Access in the Information Society</volume>
+          <paginas>421-435</paginas>
+          <numero></numero>
+          <ano>2018</ano>
+        </artigo>
+        <artigo>
+          <doi>http://dx.doi.org/10.29397/reciis.v12i2.1515</doi>
+          <titulo>Mapeamento de pesquisadores precursores da área de prevenção de drogas em contextos educacionais no Brasil</titulo>
+          <autores>BERNARDO, J. F. ; PINHEIRO, B. O. ; MENA-CHALCO, J. P. ; MICHELI, D.</autores>
+          <revista>RECIIS - Revista Eletrônica de Comunicação, Informação & Inovação em Saúde</revista>
+          <volume>RECIIS - Revista Eletrônica de Comunicação, Informação & Inovação em Saúde</volume>
+          <paginas>172-188</paginas>
+          <numero></numero>
+          <ano>2018</ano>
+        </artigo>
+        <artigo>
+          <doi>http://dx.doi.org/10.1016/j.joi.2018.08.004</doi>
+          <titulo>Topological metrics in academic genealogy graphs</titulo>
+          <autores>ROSSI, L. ; DAMACENO, R. J. P. ; FREIRE, I. L. ; BECHARA, E. J. H. ; MENA-CHALCO, J. P.</autores>
+          <revista>Journal of Informetrics</revista>
+          <volume>Journal of Informetrics</volume>
+          <paginas>1042-1058</paginas>
+          <numero></numero>
+          <ano>2018</ano>
+        </artigo>
+        <artigo>
+          <doi>http://dx.doi.org/10.1214/17-bjps362</doi>
+          <titulo>Brazilian network of PhDs working with probability and statistics</titulo>
+          <autores>DIGIAMPIETRI, LUCIANO ; RÊGO, LEANDRO ; COSTA DE SOUZA, FILIPE ; OSPINA, RAYDONAL ; MENA-CHALCO, JESÚS</autores>
+          <revista>Brazilian Journal of Probability and Statistics</revista>
+          <volume>Brazilian Journal of Probability and Statistics</volume>
+          <paginas>755-782</paginas>
+          <numero></numero>
+          <ano>2018</ano>
+        </artigo>
+        <artigo>
+          <doi>http://dx.doi.org/10.1590/s1517-9702201702152528</doi>
+          <titulo>Expansão da temática relações raciais no banco de dados de teses e dissertações da CAPES</titulo>
+          <autores>ARTES, A. C. A. ; MENA CHALCO, J. P.</autores>
+          <revista>EDUCAÇÃO E PESQUISA</revista>
+          <volume>EDUCAÇÃO E PESQUISA</volume>
+          <paginas>1221-1238</paginas>
+          <numero></numero>
+          <ano>2017</ano>
+        </artigo>
+        <artigo>
+          <doi>http://dx.doi.org/10.1590/1516-731320170020006</doi>
+          <titulo>(Inter)disciplinaridade e transversalidades: o projeto de formação superior da Universidade Federal do ABC</titulo>
+          <autores>XAVIER, A. M. ; STEIL, L. J. ; MENA-CHALCO, J. P.</autores>
+          <revista>Ciência e Educação (UNESP)</revista>
+          <volume>Ciência e Educação (UNESP)</volume>
+          <paginas>373-390</paginas>
+          <numero></numero>
+          <ano>2017</ano>
+        </artigo>
+        <artigo>
+          <doi>http://dx.doi.org/10.1002/asi.23635</doi>
+          <titulo>Scholarly publication and collaboration in Brazil: The role of geography</titulo>
+          <autores>SIDONE, OTÁVIO JOSÉ GUERCI ; HADDAD, EDUARDO AMARAL ; MENA-CHALCO, JESÚS PASCUAL</autores>
+          <revista>Journal of the Association for Information Science and Technology</revista>
+          <volume>Journal of the Association for Information Science and Technology</volume>
+          <paginas>243-258</paginas>
+          <numero></numero>
+          <ano>2017</ano>
+        </artigo>
+        <artigo>
+          <doi>http://dx.doi.org/10.1016/j.joi.2017.04.001</doi>
+          <titulo>Genealogical index: A metric to analyze advisor-advisee relationships</titulo>
+          <autores>ROSSI, L. ; FREIRE, I. L. ; MENA-CHALCO, J. P.</autores>
+          <revista>Journal of Informetrics</revista>
+          <volume>Journal of Informetrics</volume>
+          <paginas>564-582</paginas>
+          <numero></numero>
+          <ano>2017</ano>
+        </artigo>
+        <artigo>
+          <doi></doi>
+          <titulo>Produção Científica e Redes de Colaboração dos Docentes Vinculados aos Programas de Pós-graduação em Economia no Brasil</titulo>
+          <autores>HADDAD, E. A. ; MENA-CHALCO, J. P. ; SIDONE, O. J. G.</autores>
+          <revista>ESTUDOS ECONÔMICOS</revista>
+          <volume>ESTUDOS ECONÔMICOS</volume>
+          <paginas>617-679</paginas>
+          <numero></numero>
+          <ano>2017</ano>
+        </artigo>
+        <artigo>
+          <doi></doi>
+          <titulo>Scholarly Collaboration in Regional Science in Developing Countries: The Case of the Brazilian REAL Network</titulo>
+          <autores>HADDAD, E. A. ; MENA-CHALCO, J. P. ; SIDONE, O. J. G.</autores>
+          <revista>INTERNATIONAL REGIONAL SCIENCE REVIEW</revista>
+          <volume>INTERNATIONAL REGIONAL SCIENCE REVIEW</volume>
+          <paginas>500-529</paginas>
+          <numero></numero>
+          <ano>2017</ano>
+        </artigo>
+        <artigo>
+          <doi></doi>
+          <titulo>Artigos em Periódicos de Acesso Aberto: um Estudo com Pesquisadores Bolsistas de Produtividade do CNPq</titulo>
+          <autores>LETA, J. ; COSTA, E. H. S. ; MENA-CHALCO, J. P.</autores>
+          <revista>RECIIS - Revista Eletrônica de Comunicação, Informação & Inovação em Saúde</revista>
+          <volume>RECIIS - Revista Eletrônica de Comunicação, Informação & Inovação em Saúde</volume>
+          <paginas>1-6</paginas>
+          <numero></numero>
+          <ano>2017</ano>
+        </artigo>
+        <artigo>
+          <doi>http://dx.doi.org/10.1590/0074-02760150386</doi>
+          <titulo>The dynamics of Brazilian protozoology over the past century</titulo>
+          <autores>ELIAS, M. C. ; WINTER, L. M. F. ; MENA-CHALCO, J. P.</autores>
+          <revista>Memórias do Instituto Oswaldo Cruz (Online)</revista>
+          <volume>Memórias do Instituto Oswaldo Cruz (Online)</volume>
+          <paginas>67-74</paginas>
+          <numero></numero>
+          <ano>2016</ano>
+        </artigo>
+        <artigo>
+          <doi>http://dx.doi.org/10.1590/2318-08892016002800006</doi>
+          <titulo>Exploração da Plataforma Lattes por assunto: proposta de metodologia</titulo>
+          <autores>BRITO, ALINE GRASIELE CARDOSO DE ; QUONIAM, LUC ; MENA-CHALCO, JESÚS PASCUAL</autores>
+          <revista>Transinformacao</revista>
+          <volume>Transinformacao</volume>
+          <paginas>77-86</paginas>
+          <numero></numero>
+          <ano>2016</ano>
+        </artigo>
+        <artigo>
+          <doi></doi>
+          <titulo>Funded projects on dengue fever in brazil: use of the scriptlattes tool to support the planning of public health research</titulo>
+          <autores>MOTTA, L. J. ; FERRAZ, R. R. N. ; QUONIAM, L. ; MENA-CHALCO, J. P.</autores>
+          <revista>Espacios (Caracas)</revista>
+          <volume>Espacios (Caracas)</volume>
+          <paginas>25</paginas>
+          <numero></numero>
+          <ano>2016</ano>
+        </artigo>
+        <artigo>
+          <doi>http://dx.doi.org/10.1590/2318-08892016002800002</doi>
+          <titulo>A ciência nas regiões brasileiras: evolução da produção e das redes de colaboração científica</titulo>
+          <autores>SIDONE, OTÁVIO JOSÉ GUERCI ; HADDAD, EDUARDO AMARAL ; MENA-CHALCO, JESÚS PASCUAL</autores>
+          <revista>Transinformacao</revista>
+          <volume>Transinformacao</volume>
+          <paginas>15-32</paginas>
+          <numero></numero>
+          <ano>2016</ano>
+        </artigo>
+        <artigo>
+          <doi>http://dx.doi.org/10.1016/j.cag.2015.02.009</doi>
+          <titulo>Facing the High-dimensions: Inverse Projection with Radial Basis Functions</titulo>
+          <autores>AMORIM, ELISA ; BRAZIL, EMILIO VITAL ; MENA-CHALCO, JESÚS ; VELHO, LUIZ ; NONATO, LUIS GUSTAVO ; SAMAVATI, FARAMARZ ; SOUSA, MARIO COSTA</autores>
+          <revista>Computers & Graphics</revista>
+          <volume>Computers & Graphics</volume>
+          <paginas>35-47</paginas>
+          <numero></numero>
+          <ano>2015</ano>
+        </artigo>
+        <artigo>
+          <doi>http://dx.doi.org/10.1371/journal.pone.0129065</doi>
+          <titulo>Analysis of an Advisor-Advisee Relationship: An Exploratory Study of the Area of Exact and Earth Sciences in Brazil</titulo>
+          <autores>TUESTA, E. F. ; DELGADO, K. V. ; MUGNAINI, R. ; DIGIAMPIETRI, L. A. ; MENA-CHALCO, J. P. ; PEREZ-ALCAZAR, J.</autores>
+          <revista>Plos One</revista>
+          <volume>Plos One</volume>
+          <paginas>e0129065</paginas>
+          <numero></numero>
+          <ano>2015</ano>
+        </artigo>
+        <artigo>
+          <doi>http://dx.doi.org/10.1590/1981-5344/2434</doi>
+          <titulo>Perfil de produção acadêmica dos programas brasileiros de pós-graduação em Ciência da Informação 2008-2012</titulo>
+          <autores>AUTRAN, M. M. M. ; BORGES, M. M. ; MENA-CHALCO, J. P. ; PINHEIRO, V. G.</autores>
+          <revista>Perspectivas em Ciência da Informação (Online)</revista>
+          <volume>Perspectivas em Ciência da Informação (Online)</volume>
+          <paginas>57-78</paginas>
+          <numero></numero>
+          <ano>2015</ano>
+        </artigo>
+        <artigo>
+          <doi>http://dx.doi.org/10.5007/1518-2924.2015v20n43p93</doi>
+          <titulo>Extração e disponibilização on line de indicadores de desempenho e prospecção dos resultados das pesquisas em dengue com a utilização da ferramenta computacional Scriptlattes</titulo>
+          <autores>FERRAZ, R. R. ; QUONIAM, L. M. ; PIMENTA, D. N. ; MENA-CHALCO, J. P. ; NIGRO, C. A.</autores>
+          <revista>Encontros Bibli</revista>
+          <volume>Encontros Bibli</volume>
+          <paginas>93-114</paginas>
+          <numero></numero>
+          <ano>2015</ano>
+        </artigo>
+        <artigo>
+          <doi></doi>
+          <titulo>O envelhecimento na sociologia brasileira contemporânea: notas preliminares</titulo>
+          <autores>PEDRO, W. J. A. ; MENA-CHALCO, J. P.</autores>
+          <revista>Revista Kairós (Online)</revista>
+          <volume>Revista Kairós (Online)</volume>
+          <paginas>31-47</paginas>
+          <numero></numero>
+          <ano>2015</ano>
+        </artigo>
+        <artigo>
+          <doi>http://dx.doi.org/10.1002/asi.23010</doi>
+          <titulo>Brazilian bibliometric coauthorship networks</titulo>
+          <autores>MENA-CHALCO, J. P.; DIGIAMPIETRI, L. A. ; LOPES, F. M. ; CESAR JUNIOR, R. M.</autores>
+          <revista>Journal of the Association for Information Science and Technology</revista>
+          <volume>Journal of the Association for Information Science and Technology</volume>
+          <paginas>1424-1445</paginas>
+          <numero></numero>
+          <ano>2014</ano>
+        </artigo>
+        <artigo>
+          <doi>http://dx.doi.org/10.1371/journal.pone.0094541</doi>
+          <titulo>BraX-Ray: An X-Ray of the Brazilian Computer Science Graduate Programs</titulo>
+          <autores>DIGIAMPIETRI, LUCIANO A. ; MENA-CHALCO, JESÚS P. ; VAZ DE MELO, PEDRO O. S. ; MALHEIRO, ANA P. R. ; MEIRA, DÂNIA N. O. ; FRANCO, LARYSSA F. ; OLIVEIRA, LEONARDO B.</autores>
+          <revista>Plos One</revista>
+          <volume>Plos One</volume>
+          <paginas>e94541</paginas>
+          <numero></numero>
+          <ano>2014</ano>
+        </artigo>
+        <artigo>
+          <doi>http://dx.doi.org/10.1590/0103-3786201400030002</doi>
+          <titulo>Comunicação científica no Brasil (1998-2012): indexação, crescimento, fluxo e dispersão</titulo>
+          <autores>MUGNAINI, R. ; DIGIAMPIETRI, L. A. ; MENA-CHALCO, J. P.</autores>
+          <revista>Transinformação</revista>
+          <volume>Transinformação</volume>
+          <paginas>239-252</paginas>
+          <numero></numero>
+          <ano>2014</ano>
+        </artigo>
+        <artigo>
+          <doi></doi>
+          <titulo>Análise macro das últimas atualizações dos Currículos Lattes</titulo>
+          <autores>DIGIAMPIETRI, L. A. ; MUGNAINI, R. ; MENA-CHALCO, J. P. ; DELGADO, K. V. ; PEREZ-ALCAZAR, J.</autores>
+          <revista>Em Questão</revista>
+          <volume>Em Questão</volume>
+          <paginas>88-113</paginas>
+          <numero></numero>
+          <ano>2014</ano>
+        </artigo>
+        <artigo>
+          <doi>http://dx.doi.org/10.5433/1981-8920.2014v19n3p30</doi>
+          <titulo>Extração e tratamento de dados na base lattes para identificação de core competencies em dengue</titulo>
+          <autores>MAGALHAES, J. L. ; QUONIAM, L. ; MENA-CHALCO, J. P. ; SANTOS, A.</autores>
+          <revista>Informação & Informação (UEL. Online)</revista>
+          <volume>Informação & Informação (UEL. Online)</volume>
+          <paginas>30-54</paginas>
+          <numero></numero>
+          <ano>2014</ano>
+        </artigo>
+        <artigo>
+          <doi></doi>
+          <titulo>Redes de colaboração acadêmica: Um estudo de caso da produção bibliográfica da UFABC</titulo>
+          <autores>MENA-CHALCO, J. P.; DALPIAN, G. M. ; CAPELLE, K.</autores>
+          <revista>Revista Interciente</revista>
+          <volume>Revista Interciente</volume>
+          <paginas>50-58</paginas>
+          <numero></numero>
+          <ano>2014</ano>
+        </artigo>
+        <artigo>
+          <doi></doi>
+          <titulo>Perfil de produção acadêmica dos programas brasileiros de pós-graduação em Ciência da Computação nos triênios 2004-2006 e 2007-2009</titulo>
+          <autores>MENA-CHALCO, J. P.; DIGIAMPIETRI, L. A. ; OLIVEIRA, Leonardo B.</autores>
+          <revista>Em Questão (UFRGS. Impresso)</revista>
+          <volume>Em Questão (UFRGS. Impresso)</volume>
+          <paginas>215-229</paginas>
+          <numero></numero>
+          <ano>2012</ano>
+        </artigo>
+        <artigo>
+          <doi>http://dx.doi.org/10.1016/j.entcs.2011.11.031</doi>
+          <titulo>Robust Range Finder Through a Laser Pointer and a Webcam</titulo>
+          <autores>Portugal-Zambrano, Christian E. ; MENA-CHALCO, JESÚS P.</autores>
+          <revista>Electronic Notes in Theoretical Computer Science</revista>
+          <volume>Electronic Notes in Theoretical Computer Science</volume>
+          <paginas>143-157</paginas>
+          <numero></numero>
+          <ano>2011</ano>
+        </artigo>
+    </artigos_em_periodicos>
+    <capitulos_livros>
+        <capitulo>
+          <livro>Maria Cristina Piumbato Innocentini Hayashi; Jacqueline Leta. (Org.). Bibliometria e Cientometria: reflexões teóricas e interfaces. 1ed.São Carlos</livro>
+          <titulo>Prospecção de dados acadêmicos de currículos Lattes através de scriptLattes</titulo>
+          <autores>MENA-CHALCO, J. P.; CESAR JUNIOR, R. M.</autores>
+          <edicao></edicao>
+          <editora>Pedro João</editora>
+          <volume></volume>
+          <paginas>109-128</paginas>
+          <ano>2013</ano>
+        </capitulo>
+    </capitulos_livros>
+    <trabalho_completo_congresso>
+        <trabalho_completo>
+          <doi>http://dx.doi.org/10.13140/RG.2.1.5183.8561</doi>
+          <autores>DAMACENO, R. J. P. ; HADDAD, E. A. ; MENA-CHALCO, J. P.</autores>
+          <titulo>Formação, endogenia e influência institucional na academia brasileira: Uma análise da absorção de doutores nas instituições de ensino superior</titulo>
+          <nome_evento>6º Encontro Brasileiro de Bibliometria e Cientometria (EBBC)</nome_evento>
+          <ano>2018</ano>
+          <volume></volume>
+          <paginas>1-7</paginas>
+        </trabalho_completo>
+        <trabalho_completo>
+          <doi></doi>
+          <autores>JESUS, R. Z. ; MENA-CHALCO, J. P.</autores>
+          <titulo>Medindo o grau de multidisciplinaridade baseado em produções bibliográficas</titulo>
+          <nome_evento>6º Encontro Brasileiro de Bibliometria e Cientometria (EBBC)</nome_evento>
+          <ano>2018</ano>
+          <volume></volume>
+          <paginas>1-8</paginas>
+        </trabalho_completo>
+        <trabalho_completo>
+          <doi></doi>
+          <autores>ROSSI, L. ; DAMACENO, R. J. P. ; MENA-CHALCO, J. P.</autores>
+          <titulo>Genealogia acadêmica: Um novo olhar sobre impacto acadêmico de pesquisadores</titulo>
+          <nome_evento>I Seminário de Avaliação de Políticas de CTI</nome_evento>
+          <ano>2018</ano>
+          <volume></volume>
+          <paginas>1-15</paginas>
+        </trabalho_completo>
+        <trabalho_completo>
+          <doi></doi>
+          <autores>DAMACENO, R. J. P. ; ROSSI, L. ; MENA-CHALCO, J. P.</autores>
+          <titulo>Identification of the Brazilian academic roots through mining advisor-advisee relationships</titulo>
+          <nome_evento>Symposium on Knowledge Discovery</nome_evento>
+          <ano>2018</ano>
+          <volume></volume>
+          <paginas>1-8</paginas>
+        </trabalho_completo>
+        <trabalho_completo>
+          <doi></doi>
+          <autores>ROSSI, L. ; MENA-CHALCO, J. P.</autores>
+          <titulo>Criação de grafos de tópicos do conhecimento baseada em genealogia acadêmica</titulo>
+          <nome_evento>6º Encontro Brasileiro de Bibliometria e Cientometria (EBBC)</nome_evento>
+          <ano>2018</ano>
+          <volume></volume>
+          <paginas>1-8</paginas>
+        </trabalho_completo>
+        <trabalho_completo>
+          <doi>http://dx.doi.org/10.5540/03.2018.006.01.0370</doi>
+          <autores>ROSSI, L. ; FREIRE, I. L. ; DAMACENO, R. J. P. ; MENA-CHALCO, J. P.</autores>
+          <titulo>Genealogia acadêmica dos doutores atuantes em matemática: um mapeamento macro na ciência brasileira</titulo>
+          <nome_evento>Congresso Nacional de Matemática Aplicada e Computacional</nome_evento>
+          <ano>2017</ano>
+          <volume></volume>
+          <paginas></paginas>
+        </trabalho_completo>
+        <trabalho_completo>
+          <doi></doi>
+          <autores>DAMACENO, R. J. P. ; ROSSI, L. ; MENA-CHALCO, J. P.</autores>
+          <titulo>Identificação do grafo de genealogia acadêmica de pesquisadores: Uma abordagem baseada na Plataforma Lattes</titulo>
+          <nome_evento>BRAZILIAN SYMPOSIUM ON DATABASES (SBBD 2017)</nome_evento>
+          <ano>2017</ano>
+          <volume></volume>
+          <paginas></paginas>
+        </trabalho_completo>
+        <trabalho_completo>
+          <doi></doi>
+          <autores>BERNARDO, J. F. ; PINHEIRO, B. O. ; MENA-CHALCO, J. P. ; MICHELI, D.</autores>
+          <titulo>Identificação da Rede Nacional de Pesquisadores na área de Prevenção de Drogas em Contextos Educacionais</titulo>
+          <nome_evento>Congresso Internacional Abramd</nome_evento>
+          <ano>2017</ano>
+          <volume></volume>
+          <paginas></paginas>
+        </trabalho_completo>
+        <trabalho_completo>
+          <doi>http://dx.doi.org/10.13140/RG.2.1.2416.6008</doi>
+          <autores>AKAZAKI, J. M. ; BUENO, L. R. ; MENA-CHALCO, J. P.</autores>
+          <titulo>Caracterização de pesquisadores utilizando indicadores bibliométricos de senioridade e inatividade: um estudo de caso dos Bolsistas de Produtividade 1A-CNPq</titulo>
+          <nome_evento>5º Encontro Brasileiro de Bibliometria e Cientometria</nome_evento>
+          <ano>2016</ano>
+          <volume></volume>
+          <paginas>1-7</paginas>
+        </trabalho_completo>
+        <trabalho_completo>
+          <doi>http://dx.doi.org/10.1145/3033701.3033703</doi>
+          <autores>DAMACENO, R. J. P. ; BRAGA, J. C. ; MENA-CHALCO, J. P.</autores>
+          <titulo>Acessibilidade de Dispositivos Móveis: Mapeamento de Problemas e Estudo de Gestos de Toque</titulo>
+          <nome_evento>XV Brazilian Symposium on Human Factors in Computer Systems (IHC 2016)</nome_evento>
+          <ano>2016</ano>
+          <volume></volume>
+          <paginas></paginas>
+        </trabalho_completo>
+        <trabalho_completo>
+          <doi></doi>
+          <autores>RAMOS, D. F. S. ; MENA-CHALCO, J. P.</autores>
+          <titulo>Caracterização das redes de convites de bancas de defesa de teses e dissertações do Brasil</titulo>
+          <nome_evento>XVII Encontro Nacional de Pesquisa em Pós-Graduação em Ciência da Informação</nome_evento>
+          <ano>2016</ano>
+          <volume></volume>
+          <paginas></paginas>
+        </trabalho_completo>
+        <trabalho_completo>
+          <doi>http://dx.doi.org/10.13140/RG.2.1.3373.4241</doi>
+          <autores>ROSSI, L. ; MENA-CHALCO, J. P.</autores>
+          <titulo>Índice-h genealógico expandido: Uma medida de impacto em grafos de orientação acadêmica</titulo>
+          <nome_evento>Workshop on Social Network Analysis and Mining (BraSNAM 2015)</nome_evento>
+          <ano>2015</ano>
+          <volume></volume>
+          <paginas>1-12</paginas>
+        </trabalho_completo>
+        <trabalho_completo>
+          <doi></doi>
+          <autores>HADDAD, E. A. ; MENA-CHALCO, J. P. ; SIDONE, O. J. G.</autores>
+          <titulo>Scholarly Collaboration in Regional Science in Developing Countries: The Case of the Brazilian REAL Network</titulo>
+          <nome_evento>XIII Encontro Nacional da Associação Brasileira de Estudos Regionais e Urbanos</nome_evento>
+          <ano>2015</ano>
+          <volume></volume>
+          <paginas>1-29</paginas>
+        </trabalho_completo>
+        <trabalho_completo>
+          <doi>http://dx.doi.org/10.13140/RG.2.1.3616.9688</doi>
+          <autores>AUTRAN, M. M. M. ; BORGES, M. M. ; MENA-CHALCO, J. P.</autores>
+          <titulo>A coautoria acadêmica interprogramas da pós-graduação em ciência da informação: Uma análise baseada em métricas em grafos</titulo>
+          <nome_evento>XVI Encontro Nacional de Pesquisa em Pós-Graduação em Ciência da Informação</nome_evento>
+          <ano>2015</ano>
+          <volume></volume>
+          <paginas></paginas>
+        </trabalho_completo>
+        <trabalho_completo>
+          <doi></doi>
+          <autores>AUTRAN, M. M. M. ; BORGES, M. M. ; MENA-CHALCO, J. P. ; PINHEIRO, V. G.</autores>
+          <titulo>O QUALIS/CAPES como indicador qualitativo de comunicação da ciência: análise da produção acadêmica dos programas de pós-graduação em Ciência da Informação</titulo>
+          <nome_evento>VII Encuentro Ibérico - EDICIC 2015</nome_evento>
+          <ano>2015</ano>
+          <volume></volume>
+          <paginas>1-16</paginas>
+        </trabalho_completo>
+        <trabalho_completo>
+          <doi>http://dx.doi.org/10.13140/RG.2.1.4159.8569</doi>
+          <autores>ROSSI, L. ; MENA-CHALCO, J. P.</autores>
+          <titulo>Caracterização de árvores de genealogia acadêmica por meio de métricas em grafos</titulo>
+          <nome_evento>Brazilian Workshop on Social Network Analysis and Mining (BraSNAM)</nome_evento>
+          <ano>2014</ano>
+          <volume></volume>
+          <paginas></paginas>
+        </trabalho_completo>
+        <trabalho_completo>
+          <doi>http://dx.doi.org/10.13140/RG.2.1.3635.5681</doi>
+          <autores>MUGNAINI, R. ; DIGIAMPIETRI, L. A. ; MENA-CHALCO, J. P.</autores>
+          <titulo>Comunicação científica no Brasil (1998-2012): infraestrutura nacional e internacionalização</titulo>
+          <nome_evento>XIII Congreso Internacional de Información INFO´2014</nome_evento>
+          <ano>2014</ano>
+          <volume></volume>
+          <paginas></paginas>
+        </trabalho_completo>
+        <trabalho_completo>
+          <doi>http://dx.doi.org/10.13140/RG.2.1.2062.7046</doi>
+          <autores>MENA-CHALCO, J. P.; ROCHA, V.</autores>
+          <titulo>Caracterização do banco de teses e dissertações da CAPES</titulo>
+          <nome_evento>4º Encontro Brasileiro de Bibliometria e Cientometria - EBBC</nome_evento>
+          <ano>2014</ano>
+          <volume></volume>
+          <paginas></paginas>
+        </trabalho_completo>
+        <trabalho_completo>
+          <doi>http://dx.doi.org/10.13140/RG.2.1.4290.9283</doi>
+          <autores>DIGIAMPIETRI, L. A. ; MUGNAINI, R. ; MENA-CHALCO, J. P. ; DELGADO, K. V. ; PEREZ-ALCAZAR, J.</autores>
+          <titulo>Análise da atualização dos currículos lattes: Uma análise macro sobre as datas das últimas atualizações dos currículos Lattes</titulo>
+          <nome_evento>4º Encontro Brasileiro de Bibliometria e Cientometria - EBBC</nome_evento>
+          <ano>2014</ano>
+          <volume></volume>
+          <paginas></paginas>
+        </trabalho_completo>
+        <trabalho_completo>
+          <doi>http://dx.doi.org/10.13140/RG.2.1.3897.7120</doi>
+          <autores>MUGNAINI, R. ; DIGIAMPIETRI, L. A. ; MENA-CHALCO, J. P.</autores>
+          <titulo>Correlation among the scientific production, supervisions and participation in defense examination committees in the Brazilian physicists community</titulo>
+          <nome_evento>14th International Society of Scientometrics and Informetrics Conference</nome_evento>
+          <ano>2013</ano>
+          <volume>I</volume>
+          <paginas>447-474</paginas>
+        </trabalho_completo>
+        <trabalho_completo>
+          <doi>http://dx.doi.org/10.1109/eScience.2013.32</doi>
+          <autores>PEREZ-CERVANTES, EVELYN ; MENA-CHALCO, JESUS P. ; OLIVEIRA, MARIA CRISTINA F. DE ; CESAR, ROBERTO</autores>
+          <titulo>Using Link Prediction to Estimate the Collaborative Influence of Researchers</titulo>
+          <nome_evento>2013 IEEE 9th International Conference on eScience (eScience)</nome_evento>
+          <ano>2013</ano>
+          <volume></volume>
+          <paginas>293-300</paginas>
+        </trabalho_completo>
+        <trabalho_completo>
+          <doi>http://dx.doi.org/10.13140/RG.2.1.2849.1364</doi>
+          <autores>MENA-CHALCO, J. P.; DIGIAMPIETRI, L. A. ; CESAR JUNIOR, R. M.</autores>
+          <titulo>Caracterizando as redes de coautoria de currículos Lattes</titulo>
+          <nome_evento>Brazilian Workshop on Social Network Analysis and Mining (BraSNAM)</nome_evento>
+          <ano>2012</ano>
+          <volume></volume>
+          <paginas></paginas>
+        </trabalho_completo>
+        <trabalho_completo>
+          <doi>http://dx.doi.org/10.13140/RG.2.1.1007.8164</doi>
+          <autores>DIGIAMPIETRI, L. A. ; MENA-CHALCO, J. P. ; ALCÁZAR, J. J. P. ; TUESTA, E. F. ; DELGADO, K. V. ; MUGNAINI, R. ; SILVA, G. S.</autores>
+          <titulo>Minerando e Caracterizando Dados de Currículos Lattes</titulo>
+          <nome_evento>Brazilian Workshop on Social Network Analysis and Mining (BraSNAM)</nome_evento>
+          <ano>2012</ano>
+          <volume></volume>
+          <paginas></paginas>
+        </trabalho_completo>
+        <trabalho_completo>
+          <doi>http://dx.doi.org/10.13140/RG.2.1.3438.9604</doi>
+          <autores>DIGIAMPIETRI, L. A. ; MENA-CHALCO, J. P. ; SILVA, G. S. ; OLIVEIRA, L. B. ; MALHEIRO, A. P. R. ; MEIRA, D. N. O.</autores>
+          <titulo>Dinâmica das Relações de Coautoria nos Programas de Pós-Graduação em Computação no Brasil</titulo>
+          <nome_evento>Brazilian Workshop on Social Network Analysis and Mining (BraSNAM)</nome_evento>
+          <ano>2012</ano>
+          <volume></volume>
+          <paginas></paginas>
+        </trabalho_completo>
+        <trabalho_completo>
+          <doi>http://dx.doi.org/10.13140/RG.2.1.3307.8880</doi>
+          <autores>TUESTA, E. F. ; DELGADO, K. V. ; DIGIAMPIETRI, L. A. ; ALCÁZAR, J. J. P. ; MUGNAINI, R. ; MENA-CHALCO, J. P.</autores>
+          <titulo>Análise temporal da relação orientador-orientado: um estudo de caso sobre a produtividade dos pesquisadores doutores da área de Ciência da Computação</titulo>
+          <nome_evento>Brazilian Workshop on Social Network Analysis and Mining (BraSNAM)</nome_evento>
+          <ano>2012</ano>
+          <volume></volume>
+          <paginas></paginas>
+        </trabalho_completo>
+        <trabalho_completo>
+          <doi>http://dx.doi.org/10.13140/RG.2.1.4946.2886</doi>
+          <autores>MENA-CHALCO, J. P.; DIGIAMPIETRI, L. A. ; OLIVEIRA, L. B.</autores>
+          <titulo>Perfil de Produção Bibliográfica dos Programas Brasileiros de Pós-Graduação em Ciência da Computação</titulo>
+          <nome_evento>3º Encontro Brasileiro de Bibliometria e Cientometria - EBBC</nome_evento>
+          <ano>2012</ano>
+          <volume></volume>
+          <paginas></paginas>
+        </trabalho_completo>
+        <trabalho_completo>
+          <doi>http://dx.doi.org/10.1109/eScience.2012.6404456</doi>
+          <autores>PEREZ-CERVANTES, EVELYN ; MENA-CHALCO, JESUS P. ; CESAR-JR, ROBERTO M.</autores>
+          <titulo>Towards a quantitative academic internationalization assessment of Brazilian research groups</titulo>
+          <nome_evento>2012 IEEE 8th International Conference on EScience (eScience)</nome_evento>
+          <ano>2012</ano>
+          <volume></volume>
+          <paginas>1-8</paginas>
+        </trabalho_completo>
+        <trabalho_completo>
+          <doi>http://dx.doi.org/10.1109/ICIP.2011.6115668</doi>
+          <autores>PINTO, S. C. D. ; MENA-CHALCO, J. P. ; LOPES, F. M. ; VELHO, L. ; CESAR JUNIOR, R. M.</autores>
+          <titulo>3D Facial expression analysis by using 2D and 3D wavelet transforms</titulo>
+          <nome_evento>International Conference on Image Processing</nome_evento>
+          <ano>2011</ano>
+          <volume></volume>
+          <paginas>1281-1284</paginas>
+        </trabalho_completo>
+        <trabalho_completo>
+          <doi>http://dx.doi.org/10.13140/RG.2.1.1145.2004</doi>
+          <autores>NASCIMENTO, C. S. ; FREITAS, C. M. D. S. ; GALANTE, R. ; NEDEL, L. ; MENA-CHALCO, J. P.</autores>
+          <titulo>Visualização interativa de redes sociais: um estudo de caso em redes de colaboração científica</titulo>
+          <nome_evento>Simposio Latinoamericano sobre Computación Gráfica</nome_evento>
+          <ano>2011</ano>
+          <volume></volume>
+          <paginas>1-16</paginas>
+        </trabalho_completo>
+        <trabalho_completo>
+          <doi>http://dx.doi.org/10.13140/RG.2.1.3963.2482</doi>
+          <autores>MENA-CHALCO, J. P.; VELHO, L. ; CESAR JUNIOR, R. M.</autores>
+          <titulo>3D human face reconstruction using principal components spaces</titulo>
+          <nome_evento>XXIV Sibgrapi ? Conference on Graphics</nome_evento>
+          <ano>2011</ano>
+          <volume></volume>
+          <paginas>1-6</paginas>
+        </trabalho_completo>
+        <trabalho_completo>
+          <doi>http://dx.doi.org/10.13140/RG.2.1.5011.8246</doi>
+          <autores>MATTOS, A. B. ; MENA-CHALCO, J. P. ; CESAR JUNIOR, R. M.</autores>
+          <titulo>3D facial animation based on structural registration</titulo>
+          <nome_evento>XXIV Sibgrapi ? Conference on Graphics</nome_evento>
+          <ano>2011</ano>
+          <volume></volume>
+          <paginas>1-6</paginas>
+        </trabalho_completo>
+        <trabalho_completo>
+          <doi>http://dx.doi.org/10.1109/eScienceW.2011.31</doi>
+          <autores>MENA-CHALCO, J. P.; CESAR JUNIOR, R. M.</autores>
+          <titulo>Towards automatic discovery of co-authorship networks in the Brazilian academic areas</titulo>
+          <nome_evento>Workshop On Measuring the Impact of e-Science Research (MeSR 2011) - In Conjunction with 7th IEEE International Conference on e-Science</nome_evento>
+          <ano>2011</ano>
+          <volume></volume>
+          <paginas>53-60</paginas>
+        </trabalho_completo>
+        <trabalho_completo>
+          <doi>http://dx.doi.org/10.1109/SIBGRAPI.2010.44</doi>
+          <autores>MATTOS, A. B. ; MENA-CHALCO, J. P. ; CESAR JUNIOR, R. M. ; VELHO, L.</autores>
+          <titulo>3D Linear Facial Animation Based on Real Data</titulo>
+          <nome_evento>Brazilian Symposium on Computer Graphics and Image Processing SIBGRAPI 2010</nome_evento>
+          <ano>2010</ano>
+          <volume></volume>
+          <paginas>271-278</paginas>
+        </trabalho_completo>
+        <trabalho_completo>
+          <doi>http://dx.doi.org/10.13140/RG.2.1.2852.3368</doi>
+          <autores>CHUCTAYA, J. ; MENA-CHALCO, J. P. ; BELTRÁN-CASTAÑÓN, C. ; PATIÑO, R. ; HUMPIRE, G. ; RODRIGUEZ, A.</autores>
+          <titulo>Detección de huevos helmintos mediante plantillas dinámicas</titulo>
+          <nome_evento>XXXVIth Latin American Informatics Conference (XXXVI CLEI)</nome_evento>
+          <ano>2010</ano>
+          <volume></volume>
+          <paginas>1-12</paginas>
+        </trabalho_completo>
+        <trabalho_completo>
+          <doi>http://dx.doi.org/10.1109/SCCC.2010.31</doi>
+          <autores>PEREZ, E. ; MENA-CHALCO, J. P.</autores>
+          <titulo>A new approach to detect communities in multi-weighted co-authorship networks</titulo>
+          <nome_evento>XXIX International Conference of the Chilean Computer Science Society</nome_evento>
+          <ano>2010</ano>
+          <volume></volume>
+          <paginas>131-138</paginas>
+        </trabalho_completo>
+    </trabalho_completo_congresso>
+    <resumo_expandido_congresso>
+        <resumo_expandido>
+          <doi>http://dx.doi.org/10.13140/RG.2.2.22495.87207</doi>
+          <autores>PAULA, A. S. ; MENA-CHALCO, J. P.</autores>
+          <titulo>O Paradoxo da Amizade em Grafos de Genealogia Acadêmica: Uma Análise Experimental</titulo>
+          <nome_evento>Congresso Nacional de Matemática Aplicada e Computacional, 2017, São José dos Campos, SP. Congresso Nacional de Matemática Aplicada e Computacional</nome_evento>
+          <ano>2017</ano>
+          <volume></volume>
+          <paginas></paginas>
+        </resumo_expandido>
+        <resumo_expandido>
+          <doi>http://dx.doi.org/10.13140/RG.2.1.1800.5607</doi>
+          <autores>FAUSTO, S. ; MENA-CHALCO, J. P.</autores>
+          <titulo>Leadership among the leaders of the Brazilian research groups in Marine Biotechnology</titulo>
+          <nome_evento>15th INTERNATIONAL CONFERENCE ON SCIENTOMETRICS and INFORMETRICS, 2015, Turquia. Proceedings of ISSI 2015 Istanbul: 15th International Society of Scientometrics and Informetrics Conference, Istanbul, Turkey</nome_evento>
+          <ano>2015</ano>
+          <volume></volume>
+          <paginas>814-815</paginas>
+        </resumo_expandido>
+        <resumo_expandido>
+          <doi>http://dx.doi.org/10.13140/RG.2.1.2193.7762</doi>
+          <autores>ROSSI, L. ; MENA-CHALCO, J. P.</autores>
+          <titulo>Aos ombros de gigantes: um estudo de genealogia acadêmica dos matemáticos no Brasil</titulo>
+          <nome_evento>Simpósio de Pesquisa do Grande ABC, 2014, São Bernardo. Simpósio de Pesquisa do Grande ABC</nome_evento>
+          <ano>2014</ano>
+          <volume></volume>
+          <paginas></paginas>
+        </resumo_expandido>
+        <resumo_expandido>
+          <doi>http://dx.doi.org/10.13140/RG.2.1.4815.2160</doi>
+          <autores>MEDEIROS, C. B. ; MENA-CHALCO, J. P.</autores>
+          <titulo>The Dynamics of Multidisciplinary Research Networks - Mining a Public Repository of Scientists CVs</titulo>
+          <nome_evento>World Social Science Forum 2013 (social transformations and the digital ages), 2013, Canada. World Social Science Forum 2013</nome_evento>
+          <ano>2013</ano>
+          <volume></volume>
+          <paginas></paginas>
+        </resumo_expandido>
+        <resumo_expandido>
+          <doi></doi>
+          <autores>MENA-CHALCO, J. P.; CAPELLE, K. ; DALPIAN, G. M.</autores>
+          <titulo>Rede de coautoria acadêmica da UFABC</titulo>
+          <nome_evento>Simpósio de Pesquisa do Grande ABC, 2012, São Paulo. Simpósio de Pesquisa do Grande ABC</nome_evento>
+          <ano>2012</ano>
+          <volume></volume>
+          <paginas></paginas>
+        </resumo_expandido>
+        <resumo_expandido>
+          <doi></doi>
+          <autores>PEREZ-CERVANTES, E. ; MENA-CHALCO, J. P. ; CESAR JUNIOR, R. M.</autores>
+          <titulo>Interação acadêmica dos docentes do IME-USP no período 2000-2011</titulo>
+          <nome_evento>VI Simpósio de Iniciação Científica e Pós-Graduação do IME-USP, 2012, São Paulo. VI Simpósio de Iniciação Científica e Pós-Graduação do IME-USP</nome_evento>
+          <ano>2012</ano>
+          <volume></volume>
+          <paginas></paginas>
+        </resumo_expandido>
+        <resumo_expandido>
+          <doi></doi>
+          <autores>DANUELLO, J. C. ; MENA-CHALCO, J. P. ; OLIVEIRA, E. F. T.</autores>
+          <titulo>Rede colaborativa dos pesquisadores dos programas de pós-graduação em fonoaudiologia no Brasil</titulo>
+          <nome_evento>XII Encontro Nacional de Pesquisa em Ciência da Informação, 2011, Brasília. XII Encontro Nacional de Pesquisa em Ciência da Informação</nome_evento>
+          <ano>2011</ano>
+          <volume></volume>
+          <paginas></paginas>
+        </resumo_expandido>
+        <resumo_expandido>
+          <doi></doi>
+          <autores>PINTO, S. C. D. ; MENA-CHALCO, J. P. ; LOPES, F. M. ; CESAR JUNIOR, R. M.</autores>
+          <titulo>Preliminary results on 3D facial expression analysis using 2D and 3D wavelet transforms</titulo>
+          <nome_evento>23rd Brazilian Symposium on Computer Graphics and Image Processing SIBGRAPI 2010, 2010, Gramado. 23rd Brazilian Symposium on Computer Graphics and Image Processing SIBGRAPI 2010, Conference Proceedings</nome_evento>
+          <ano>2010</ano>
+          <volume></volume>
+          <paginas></paginas>
+        </resumo_expandido>
+    </resumo_expandido_congresso>
+    <resumo_congresso>
+        <resumo>
+          <doi>http://dx.doi.org/10.13140/RG.2.1.4927.6883</doi>
+          <autores>ROSSI, L. ; MENA-CHALCO, J. P.</autores>
+          <titulo>O grafo de genealogia dos matemáticos: coleta de dados e principais características</titulo>
+          <nome_evento>Congresso de Matemática Aplicada e Computacional (CMAC), 2015, Vitória. Proceeding Series of the Brazilian Society of Computational and Applied Mathematics</nome_evento>
+          <ano>2015</ano>
+          <volume></volume>
+          <paginas>1-2</paginas>
+          <numero></numero>
+        </resumo>
+        <resumo>
+          <doi>http://dx.doi.org/10.13140/RG.2.1.3317.7448</doi>
+          <autores>AKAZAKI, J. M. ; BUENO, L. R. ; MENA CHALCO, J. P.</autores>
+          <titulo>Analisando a Senioridade e Inatividade Acadêmica dos Doutores em Pesquisa Operacional do Brasil</titulo>
+          <nome_evento>Simpósio Brasileiro de Pesquisa Operacional (SBPO), 2015, Pernambuco. Anais do XLVII SBPO</nome_evento>
+          <ano>2015</ano>
+          <volume></volume>
+          <paginas>1-2</paginas>
+          <numero></numero>
+        </resumo>
+        <resumo>
+          <doi></doi>
+          <autores>SIDONE, O. J. G. ; HADDAD, E. A. ; MENA-CHALCO, J. P.</autores>
+          <titulo>Patterns of Scientific Collaboration in Brazil: Does Space Matter?</titulo>
+          <nome_evento>3rd Regional Science Association of the Americas (RSAMERICAS), 2013, Arica, Chile. Book of abstract (3rd Regional Science Association of the Americas (RSAMERICAS) and 5th Sociedad Chilena de Estudios Regionales (SOCHER)</nome_evento>
+          <ano>2013</ano>
+          <volume></volume>
+          <paginas></paginas>
+          <numero></numero>
+        </resumo>
+        <resumo>
+          <doi>http://dx.doi.org/10.13140/RG.2.1.1603.9521</doi>
+          <autores>MEDINA-RODRIGUEZ, R. ; CORDOVA, H. B. ; MENA-CHALCO, J. P.</autores>
+          <titulo>DNA Symphony: A new method to represent genomic sequences</titulo>
+          <nome_evento>International Conference of the AB3C (X-Meeting) Brazilian Symposium on Bioinformatics (BSB), 2013, Recife. International Conference of the AB3C (X-Meeting) Brazilian Symposium on Bioinformatics (BSB)</nome_evento>
+          <ano>2013</ano>
+          <volume></volume>
+          <paginas></paginas>
+          <numero></numero>
+        </resumo>
+        <resumo>
+          <doi></doi>
+          <autores>MIYAHARA, E. K. ; MENA-CHALCO, J. P. ; CESAR JUNIOR, R. M.</autores>
+          <titulo>Genealogia Acadêmica Lattes</titulo>
+          <nome_evento>19º Simpósio Internacional de Iniciação Científica da USP (SIICUSP), 2011, São Paulo. 19º Simpósio Internacional de Iniciação Científica da USP (SIICUSP)</nome_evento>
+          <ano>2011</ano>
+          <volume></volume>
+          <paginas></paginas>
+          <numero></numero>
+        </resumo>
+    </resumo_congresso>
+    <apresentacao_trabalho>
+        <trabalho_apresentado>
+          <titulo>Genealogia acadêmica: um novo olhar sobre o impacto acadêmico de pesquisadores</titulo>
+          <autores>MENA CHALCO, J. P</autores>
+          <ano>2017</ano>
+          <natureza>Apresentação de Trabalho/Seminário</natureza>
+        </trabalho_apresentado>
+        <trabalho_apresentado>
+          <titulo>Genealogia acadêmica: uma ferramenta para investigar a origem, evolução e disseminação de áreas do conhecimento</titulo>
+          <autores>MENA CHALCO, J. P</autores>
+          <ano>2017</ano>
+          <natureza>Apresentação de Trabalho/Comunicação</natureza>
+        </trabalho_apresentado>
+        <trabalho_apresentado>
+          <titulo>Workshop: Genealogia acadêmica: uma ferramenta para investigar a origem, evolução e disseminação de áreas do conhecimento</titulo>
+          <autores>MENA-CHALCO, J. P</autores>
+          <ano>2016</ano>
+          <natureza>Apresentação de Trabalho/Conferência ou palestra</natureza>
+        </trabalho_apresentado>
+    </apresentacao_trabalho>
+    <producao_bibliografica>
+        <producao>
+          <titulo>A genealogia acadêmica do Prof. Etelvino José Henriques Bechara. São Paulo: DOI: 10.13140/RG.2.1.1095.3685</titulo>
+          <autores>MENA-CHALCO, J. P</autores>
+          <ano>2015</ano>
+          <natureza>Relatorio tecnico</natureza>
+        </producao>
+        <producao>
+          <titulo>Projeto de genealogia dos matemáticos: Uma descrição dos dados registrados no período de 1363 à 2013. São Bernardo</titulo>
+          <autores>ROSSI, L. ; MENA-CHALCO, J. P.</autores>
+          <ano>2014</ano>
+          <natureza>Relatorio tecnico</natureza>
+        </producao>
+        <producao>
+          <titulo>Padrões de Colaboração Científica no Brasil: O Espaço Importa?. (Texto para Discussão - Nereus (Núcleo de Economia Regional e Urbana da Universidade de São Paulo)</titulo>
+          <autores>SIDONE, O. J. G. ; HADDAD, E. A. ; MENA-CHALCO, J. P.</autores>
+          <ano>2013</ano>
+          <natureza>Texto para Discussão - Nereus (Núcleo de Economia Regional e Urbana da Universidade de São Paulo), 2013 (Relatorio tecnico</natureza>
+        </producao>
+        <producao>
+          <titulo>Análise da produção bibliográfica e rede de coautoria da UFABC</titulo>
+          <autores>MENA-CHALCO, J. P.; DALPIAN, G. M. ; CAPELLE, K.</autores>
+          <ano>2013</ano>
+          <natureza>Relatorio tecnico</natureza>
+        </producao>
+        <producao>
+          <titulo>Banco de Dados de Faces 3D. São Paulo: IME-USP</titulo>
+          <autores>MENA-CHALCO, J. P.; CESAR JUNIOR, R. M. ; VELHO, L.</autores>
+          <ano>2011</ano>
+          <natureza>Relatorio tecnico</natureza>
+        </producao>
+    </producao_bibliografica>
+    <trabalhos_tecnicos>
+        <trabalho>
+          <titulo>6º EBBC - Encontro Brasileiro de Bibliometria e Cientometria (Comitê de programa)</titulo>
+          <autores>MENA-CHALCO, J. P</autores>
+          <ano>2018</ano>
+        </trabalho>
+        <trabalho>
+          <titulo>SNMAM 2017 - Track on Social Network and Media Analysis and Mining (Comitê de programa)</titulo>
+          <autores>MENA-CHALCO, J. P</autores>
+          <ano>2017</ano>
+        </trabalho>
+        <trabalho>
+          <titulo>SIBGRAPI 2017 - Workshop of Works in Progress (Revisor de trabalhos)</titulo>
+          <autores>MENA-CHALCO, J. P</autores>
+          <ano>2017</ano>
+        </trabalho>
+        <trabalho>
+          <titulo>ENANCIB 2017 - XVIII Encontro Nacional de Pesquisa em Ciência da Informação (Revisor de trabalhos)</titulo>
+          <autores>MENA-CHALCO, J. P</autores>
+          <ano>2017</ano>
+        </trabalho>
+        <trabalho>
+          <titulo>PSIVT 2017 - The Eighth Pacific-Rim Symposium on Image and Video Technology (revisor de trabalhos)</titulo>
+          <autores>MENA-CHALCO, J. P</autores>
+          <ano>2017</ano>
+        </trabalho>
+        <trabalho>
+          <titulo>CIARP 2016 - 21st IberoAmerican Congress on Pattern Recognition (Comitê de programa)</titulo>
+          <autores>MENA-CHALCO, J. P</autores>
+          <ano>2016</ano>
+        </trabalho>
+        <trabalho>
+          <titulo>5º EBBC - Encontro Brasileiro de Bibliometria e Cientometria (Comitê de programa)</titulo>
+          <autores>MENA-CHALCO, J. P</autores>
+          <ano>2016</ano>
+        </trabalho>
+        <trabalho>
+          <titulo>IV Fourth Brazilian Conference on Fuzzy Systems (Revisor de trabalhos)</titulo>
+          <autores>MENA-CHALCO, J. P</autores>
+          <ano>2016</ano>
+        </trabalho>
+        <trabalho>
+          <titulo>SIBGRAPI 2016 - Workshop of Works in Progress (Revisor de trabalhos)</titulo>
+          <autores>MENA-CHALCO, J. P</autores>
+          <ano>2016</ano>
+        </trabalho>
+        <trabalho>
+          <titulo>XV Congresso Brasileiro de Informática em Saúde - CBIS (Revisor de trabalhos)</titulo>
+          <autores>MENA-CHALCO, J. P</autores>
+          <ano>2016</ano>
+        </trabalho>
+        <trabalho>
+          <titulo>XVII Encontro Nacional de Pesquisa em Pós-Graduação em Ciência da Informação (Revisor de trabalhos)</titulo>
+          <autores>MENA-CHALCO, J. P</autores>
+          <ano>2016</ano>
+        </trabalho>
+        <trabalho>
+          <titulo>XXXVI Congresso Nacional de Matemática Aplicada e Computacional - CNMAC2016 (Comitê de programa)</titulo>
+          <autores>MENA-CHALCO, J. P</autores>
+          <ano>2016</ano>
+        </trabalho>
+        <trabalho>
+          <titulo>Seminário em Tecnologia da Informação Inteligente SeTII (Revisor de trabalhos)</titulo>
+          <autores>MENA-CHALCO, J. P</autores>
+          <ano>2016</ano>
+        </trabalho>
+        <trabalho>
+          <titulo>Blood vessel tracking in MRA images - Technical Video - SIBGRAPI 2010</titulo>
+          <autores>MACEDO, M. M. G. ; MENA-CHALCO, J. P. ; MEKKAOUI, C. ; JACKOWSKI, M. P.</autores>
+          <ano>2010</ano>
+        </trabalho>
+        <trabalho>
+          <titulo>Não sou um robô. 2016. (Programa de rádio ou</titulo>
+          <autores>MENA-CHALCO, J. P</autores>
+          <ano>2016</ano>
+        </trabalho>
+    </trabalhos_tecnicos>
+    <producao_tecnica>
+        <producao>
+          <titulo>Recuperação, representação e análise de dados acadêmicos prospectados de fontes brasileiras</titulo>
+          <autores>MENA-CHALCO, J. P</autores>
+          <natureza>Curso de curta duração ministrado/Especialização</natureza>
+          <ano>2018</ano>
+        </producao>
+        <producao>
+          <titulo>Análise de dados acadêmicos da Plataforma Lattes por meio do scriptLattes</titulo>
+          <autores>MENA-CHALCO, J. P</autores>
+          <natureza>Curso de curta duração ministrado/Especialização</natureza>
+          <ano>2011</ano>
+        </producao>
+    </producao_tecnica>
+    <orientacao_doutorado_em_andamento>
+        <tese>
+          <nome_aluno>Antônio de Abreu Batista Júnior</nome_aluno>
+          <titulo_trabalho>Identificação automática de pesquisadores especialistas: Uma abordagem baseada em mineração de dados</titulo_trabalho>
+          <ano>2017</ano>
+          <instituicao>Tese (Doutorado em Ciência da Computação) - Universidade Federal do ABC</instituicao>
+          <agencia_de_fomento>Fundação Oswaldo Cruz</agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
+        </tese>
+        <tese>
+          <nome_aluno>Julia Ferreira Bernardo</nome_aluno>
+          <titulo_trabalho>Mapeamento de pesquisadores difusores da área de prevenção de drogas em contextos educacionais</titulo_trabalho>
+          <ano>2017</ano>
+          <instituicao>Tese (Doutorado em Educação e Saúde na Infância e Adolescência) - Universidade Federal de São Paulo</instituicao>
+          <agencia_de_fomento>Coordenação de Aperfeiçoamento de Pessoal de Nível Superior. (Coorientador).</agencia_de_fomento>
+          <tipo_de_orientacao>Supervisor</tipo_de_orientacao>
+        </tese>
+        <tese>
+          <nome_aluno>Rafael Jeferson Pezzuto Damaceno</nome_aluno>
+          <titulo_trabalho>Criação de grafos de genealogia acadêmica: desenvolvimento de metodologias baseadas em mineração de dados</titulo_trabalho>
+          <ano>2016</ano>
+          <instituicao>Tese (Doutorado em Ciência da Computação) - Universidade Federal do ABC</instituicao>
+          <agencia_de_fomento>Coordenação de Aperfeiçoamento de Pessoal de Nível Superior</agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
+        </tese>
+        <tese>
+          <nome_aluno>Luciano Rossi</nome_aluno>
+          <titulo_trabalho>Os caminhos da ciência por meio do fluxo de conhecimento na perspectiva da genealogia acadêmica</titulo_trabalho>
+          <ano>2015</ano>
+          <instituicao>Tese (Doutorado em Ciência da Computação) - Universidade Federal do ABC</instituicao>
+          <agencia_de_fomento>Coordenação de Aperfeiçoamento de Pessoal de Nível Superior</agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
+        </tese>
+    </orientacao_doutorado_em_andamento>
+    <orientacao_mestrado_em_andamento>
+        <dissertacao>
+          <nome_aluno>Iara Miranda Prates</nome_aluno>
+          <titulo_trabalho>Algoritmos de simplificação em grafos de genealogia acadêmica</titulo_trabalho>
+          <ano>2017</ano>
+          <instituicao>Dissertação (Mestrado profissional em Ciência da Computação) - Universidade Federal do ABC</instituicao>
+          <agencia_de_fomento>Coordenação de Aperfeiçoamento de Pessoal de Nível Superior</agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
+        </dissertacao>
+        <dissertacao>
+          <nome_aluno>Rozivaldo Zacarias de Jesus</nome_aluno>
+          <titulo_trabalho>Caracterização de pesquisadores usando medidas de multidisciplinaridade: Uma abordagem baseada em mineração de publicações acadêmicas</titulo_trabalho>
+          <ano>2016</ano>
+          <instituicao>Dissertação (Mestrado em Ciência da Computação) - Universidade Federal do ABC</instituicao>
+          <agencia_de_fomento></agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
+        </dissertacao>
+        <dissertacao>
+          <nome_aluno>Diogo Fornaziero Segura Ramos</nome_aluno>
+          <titulo_trabalho>Análise temporal das relações de co-participação em bancas de defesa: uma abordagem baseado em evolução de grafos</titulo_trabalho>
+          <ano>2016</ano>
+          <instituicao>Dissertação (Mestrado em Ciência da Computação) - Universidade Federal do ABC</instituicao>
+          <agencia_de_fomento>UFABC</agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
+        </dissertacao>
+    </orientacao_mestrado_em_andamento>
+    <orientacao_tcc_em_andamento>
+        <tcc>
+          <nome_aluno>Leonardo Nascimento</nome_aluno>
+          <titulo_trabalho>O impacto da Ciência da Computação nas diferentes áreas do conhecimento a partir da análise de redes brasileiras de coautoria</titulo_trabalho>
+          <ano>2018</ano>
+          <instituicao>Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Federal do ABC</instituicao>
+          <agencia_de_fomento></agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
+        </tcc>
+        <tcc>
+          <nome_aluno>Lucas Hideki Kimura</nome_aluno>
+          <titulo_trabalho>Mineração de dados acadêmicos: uma abordagem baseada no catálogo de teses e dissertações da Capes</titulo_trabalho>
+          <ano>2018</ano>
+          <instituicao>Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Federal do ABC</instituicao>
+          <agencia_de_fomento></agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
+        </tcc>
+        <tcc>
+          <nome_aluno>Arthur Veloso Kamienski</nome_aluno>
+          <titulo_trabalho>identificação de pesquisadores relevantes utilizando técnicas de aprendizado de máquina</titulo_trabalho>
+          <ano>2018</ano>
+          <instituicao>Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Federal do ABC</instituicao>
+          <agencia_de_fomento></agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
+        </tcc>
+    </orientacao_tcc_em_andamento>
+    <orientacao_iniciacao_cientifica_em_andamento>
+        <iniciacao_cientifica>
+          <nome_aluno>Kaique de Queiroz</nome_aluno>
+          <titulo_trabalho>Uma análise sobre a influência do idioma em periódicos científicos</titulo_trabalho>
+          <ano>2018</ano>
+          <instituicao>Iniciação científica (Graduando em Ciência da Computação) - Universidade Federal do ABC</instituicao>
+          <agencia_de_fomento></agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
+        </iniciacao_cientifica>
+        <iniciacao_cientifica>
+          <nome_aluno>Gabriel Martins Trettel</nome_aluno>
+          <titulo_trabalho>A jornada da publicação herói: Uma análise de publicações em eventos que foram publicadas em periódicos</titulo_trabalho>
+          <ano>2018</ano>
+          <instituicao>Iniciação científica (Graduando em Ciência da Computação) - Universidade Federal do ABC</instituicao>
+          <agencia_de_fomento></agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
+        </iniciacao_cientifica>
+        <iniciacao_cientifica>
+          <nome_aluno>Thais Larissa Batista de Andrade</nome_aluno>
+          <titulo_trabalho>Identificação de padrões de gênero em redes de coautoria acadêmica</titulo_trabalho>
+          <ano>2018</ano>
+          <instituicao>Iniciação científica (Graduando em Ciência da Computação) - Universidade Federal do ABC</instituicao>
+          <agencia_de_fomento></agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
+        </iniciacao_cientifica>
+        <iniciacao_cientifica>
+          <nome_aluno>Bruna Pereira Santos</nome_aluno>
+          <titulo_trabalho>Caracterização de obras literárias usando redes de co-ocorrências</titulo_trabalho>
+          <ano>2017</ano>
+          <instituicao>Iniciação científica (Graduando em Ciência da Computação) - Universidade Federal do ABC</instituicao>
+          <agencia_de_fomento>Fundação de Amparo à Pesquisa do Estado de São Paulo</agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
+        </iniciacao_cientifica>
+    </orientacao_iniciacao_cientifica_em_andamento>
+    <supervisao_pos_doutorado_concluido>
+        <supervisao>
+          <nome_aluno>Laura Cristina Simões Viana</nome_aluno>
+          <titulo_trabalho></titulo_trabalho>
+          <ano>2018</ano>
+          <instituicao>Universidade Federal do ABC</instituicao>
+          <agencia_de_fomento>Escola Nacional de Saúde Pública Sergio Arouca</agencia_de_fomento>
+          <tipo_de_orientacao>Supervisor</tipo_de_orientacao>
+        </supervisao>
+    </supervisao_pos_doutorado_concluido>
+    <orientacao_mestrado_concluido>
+        <dissertacao>
+          <nome_aluno>Jacqueline Mayumi Akazaki</nome_aluno>
+          <titulo_trabalho>Senioridade efetiva e categoria de inatividade baseadas em produções acadêmicas</titulo_trabalho>
+          <ano>2016</ano>
+          <instituicao>Dissertação (Mestrado em Ciência da Computação) - Universidade Federal do ABC</instituicao>
+          <agencia_de_fomento>UFABC</agencia_de_fomento>
+          <tipo_de_orientacao>Supervisor</tipo_de_orientacao>
+        </dissertacao>
+        <dissertacao>
+          <nome_aluno>Rafael Jeferson Pezzuto Damaceno</nome_aluno>
+          <titulo_trabalho>Acessibilidade de pessoas com deficiência visual aos dispositivos móveis: Mapeamento de problemas, recomendações e estudo de caso de gestos de toque</titulo_trabalho>
+          <ano>2016</ano>
+          <instituicao>Dissertação (Mestrado em Ciência da Computação) - Universidade Federal do ABC</instituicao>
+          <agencia_de_fomento>Coordenação de Aperfeiçoamento de Pessoal de Nível Superior</agencia_de_fomento>
+          <tipo_de_orientacao>Supervisor</tipo_de_orientacao>
+        </dissertacao>
+        <dissertacao>
+          <nome_aluno>Evelyn Perez Cervantes</nome_aluno>
+          <titulo_trabalho>Análise de redes de colaboração científica: Uma abordagem baseada em grafos relacionais com atributos</titulo_trabalho>
+          <ano>2015</ano>
+          <instituicao>Dissertação (Mestrado em Ciências da Computação) - Universidade de São Paulo</instituicao>
+          <agencia_de_fomento>Coordenação de Aperfeiçoamento de Pessoal de Nível Superior</agencia_de_fomento>
+          <tipo_de_orientacao>Supervisor</tipo_de_orientacao>
+        </dissertacao>
+        <dissertacao>
+          <nome_aluno>Luciano Rossi</nome_aluno>
+          <titulo_trabalho>Caracterização de grafos de genealogia acadêmica por meio de métricas topológicas</titulo_trabalho>
+          <ano>2015</ano>
+          <instituicao>Dissertação (Mestrado em Ciência da Computação) - Universidade Federal do ABC</instituicao>
+          <agencia_de_fomento>Coordenação de Aperfeiçoamento de Pessoal de Nível Superior</agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
+        </dissertacao>
+        <dissertacao>
+          <nome_aluno>Andréa Britto Mattos</nome_aluno>
+          <titulo_trabalho>Animação de faces tridimensionais baseada em registro estrutural</titulo_trabalho>
+          <ano>2011</ano>
+          <instituicao>Dissertação (Mestrado em Ciências da Computação) - Universidade de São Paulo</instituicao>
+          <agencia_de_fomento>Fundação de Amparo à Pesquisa do Estado de São Paulo</agencia_de_fomento>
+          <tipo_de_orientacao>Supervisor</tipo_de_orientacao>
+        </dissertacao>
+    </orientacao_mestrado_concluido>
+    <orientacao_tcc_concluido>
+        <tcc>
+          <nome_aluno>Rodrigo Gruer Canhete</nome_aluno>
+          <titulo_trabalho>Algoritmos de identificação de relações de orientação acadêmica</titulo_trabalho>
+          <ano>2015</ano>
+          <instituicao>(Graduação em Ciência da Computação) - Universidade Federal do ABC</instituicao>
+          <agencia_de_fomento></agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
+        </tcc>
+        <tcc>
+          <nome_aluno>Harieth Bernedo Córdova</nome_aluno>
+          <titulo_trabalho>Firmas Genéticas Audibles: una nueva e representación de secuencias de ADN</titulo_trabalho>
+          <ano>2012</ano>
+          <instituicao>(Graduação em Ingeniería Informática) - Universidad Católica San Pablo</instituicao>
+          <agencia_de_fomento></agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
+        </tcc>
+        <tcc>
+          <nome_aluno>Edson Kiyohiro Miyahara</nome_aluno>
+          <titulo_trabalho>Genealogia Acadêmica Lattes (co-orientação)</titulo_trabalho>
+          <ano>2011</ano>
+          <instituicao>(Graduação em Ciências da Computação) - Universidade de São Paulo</instituicao>
+          <agencia_de_fomento></agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
+        </tcc>
+        <tcc>
+          <nome_aluno>Evelyn Perez Cervantes</nome_aluno>
+          <titulo_trabalho>Detección de comunidades en redes de colaboración científica</titulo_trabalho>
+          <ano>2010</ano>
+          <instituicao>(Graduação em Engenharia de Sistemas) - Universidad Nacional de San Agustín</instituicao>
+          <agencia_de_fomento></agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
+        </tcc>
+    </orientacao_tcc_concluido>
+    <orientacao_iniciacao_cientifica_concluido>
+        <iniciacao_cientifica>
+          <nome_aluno>Arthur Veloso Kamienski</nome_aluno>
+          <titulo_trabalho>Identificando pesquisadores relevantes em grafos de genealogia acadêmica: Uma abordagem baseada em PageRank</titulo_trabalho>
+          <ano>2018</ano>
+          <instituicao>(Graduando em Ciência da Computação) - Universidade Federal do ABC</instituicao>
+          <agencia_de_fomento>Fundação de Amparo à Pesquisa do Estado de São Paulo</agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
+        </iniciacao_cientifica>
+        <iniciacao_cientifica>
+          <nome_aluno>Ana Laura Belotto Claudio (coorientador)</nome_aluno>
+          <titulo_trabalho>Identificação de similaridade em disciplinas do catálogo da UFABC</titulo_trabalho>
+          <ano>2018</ano>
+          <instituicao>(Graduando em Ciência da Computação) - Universidade Federal do ABC</instituicao>
+          <agencia_de_fomento>PIC-UFABC</agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
+        </iniciacao_cientifica>
+        <iniciacao_cientifica>
+          <nome_aluno>Brian Alves Andreossi</nome_aluno>
+          <titulo_trabalho>Heurísticas computacionais para identificação e redução de potenciais conflitos de interesse em bancas de concursos</titulo_trabalho>
+          <ano>2018</ano>
+          <instituicao>(Graduando em Ciência da Computação) - Universidade Federal do ABC</instituicao>
+          <agencia_de_fomento></agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
+        </iniciacao_cientifica>
+        <iniciacao_cientifica>
+          <nome_aluno>Erick Akio Oti Aoyagui (coorientador)</nome_aluno>
+          <titulo_trabalho>Detecção de comunidades em grafos de genealogia acadêmica através de propagação de rótulos</titulo_trabalho>
+          <ano>2018</ano>
+          <instituicao>(Graduando em Ciência da Computação) - Universidade Federal do ABC</instituicao>
+          <agencia_de_fomento>PIC-UFABC</agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
+        </iniciacao_cientifica>
+        <iniciacao_cientifica>
+          <nome_aluno>Isabela Maria Biagioni Pedro (coorientador)</nome_aluno>
+          <titulo_trabalho>Análise de regiões urbanas brasileiras com base em características da configuração de logradouros</titulo_trabalho>
+          <ano>2018</ano>
+          <instituicao>(Graduando em Ciência e Tecnologia) - Universidade Federal do ABC</instituicao>
+          <agencia_de_fomento>PIC-UFABC</agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
+        </iniciacao_cientifica>
+        <iniciacao_cientifica>
+          <nome_aluno>Diego Pereira de Lima</nome_aluno>
+          <titulo_trabalho>Detecção automática de plágio em código-fonte Java: estudo e desenvolvimento de algoritmos</titulo_trabalho>
+          <ano>2017</ano>
+          <instituicao>(Graduando em Ciência da Computação) - Universidade Federal do ABC</instituicao>
+          <agencia_de_fomento>PIBIC-UFABC</agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
+        </iniciacao_cientifica>
+        <iniciacao_cientifica>
+          <nome_aluno>Lara Tenore Ferreira</nome_aluno>
+          <titulo_trabalho>Análise webométrica da UFABC: Uma abordagem computacional baseada emgrafos de hiperlinks</titulo_trabalho>
+          <ano>2017</ano>
+          <instituicao>(Graduando em Ciência e Tecnologia) - Universidade Federal do ABC</instituicao>
+          <agencia_de_fomento>UFABC</agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
+        </iniciacao_cientifica>
+        <iniciacao_cientifica>
+          <nome_aluno>Lucas Theodoro Guimarães de Almeida</nome_aluno>
+          <titulo_trabalho>Inter- e intra-relação dos sub-domínios da UFABC através de grafos de hiperlinks: Uma abordagemwebométrica</titulo_trabalho>
+          <ano>2017</ano>
+          <instituicao>(Graduando em Ciência e Tecnologia) - Universidade Federal do ABC</instituicao>
+          <agencia_de_fomento></agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
+        </iniciacao_cientifica>
+        <iniciacao_cientifica>
+          <nome_aluno>Nathalia Tescarollo Gonçalves</nome_aluno>
+          <titulo_trabalho>Análise do deslocamento geográfico de pesquisadores em relação ao Brasil: migrações endógenas, imigrações e emigrações (Coorientador)</titulo_trabalho>
+          <ano>2017</ano>
+          <instituicao>(Graduando em Ciência e Tecnologia) - Universidade Federal do ABC</instituicao>
+          <agencia_de_fomento>PIC-UFABC</agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
+        </iniciacao_cientifica>
+        <iniciacao_cientifica>
+          <nome_aluno>Victor Hugo Silva Oliveira</nome_aluno>
+          <titulo_trabalho>Análise de websites institucionais usando webometria e teoria espectral dos grafos</titulo_trabalho>
+          <ano>2017</ano>
+          <instituicao>(Graduando em Ciência da Computação) - Universidade Federal do ABC</instituicao>
+          <agencia_de_fomento></agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
+        </iniciacao_cientifica>
+        <iniciacao_cientifica>
+          <nome_aluno>Ana Laura Belotto Claudio</nome_aluno>
+          <titulo_trabalho>Classificação automática de filmes por análise de texto: uma abordagem baseada em aprendizado de máquina (coorientador)</titulo_trabalho>
+          <ano>2017</ano>
+          <instituicao>(Graduando em Ciência e Tecnologia) - Universidade Federal do ABC</instituicao>
+          <agencia_de_fomento>PIC-UFABC</agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
+        </iniciacao_cientifica>
+        <iniciacao_cientifica>
+          <nome_aluno>Ana da Silva de Paula</nome_aluno>
+          <titulo_trabalho>Análise do paradoxo da amizade em árvores de genealogia acadêmica</titulo_trabalho>
+          <ano>2017</ano>
+          <instituicao>Iniciação Científica - Universidade Federal do ABC</instituicao>
+          <agencia_de_fomento>PICME</agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
+        </iniciacao_cientifica>
+        <iniciacao_cientifica>
+          <nome_aluno>Rodrigo Martins de Oliveira</nome_aluno>
+          <titulo_trabalho>Metamotifs em redes complexas: Uma nova abordagem para a análise de relaçõs entre motifs</titulo_trabalho>
+          <ano>2016</ano>
+          <instituicao>(Graduando em Ciência da Computação) - Universidade Federal do ABC</instituicao>
+          <agencia_de_fomento>PIBIC-UFABC</agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
+        </iniciacao_cientifica>
+        <iniciacao_cientifica>
+          <nome_aluno>Diego Pereira de Lima</nome_aluno>
+          <titulo_trabalho>Detecção de similaridade em códigos-fonte através de agrupamento do fluxo de processamento</titulo_trabalho>
+          <ano>2016</ano>
+          <instituicao>(Graduando em Ciência da Computação) - Universidade Federal do ABC</instituicao>
+          <agencia_de_fomento>PIBIC-UFABC</agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
+        </iniciacao_cientifica>
+        <iniciacao_cientifica>
+          <nome_aluno>Victor Campagner de Barros</nome_aluno>
+          <titulo_trabalho>Inferência de gênero baseada em nomes completos: estudo, desenvolvimento e implementação de algoritmos de aprendizado de máquina supervisionado</titulo_trabalho>
+          <ano>2014</ano>
+          <instituicao>(Graduando em Ciência da Computação) - Universidade Federal do ABC</instituicao>
+          <agencia_de_fomento>PIC-UFABC</agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
+        </iniciacao_cientifica>
+        <iniciacao_cientifica>
+          <nome_aluno>Rodrigo Martins de Oliveira</nome_aluno>
+          <titulo_trabalho>Motifs em redes complexas: estudo, desenvolvimento e implementação de algoritmos eficientes em redes de grande porte</titulo_trabalho>
+          <ano>2014</ano>
+          <instituicao>(Graduando em Ciência da Computação) - Universidade Federal do ABC</instituicao>
+          <agencia_de_fomento>PIC-UFABC</agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
+        </iniciacao_cientifica>
+        <iniciacao_cientifica>
+          <nome_aluno>Marcelo Schirbel Gomes</nome_aluno>
+          <titulo_trabalho>Estudo, desenvolvimento e implementação de algoritmos computacionais de casamento aproximado entre strings</titulo_trabalho>
+          <ano>2014</ano>
+          <instituicao>(Graduando em Ciência da Computação) - Universidade Federal do ABC</instituicao>
+          <agencia_de_fomento>PIC-UFABC</agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
+        </iniciacao_cientifica>
+        <iniciacao_cientifica>
+          <nome_aluno>Vinicius Fonseca Gomes</nome_aluno>
+          <titulo_trabalho>Estudo comparativo de métricas topológicas em redes de coautoria científica dos docentes da UFABC (PDPD)</titulo_trabalho>
+          <ano>2013</ano>
+          <instituicao>(Graduando em Ciência e Tecnologia) - Universidade Federal do ABC</instituicao>
+          <agencia_de_fomento>Conselho Nacional de Desenvolvimento Científico e Tecnológico</agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
+        </iniciacao_cientifica>
+        <iniciacao_cientifica>
+          <nome_aluno>Rodrigo Martins de Oliveira</nome_aluno>
+          <titulo_trabalho>Problemas de timetabling: Um estudo comparativo de algoritmos de otimização combinatória (PDPD)</titulo_trabalho>
+          <ano>2013</ano>
+          <instituicao>(Graduando em Ciência e Tecnologia) - Universidade Federal do ABC</instituicao>
+          <agencia_de_fomento>Conselho Nacional de Desenvolvimento Científico e Tecnológico</agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
+        </iniciacao_cientifica>
+    </orientacao_iniciacao_cientifica_concluido>
+    <orientacao_outros_tipos_concluido>
+        <orientacao_outra>
+          <nome_aluno>Hugo Tamotsu Takahashi</nome_aluno>
+          <titulo_trabalho>Estágio Supervisionado</titulo_trabalho>
+          <ano>2018</ano>
+          <instituicao>(Ciência da Computação) - Universidade Federal do ABC</instituicao>
+          <agencia_de_fomento></agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
+        </orientacao_outra>
+        <orientacao_outra>
+          <nome_aluno>Thomaz Antonio Soares</nome_aluno>
+          <titulo_trabalho>Estágio Supervisionado</titulo_trabalho>
+          <ano>2017</ano>
+          <instituicao>(Ciência da Computação) - Universidade Federal do ABC</instituicao>
+          <agencia_de_fomento></agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
+        </orientacao_outra>
+        <orientacao_outra>
+          <nome_aluno>Rafael Augusto Pissardo</nome_aluno>
+          <titulo_trabalho>Estágio Supervisionado</titulo_trabalho>
+          <ano>2017</ano>
+          <instituicao>(Ciência da Computação) - Universidade Federal do ABC</instituicao>
+          <agencia_de_fomento></agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
+        </orientacao_outra>
+    </orientacao_outros_tipos_concluido>
+    <participacao_evento>
+        <evento>
+          <titulo>XXXII Congresso da Sociedade Brasileira de Computação. Caracterizando as redes de coautoria de currículos Lattes. 2012. (Congresso).</titulo>
+          <ano>2012</ano>
+        </evento>
+        <evento>
+          <titulo>III Seminário Internacional Ferramentas de Inteligência Competitiva.Análise de dados acadêmicos da plataforma Lattes por meio do scriptLattes. 2011. (Seminário).</titulo>
+          <ano>2011</ano>
+        </evento>
+        <evento>
+          <titulo>2do Encontro Brasileiro de bibliometria e cientometria.scriptLattes: extração e visualização de conhecimento a partir de CV-Lattes (Sessão Técnica). 2010. (Encontro).</titulo>
+          <ano>2010</ano>
+        </evento>
+        <evento>
+          <titulo>IV Simposio de Computación Gráfica y Procesamiento de Imágenes (SCGI2010).Caricaturização de rostros en 3D: un abordaje basado en proporciones faciales. 2010. (Simpósio).</titulo>
+          <ano>2010</ano>
+        </evento>
+        <evento>
+          <titulo>Seminário de apresentação do scriptLattes para a Pró-Reitoria de pesquisa da UFABC.Ferramenta scriptLattes. 2010. (Outra).</titulo>
+          <ano>2010</ano>
+        </evento>
+        <evento>
+          <titulo>Seminarios de Raios Cósmicos e Cronologia do Instituto de Física Gleb Wataghin.Sumarização de dados cientificos de currículos Lattes mediante scriptLattes. 2010. (Seminário).</titulo>
+          <ano>2010</ano>
+        </evento>
+    </participacao_evento>
+    <organizacao_evento>
+        <evento>
+          <titulo></titulo>
+          <natureza></natureza>
+          <ano>0</ano>
+        </evento>
+        <evento>
+          <titulo></titulo>
+          <natureza></natureza>
+          <ano>0</ano>
+        </evento>
+        <evento>
+          <titulo></titulo>
+          <natureza></natureza>
+          <ano>0</ano>
+        </evento>
+    </organizacao_evento>
+  </pesquisador>
+  <pesquisador id="2240951178648368">
+    <identificacao>
+      <identificador10></identificador10>
+      <nome_inicial>Roberto Marcondes Cesar Junior</nome_inicial>
+      <nome_completo>Roberto Marcondes Cesar Junior</nome_completo>
+      <nome_citacao_bibliografica>CESAR JUNIOR, R. M.;Cesar, R.M.;Cesar, Roberto M.;CESARJR, R;Cesar Jr., Roberto M.;Cesar Junior, Roberto Marcondes;Cesar Jr., R.M.;Cesar, Roberto M;Cesar Jr, Roberto M.;CESAR-JR, ROBERTO M.;Cesar, Roberto Marcondes;CESAR-JR, ROBERTO M</nome_citacao_bibliografica>
+      <sexo>Masculino</sexo>
+    </identificacao>
+    <idiomas>
+      <idioma>
+          <nome>Inglês</nome>
+          <proficiencia>Compreende Bem, Fala Bem, Lê Bem, Escreve Bem.</proficiencia>
+      </idioma>
+      <idioma>
+          <nome>Francês</nome>
+          <proficiencia>Compreende Bem, Fala Bem, Lê Bem, Escreve Bem.</proficiencia>
+      </idioma>
+    </idiomas>
+    <endereco>
+      <endereco_profissional>Universidade de São Paulo, Instituto de Matemática e Estatística, Departamento de Ciência da Computação. Rua do Matão 1010 Cidade Universitária 05508-090 - Sao Paulo, SP - Brasil Telefone: (11) 30916135 Ramal: 6235 Fax: (11) 30916134 URL da Homepage: http://scholar.google.com/citations?user=yGsck-AAAAAJhl=en</endereco_profissional>
+      <endereco_profissional_lat>-23.5598580</endereco_profissional_lat>
+      <endereco_profissional_long>-46.7329875</endereco_profissional_long>
+    </endereco>
+    <formacao_academica>
+        <formacao>
+          <ano_inicio>1994</ano_inicio>
+          <ano_conclusao>1997</ano_conclusao>
+          <tipo>Doutorado em Física</tipo>
+          <nome_instituicao>Universidade de São Paulo, USP, Brasil</nome_instituicao>
+          <descricao>com período sanduíche em Université Catholique de Louvain (Orientador: Jean-Pierre Antoine). Título: Análise Multi-escala de formas bidimensionais, Ano de obtenção: 1997. Orientador: Luciano da Fontoura Costa. Coorientador: Jean-Pierre Antoine. Bolsista do(a): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior, CAPES, Brasil.</descricao>
+        </formacao>
+        <formacao>
+          <ano_inicio>1992</ano_inicio>
+          <ano_conclusao>1993</ano_conclusao>
+          <tipo>Mestrado em Engenharia Elétrica</tipo>
+          <nome_instituicao>Universidade Estadual de Campinas, UNICAMP, Brasil</nome_instituicao>
+          <descricao>Título: Reconstrução tridimensional (3D) por ajuste de superfícies paramétricas,Ano de Obtenção: 1993. Orientador: Roberto de Alencar Lotufo. Bolsista do(a): Fundação de Amparo à Pesquisa do Estado de São Paulo, FAPESP, Brasil.</descricao>
+        </formacao>
+        <formacao>
+          <ano_inicio>1987</ano_inicio>
+          <ano_conclusao>1992</ano_conclusao>
+          <tipo>Graduação em BCC - São José do Rio Preto</tipo>
+          <nome_instituicao>Universidade Estadual Paulista Júlio de Mesquita Filho, UNESP, Brasil</nome_instituicao>
+          <descricao></descricao>
+        </formacao>
+    </formacao_academica>
+    <projetos_pesquisa>
+        <projeto>
+          <ano_inicio>2012</ano_inicio>
+          <ano_conclusao>Atual</ano_conclusao>
+          <nome>NAP-USP eScience</nome>
+          <descricao>Descrição: Modern science is interdisciplinary and data-intensive. For instance, in the 1000 Genomes Project (www.1000genomes.org), the comparative study of 629 individuals has already generated 7.3 TB of data. Analogous situations exist in fields such as astronomy, agriculture, social sciences, etc. Ten years ago, the problem was how to obtain data. Today, the bottleneck is the need for new computational strategies and tools so that scientists can manage these massive volumes of heterogeneous, distributed, data, so that they can generate new knowledge from the processing, analysis and visualization of the data. This launched the basis of the so-called eScience: the combination of advanced research in computer science and mathematical modeling to allow and accelerate research in other knowledge domains. National programs in eScience have been created in the US, GB, Australia and other countries, that recognized the importance of this theme for the advancement of science. The main goal of this project is the design and construction of a collaborative network for research in eScience, in a partnership that involves computer science, mathematical modeling and specific domains in the exact, life, agricultural sciences and social sciences.. Situação: Em andamento; Natureza: Pesquisa.Descrição: Modern science is interdisciplinary and data-intensive. For instance, in the 1000 Genomes Project (www.1000genomes.org), the comparative study of 629 individuals has already generated 7.3 TB of data. Analogous situations exist in fields such as astronomy, agriculture, social sciences, etc. Ten years ago, the problem was how to obtain data. Today, the bottleneck is the need for new computational strategies and tools so that scientists can manage these massive volumes of heterogeneous, distributed, data, so that they can generate new knowledge from the processing, analysis and visualization of the data. This launched the basis of the so-called eScience: the combination of advanced research in computer science and mathematical modeling to allow and accelerate research in other knowledge domains. National programs in eScience have been created in the US, GB, Australia and other countries, that recognized the importance of this theme for the advancement of science. The main goal of this project is the design and construction of a collaborative network for research in eScience, in a partnership that involves computer science, mathematical modeling and specific domains in the exact, life, agricultural sciences and social sciences.. Situação: Em andamento; Natureza: Pesquisa.</descricao>
+        </projeto>
+        <projeto>
+          <ano_inicio>2011</ano_inicio>
+          <ano_conclusao>Atual</ano_conclusao>
+          <nome>Temático-Pronex: Modelos e métodos de e-Science para ciências da vida e agrárias</nome>
+          <descricao>Descrição: A ciência moderna é crescentemente interdisciplinar e intensiva em dados. Na área de ciências da vida, por exemplo, com o surgimento de plataformas de alto desempenho para análise de imagens e estudos genômicos, o gargalo não está mais na aquisição de dados, mas sim no seu armazenamento, processamento, análise e visualização. Este cenário levou ao surgimento de um novo campo de pesquisa - eScience - que combina pesquisa avançada em computação e em modelagem matemática para permitir e acelerar pesquisa em outros domínios do conhecimento, desde as ciências exatas até as humanidades e artes. A eScience envolve a chamada "computação centrada em dados" (data-intensive computing), com a busca de soluções para gerenciamento de grandes volumes de dados produzidos por (e para) experimentos científicos, para que a descoberta científica não venha a ser detida pelo "dilúvio de dados". Este projeto visa a criação de uma rede colaborativa de eScience para acelerar pesquisa avançada em ciências da vida (biologia, medicina, oceanografia) e ciências agrárias. Está estruturado em tomo de cinco linhas de pesquisa - biologia de sistemas, planejamento de safras, computação visual, modelagem matemática e bancos de dados. Dentro dessas linhas, serão tratadas questões em aberto associadas às principais componentes de um ambiente de pesquisa em eScience: armazenamento, processamento, análise e visualização de grandes volumes de dados científicos. Os pesquisadores principais têm histórico de cooperação e coordenação de projetos nessas linhas. Questões de interoperalidade permeiam todo o projeto.. Situação: Em andamento; Natureza: Pesquisa.</descricao>
+        </projeto>
+    </projetos_pesquisa>
+    <area_atuacao>
+          <descricao>Grande área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Metodologia e Técnicas da Computação/Especialidade: Processamento Gráfico (Graphics).</descricao>
+    </area_atuacao>
+    <premios_titulos>
+        <premio_titulo>
+          <ano>2011</ano>
+          <descricao>Menção honrosa no Prêmio Tese Destaque da USP (orientador da tese de Fabrício M. Lopes): http://www.prpg.usp.br/100mil/?p=1437, USP.</descricao>
+        </premio_titulo>
+        <premio_titulo>
+          <ano>2010</ano>
+          <descricao>Menção honrosa no prêmio Capes de teses 2009 - David C. Martins Jr. (doutorado), CAPES.</descricao>
+        </premio_titulo>
+    </premios_titulos>
+    <colaboradores>
+        <id_lattes_colaborador>0305044530923158</id_lattes_colaborador>
+        <id_lattes_colaborador>8540637195455101</id_lattes_colaborador>
+        <id_lattes_colaborador>4163876539828813</id_lattes_colaborador>
+        <id_lattes_colaborador>2837012019824386</id_lattes_colaborador>
+        <id_lattes_colaborador>9224426261471914</id_lattes_colaborador>
+        <id_lattes_colaborador>0202442951723700</id_lattes_colaborador>
+        <id_lattes_colaborador>1689147340536405</id_lattes_colaborador>
+        <id_lattes_colaborador>0362417828475021</id_lattes_colaborador>
+        <id_lattes_colaborador>3543332021306245</id_lattes_colaborador>
+        <id_lattes_colaborador>9117294755914022</id_lattes_colaborador>
+        <id_lattes_colaborador>3645880866476151</id_lattes_colaborador>
+        <id_lattes_colaborador>1228255861618623</id_lattes_colaborador>
+        <id_lattes_colaborador>1249856748676359</id_lattes_colaborador>
+        <id_lattes_colaborador>7824954032846499</id_lattes_colaborador>
+        <id_lattes_colaborador>9436687101313785</id_lattes_colaborador>
+        <id_lattes_colaborador>9012341969571070</id_lattes_colaborador>
+        <id_lattes_colaborador>2961730349897943</id_lattes_colaborador>
+        <id_lattes_colaborador>9500245604678806</id_lattes_colaborador>
+        <id_lattes_colaborador>9563440403120931</id_lattes_colaborador>
+        <id_lattes_colaborador>8076305092222491</id_lattes_colaborador>
+        <id_lattes_colaborador>1647118503085126</id_lattes_colaborador>
+        <id_lattes_colaborador>2254436025676785</id_lattes_colaborador>
+        <id_lattes_colaborador>4616667057431718</id_lattes_colaborador>
+        <id_lattes_colaborador>0695807172948176</id_lattes_colaborador>
+        <id_lattes_colaborador>0858482819476716</id_lattes_colaborador>
+        <id_lattes_colaborador>4585253466628293</id_lattes_colaborador>
+        <id_lattes_colaborador>9283304583756076</id_lattes_colaborador>
+        <id_lattes_colaborador>7213131263042115</id_lattes_colaborador>
+        <id_lattes_colaborador>0547247156673030</id_lattes_colaborador>
+        <id_lattes_colaborador>6446649203260844</id_lattes_colaborador>
+        <id_lattes_colaborador>1965696768654682</id_lattes_colaborador>
+        <id_lattes_colaborador>4727357182510680</id_lattes_colaborador>
+        <id_lattes_colaborador>8329483815933202</id_lattes_colaborador>
+        <id_lattes_colaborador>9974457804445381</id_lattes_colaborador>
+        <id_lattes_colaborador>6877649058117092</id_lattes_colaborador>
+        <id_lattes_colaborador>5052452346402051</id_lattes_colaborador>
+        <id_lattes_colaborador>3794241680729178</id_lattes_colaborador>
+        <id_lattes_colaborador>5202507473898970</id_lattes_colaborador>
+        <id_lattes_colaborador>6034895056612739</id_lattes_colaborador>
+        <id_lattes_colaborador>6382816131483581</id_lattes_colaborador>
+        <id_lattes_colaborador>5144730275745518</id_lattes_colaborador>
+        <id_lattes_colaborador>2093767103221971</id_lattes_colaborador>
+        <id_lattes_colaborador>2240951178648368</id_lattes_colaborador>
+        <id_lattes_colaborador>5050297112715056</id_lattes_colaborador>
+        <id_lattes_colaborador>4375702835280938</id_lattes_colaborador>
+        <id_lattes_colaborador>5909154335340519</id_lattes_colaborador>
+        <id_lattes_colaborador>0836268100108515</id_lattes_colaborador>
+        <id_lattes_colaborador>1660070580824436</id_lattes_colaborador>
+        <id_lattes_colaborador>7090251302458231</id_lattes_colaborador>
+        <id_lattes_colaborador>2127324942400439</id_lattes_colaborador>
+        <id_lattes_colaborador>3137165519167799</id_lattes_colaborador>
+        <id_lattes_colaborador>7549395284137638</id_lattes_colaborador>
+        <id_lattes_colaborador>5337976093923686</id_lattes_colaborador>
+        <id_lattes_colaborador>5011837939713517</id_lattes_colaborador>
+        <id_lattes_colaborador>2138325439959146</id_lattes_colaborador>
+        <id_lattes_colaborador>0282042576824255</id_lattes_colaborador>
+        <id_lattes_colaborador>5799700325728628</id_lattes_colaborador>
+        <id_lattes_colaborador>1562357566810393</id_lattes_colaborador>
+        <id_lattes_colaborador>5510586949900283</id_lattes_colaborador>
+        <id_lattes_colaborador>8115411925529441</id_lattes_colaborador>
+        <id_lattes_colaborador>4333940423066302</id_lattes_colaborador>
+        <id_lattes_colaborador>0131770792108992</id_lattes_colaborador>
+        <id_lattes_colaborador>5567035007239202</id_lattes_colaborador>
+        <id_lattes_colaborador>9284531339856547</id_lattes_colaborador>
+        <id_lattes_colaborador>1070857667624232</id_lattes_colaborador>
+        <id_lattes_colaborador>2573022390208533</id_lattes_colaborador>
+        <id_lattes_colaborador>6366443994619479</id_lattes_colaborador>
+        <id_lattes_colaborador>0535832893308038</id_lattes_colaborador>
+        <id_lattes_colaborador>6032675883071976</id_lattes_colaborador>
+    </colaboradores>
+    <artigos_em_periodicos>
+        <artigo>
+          <doi>http://dx.doi.org/10.1016/j.cviu.2016.12.003</doi>
+          <titulo>Exploring structure for long-term tracking of multiple objects in sports videos</titulo>
+          <autores>MORIMITSU, H. ; BLOCH, Isabelle ; Cesar Jr, Roberto M.</autores>
+          <revista>COMPUTER VISION AND IMAGE UNDERSTANDING</revista>
+          <volume>COMPUTER VISION AND IMAGE UNDERSTANDING</volume>
+          <paginas>89-104</paginas>
+          <numero></numero>
+          <ano>2017</ano>
+        </artigo>
+        <artigo>
+          <doi>http://dx.doi.org/10.1109/TIFS.2016.2541611</doi>
+          <titulo>Two-Dimensional Wavelet Analysis of Supraorbital Margins of the Human Skull for Characterizing Sexual Dimorphism</titulo>
+          <autores>PINTO, S. C. D. ; URBANOVA, P. ; Cesar Jr, Roberto M.</autores>
+          <revista>IEEE Transactions on Information Forensics and Security</revista>
+          <volume>IEEE Transactions on Information Forensics and Security</volume>
+          <paginas>1542-1548</paginas>
+          <numero></numero>
+          <ano>2016</ano>
+        </artigo>
+        <artigo>
+          <doi>http://dx.doi.org/10.5206/tjr.2016.1.4.8</doi>
+          <titulo>Notes from the Field: The Role of Datasets in Transitional Justice Research: The Case of Brazilian Truth Commission</titulo>
+          <autores>MEZAROBBA, GLENDA ; Cesar, Roberto M.</autores>
+          <revista>Transitional Justice Review</revista>
+          <volume>Transitional Justice Review</volume>
+          <paginas>1-21</paginas>
+          <numero></numero>
+          <ano>2016</ano>
+        </artigo>
+        <artigo>
+          <doi>http://dx.doi.org/10.1080/01431161.2016.1201227</doi>
+          <titulo>A two-level Markov random field for road network extraction and its application with optical, SAR, and multitemporal data</titulo>
+          <autores>PERCIANO, T. ; TUPIN, F. ; HIRATA JR., R. ; Cesar Jr, Roberto M.</autores>
+          <revista>International Journal of Remote Sensing (Print)</revista>
+          <volume>International Journal of Remote Sensing (Print)</volume>
+          <paginas>3584-3610</paginas>
+          <numero></numero>
+          <ano>2016</ano>
+        </artigo>
+        <artigo>
+          <doi>http://dx.doi.org/10.1186/s12859-015-0452-0</doi>
+          <titulo>Data-intensive analysis of HIV mutations</titulo>
+          <autores>OZAHATA, MINA CINTHO ; SABINO, ESTER CERDEIRA ; DIAZ, RICARDO SOBHIE ; CESAR-JR, ROBERTO M ; FERREIRA, JOÃO EDUARDO</autores>
+          <revista>BMC Bioinformatics</revista>
+          <volume>BMC Bioinformatics</volume>
+          <paginas>35</paginas>
+          <numero></numero>
+          <ano>2015</ano>
+        </artigo>
+        <artigo>
+          <doi>http://dx.doi.org/10.1002/lom3.10058</doi>
+          <titulo>Visual rhythm for particle analysis in sample-in-flow systems: Application for continuous plankton monitoring</titulo>
+          <autores>MATUSZEWSKI, DAMIAN J. ; Cesar, Roberto M. ; STRICKLER, J. RUDI ; BALDASSO, LUIS F. ; LOPES, RUBENS M.</autores>
+          <revista>Limnology and Oceanography, Methods</revista>
+          <volume>Limnology and Oceanography, Methods</volume>
+          <paginas>n/a-n/a</paginas>
+          <numero></numero>
+          <ano>2015</ano>
+        </artigo>
+        <artigo>
+          <doi>http://dx.doi.org/10.1016/j.gene.2014.03.010</doi>
+          <titulo>Entropic Biological Score: a cell cycle investigation for GRN inference</titulo>
+          <autores>Lopes, Fabrício M. ; RAY, SHUBHRA SANKAR ; HASHIMOTO, RONALDO F. ; Cesar, Roberto M.</autores>
+          <revista>Gene (Amsterdam)</revista>
+          <volume>Gene (Amsterdam)</volume>
+          <paginas>129-137</paginas>
+          <numero></numero>
+          <ano>2014</ano>
+        </artigo>
+        <artigo>
+          <doi>http://dx.doi.org/10.1016/j.ins.2014.02.096</doi>
+          <titulo>A feature selection technique for inference of graphs from their known topological properties: Revealing scale-free gene regulatory networks</titulo>
+          <autores>Lopes, Fabrício M. ; MARTINS JR, David Corrêa ; BARRERA, Junior ; CESAR JUNIOR, R. M.</autores>
+          <revista>Information Sciences</revista>
+          <volume>Information Sciences</volume>
+          <paginas>1-15</paginas>
+          <numero></numero>
+          <ano>2014</ano>
+        </artigo>
+        <artigo>
+          <doi>http://dx.doi.org/10.1002/asi.23010</doi>
+          <titulo>Brazilian bibliometric coauthorship networks</titulo>
+          <autores>MENA-CHALCO, JESÚS PASCUAL ; DIGIAMPIETRI, LUCIANO ANTONIO ; LOPES, Fabrício M. ; CESAR JUNIOR, R. M.</autores>
+          <revista>Journal of the Association for Information Science and Technology</revista>
+          <volume>Journal of the Association for Information Science and Technology</volume>
+          <paginas>1424-1445</paginas>
+          <numero></numero>
+          <ano>2014</ano>
+        </artigo>
+        <artigo>
+          <doi>http://dx.doi.org/10.1039/c3mb25475e</doi>
+          <titulo>A methodology to infer gene networks from spatial patterns of expression - An application to fuorescence insitu hybridization images</titulo>
+          <autores>CAMPITELI, MONICA GUIMARÃES ; COMIN, CESAR HENRIQUE ; COSTA, LUCIANO DA FONTOURA ; BABU, MADAN ; Cesar, Roberto Marcondes</autores>
+          <revista>Molecular Biosystems (Print)</revista>
+          <volume>Molecular Biosystems (Print)</volume>
+          <paginas>1926</paginas>
+          <numero></numero>
+          <ano>2013</ano>
+        </artigo>
+        <artigo>
+          <doi>http://dx.doi.org/10.1016/j.ins.2012.10.027</doi>
+          <titulo>Signal propagation in Bayesian networks and its relationship with intrinsically multivariate predictive variables</titulo>
+          <autores>Martins, David C. ; DE OLIVEIRA, EVALDO A. ; BRAGA-NETO, ULISSES M. ; HASHIMOTO, RONALDO F. ; Cesar, Roberto M.</autores>
+          <revista>Information Sciences</revista>
+          <volume>Information Sciences</volume>
+          <paginas>18-34</paginas>
+          <numero></numero>
+          <ano>2013</ano>
+        </artigo>
+        <artigo>
+          <doi>http://dx.doi.org/10.1016/j.patcog.2011.06.016</doi>
+          <titulo>Modeling and measuring the spatial relation along : Regions, contours and fuzzy sets</titulo>
+          <autores>TAKEMURA, Celina Maki ; Cesar, Roberto M. ; BLOCH, Isabelle</autores>
+          <revista>Pattern Recognition</revista>
+          <volume>Pattern Recognition</volume>
+          <paginas>757-766</paginas>
+          <numero></numero>
+          <ano>2012</ano>
+        </artigo>
+        <artigo>
+          <doi>http://dx.doi.org/10.1016/j.patcog.2011.08.017</doi>
+          <titulo>Interactive image segmentation by matching attributed relational graphs</titulo>
+          <autores>Noma, Alexandre ; Graciano, Ana B.V. ; Cesar Jr, Roberto M. ; Consularo, Luis A. ; BLOCH, Isabelle</autores>
+          <revista>Pattern Recognition</revista>
+          <volume>Pattern Recognition</volume>
+          <paginas>1159-1179</paginas>
+          <numero></numero>
+          <ano>2012</ano>
+        </artigo>
+        <artigo>
+          <doi>http://dx.doi.org/10.1186/1471-2164-13-s6-s7</doi>
+          <titulo>Assessing the gain of biological data integration in gene networks inference</titulo>
+          <autores>VICENTE, FÁBIO FR ; LOPES, FABRÍCIO M ; HASHIMOTO, RONALDO F ; Cesar, Roberto M</autores>
+          <revista>BMC Genomics</revista>
+          <volume>BMC Genomics</volume>
+          <paginas>S7</paginas>
+          <numero></numero>
+          <ano>2012</ano>
+        </artigo>
+        <artigo>
+          <doi>http://dx.doi.org/10.1016/j.patrec.2010.02.016</doi>
+          <titulo>Structural matching of 2D electrophoresis gels using deformed graphs</titulo>
+          <autores>Noma, Alexandre ; Pardo, Alvaro ; Cesar Jr., Roberto M.</autores>
+          <revista>Pattern Recognition Letters</revista>
+          <volume>Pattern Recognition Letters</volume>
+          <paginas>3-11</paginas>
+          <numero></numero>
+          <ano>2011</ano>
+        </artigo>
+        <artigo>
+          <doi>http://dx.doi.org/10.1186/1752-0509-5-61</doi>
+          <titulo>Inference of gene regulatory networks from time series by Tsallis entropy</titulo>
+          <autores>Lopes, Fabrício ; de Oliveira, Evaldo A ; Cesar, Roberto M</autores>
+          <revista>BMC Systems Biology</revista>
+          <volume>BMC Systems Biology</volume>
+          <paginas>61</paginas>
+          <numero></numero>
+          <ano>2011</ano>
+        </artigo>
+        <artigo>
+          <doi>http://dx.doi.org/10.1089/cmb.2010.0118</doi>
+          <titulo>Gene Expression Complex Networks: Synthesis, Identification, and Analysis</titulo>
+          <autores>Lopes, Fabrício M. ; Cesar, Roberto M. ; Costa, Luciano Da F.</autores>
+          <revista>Journal of Computational Biology</revista>
+          <volume>Journal of Computational Biology</volume>
+          <paginas>1353-1367</paginas>
+          <numero></numero>
+          <ano>2011</ano>
+        </artigo>
+    </artigos_em_periodicos>
+    <livros_publicados>
+        <livro>
+          <autores>BLOCH, Isabelle (Org.) ; CESAR JUNIOR, R. M. (Org.)</autores>
+          <titulo>LNCS: Progress in Pattern Recognition, Image Analysis, Computer Vision, and Applications Progress in Pattern Recognition, Image Analysis, Computer Vision, and Applications. LNCS - Springer</titulo>
+          <edicao></edicao>
+          <volume></volume>
+          <paginas></paginas>
+          <ano>2010</ano>
+        </livro>
+        <livro>
+          <autores>BANON, G. (Org.) ; BRAGA-NETO, U. (Org.) ; CESAR JUNIOR, R. M. (Org.)</autores>
+          <titulo>Special Issue ISMM 2007 - Image and Visiont Computing (Elsevier)</titulo>
+          <edicao>28</edicao>
+          <volume>1</volume>
+          <paginas></paginas>
+          <ano>2010</ano>
+        </livro>
+    </livros_publicados>
+    <texto_em_jornal>
+        <texto>
+          <ano>0</ano>
+          <autores>CESAR JUNIOR, R. M</autores>
+          <titulo>Olhos nos Olhos: Ensinando o Computador a Reconhecer Pessoas</titulo>
+          <nome_jornal>Ciência Hoje, </nome_jornal>
+          <data></data>
+          <volume>29</volume>
+          <paginas>24-29</paginas>
+        </texto>
+    </texto_em_jornal>
+    <trabalho_completo_congresso>
+        <trabalho_completo>
+          <doi></doi>
+          <autores>TOKUDA, E. ; FERREIRA, G. B. A. ; Cesar Jr, Roberto M. ; SILVA, C.</autores>
+          <titulo>A novel semi-supervised detection approach with weak annotation</titulo>
+          <nome_evento>2018 IEEE Southwest Symposium on Image Analysis and Interpretation (SSIAI)</nome_evento>
+          <ano>2018</ano>
+          <volume></volume>
+          <paginas></paginas>
+        </trabalho_completo>
+        <trabalho_completo>
+          <doi></doi>
+          <autores>BARBOSA, S. ; COSLEY, D. ; SHARMA, A. ; Cesar Jr., R.M.</autores>
+          <titulo>Averaging Gone Wrong: Using Time-Aware Analyses to Better Understand Behavior</titulo>
+          <nome_evento>25th International Conference on World Wide Web</nome_evento>
+          <ano>2016</ano>
+          <volume>1</volume>
+          <paginas>829-841</paginas>
+        </trabalho_completo>
+        <trabalho_completo>
+          <doi></doi>
+          <autores>CERVANTES, E. P. ; COMIN, CESAR HENRIQUE ; Costa, Luciano Da F. ; Cesar Jr., R.M.</autores>
+          <titulo>Data-oriented neuron classification from their parts</titulo>
+          <nome_evento>IEEE eScience Conference</nome_evento>
+          <ano>2016</ano>
+          <volume>1</volume>
+          <paginas></paginas>
+        </trabalho_completo>
+        <trabalho_completo>
+          <doi></doi>
+          <autores>DAZZI, E. ; T. E. Campos ; HILTON, A. ; Cesar Jr., R.M.</autores>
+          <titulo>Efficient Object Recognition Using Sampling of Keypoint Triples and Keygraph Structure</titulo>
+          <nome_evento>XXIV Sibgrapi 2016</nome_evento>
+          <ano>2016</ano>
+          <volume>1</volume>
+          <paginas></paginas>
+        </trabalho_completo>
+        <trabalho_completo>
+          <doi></doi>
+          <autores>BARBOSA, S. ; Cesar Jr, Roberto M. ; COSLEY, D.</autores>
+          <titulo>Using Text Similarity to Detect Social Interactions not Captured by Formal Reply Mechanisms</titulo>
+          <nome_evento>IEEE eScience Conference</nome_evento>
+          <ano>2015</ano>
+          <volume></volume>
+          <paginas></paginas>
+        </trabalho_completo>
+        <trabalho_completo>
+          <doi></doi>
+          <autores>MORIMITSU, H. ; CESAR-JR, ROBERTO M. ; BLOCH, Isabelle</autores>
+          <titulo>Attributed Graphs for Tracking Multiple Objects in Structured Sports Videos</titulo>
+          <nome_evento>International Conference on Computer Vision Workshops - CVsports</nome_evento>
+          <ano>2015</ano>
+          <volume></volume>
+          <paginas></paginas>
+        </trabalho_completo>
+        <trabalho_completo>
+          <doi></doi>
+          <autores>DAZZI, E. ; T. E. Campos ; Cesar Jr, Roberto M.</autores>
+          <titulo>Improved object matching using structural relations</titulo>
+          <nome_evento>IAPR Statistical</nome_evento>
+          <ano>2014</ano>
+          <volume></volume>
+          <paginas></paginas>
+        </trabalho_completo>
+        <trabalho_completo>
+          <doi></doi>
+          <autores>MORIMITSU, H. ; Cesar Jr, Roberto M. ; BLOCH, Isabelle</autores>
+          <titulo>A Spatio-Temporal Approach for Multiple Object Detection in Videos Using Graphs and Probability Maps</titulo>
+          <nome_evento>International Conference on Image Analysis and Recognition - ICIAR 2014</nome_evento>
+          <ano>2014</ano>
+          <volume></volume>
+          <paginas></paginas>
+        </trabalho_completo>
+        <trabalho_completo>
+          <doi></doi>
+          <autores>MATUSZEWSKI, D. J. ; LOPES, R. M. ; CESAR-JR, ROBERTO M.</autores>
+          <titulo>Visual Rhythm-based method for continuous plankton monitoring</titulo>
+          <nome_evento>IEEE eScience Conference</nome_evento>
+          <ano>2013</ano>
+          <volume></volume>
+          <paginas></paginas>
+        </trabalho_completo>
+        <trabalho_completo>
+          <doi>http://dx.doi.org/10.1109/eScience.2013.32</doi>
+          <autores>PEREZ-CERVANTES, EVELYN ; MENA-CHALCO, JESUS P. ; OLIVEIRA, MARIA CRISTINA F. DE ; CESAR, ROBERTO</autores>
+          <titulo>Using Link Prediction to Estimate the Collaborative Influence of Researchers</titulo>
+          <nome_evento>2013 IEEE 9th International Conference on eScience (eScience)</nome_evento>
+          <ano>2013</ano>
+          <volume></volume>
+          <paginas>293-300</paginas>
+        </trabalho_completo>
+        <trabalho_completo>
+          <doi></doi>
+          <autores>Leandro, Jorge J. G. ; Cesar Jr, Roberto M. ; FERIS, Rogério S.</autores>
+          <titulo>Shape Analysis using the Spectral Graph Wavelet Transform</titulo>
+          <nome_evento>IEEE eScience Conference</nome_evento>
+          <ano>2013</ano>
+          <volume></volume>
+          <paginas></paginas>
+        </trabalho_completo>
+        <trabalho_completo>
+          <doi></doi>
+          <autores>MATUSZEWSKI, D. J. ; MARTINS, C. I. O. ; Cesar Jr., R.M. ; STRICKLER, R. ; LOPES, R. M.</autores>
+          <titulo>Visual rhythm-based plankton detection method for ballast water quality assessment</titulo>
+          <nome_evento>IEEE ICIP</nome_evento>
+          <ano>2012</ano>
+          <volume></volume>
+          <paginas></paginas>
+        </trabalho_completo>
+        <trabalho_completo>
+          <doi></doi>
+          <autores>CINTHO, M. ; FERREIRA, J e ; Cesar Jr., Roberto M.</autores>
+          <titulo>Data-intensive analysis of HIV mutations</titulo>
+          <nome_evento>IEEE International Conference on e-science</nome_evento>
+          <ano>2012</ano>
+          <volume></volume>
+          <paginas></paginas>
+        </trabalho_completo>
+        <trabalho_completo>
+          <doi></doi>
+          <autores>LIU, Y. ; DRIEMEIER, C. ; Cesar Jr., Roberto M.</autores>
+          <titulo>Data-Oriented Research for Bioresource Utilization:a Case Study to Investigate Water Uptake in Cellulose Using Principal Components</titulo>
+          <nome_evento>IEEE International Conference on e-science</nome_evento>
+          <ano>2012</ano>
+          <volume></volume>
+          <paginas></paginas>
+        </trabalho_completo>
+        <trabalho_completo>
+          <doi>http://dx.doi.org/10.1109/eScience.2012.6404456</doi>
+          <autores>PEREZ-CERVANTES, EVELYN ; MENA-CHALCO, JESUS P. ; CESAR-JR, ROBERTO M.</autores>
+          <titulo>Towards a quantitative academic internationalization assessment of Brazilian research groups</titulo>
+          <nome_evento>2nd workshop on Analyzing and Improving Collaborative eScience with Social Networks - IEEE eScience - 2012</nome_evento>
+          <ano>2012</ano>
+          <volume></volume>
+          <paginas>1-8</paginas>
+        </trabalho_completo>
+        <trabalho_completo>
+          <doi></doi>
+          <autores>MORIMITSU, H. ; PIMENTEL, R. ; HIRATA JR., R. ; CESAR JUNIOR, R. M.</autores>
+          <titulo>Keygraphs for Sign Detection in Indoor Environments by Mobile Phones</titulo>
+          <nome_evento>8th IAPR-TC-15 Workshop on Graph-based Representations in Pattern Recognition</nome_evento>
+          <ano>2011</ano>
+          <volume></volume>
+          <paginas></paginas>
+        </trabalho_completo>
+        <trabalho_completo>
+          <doi></doi>
+          <autores>MARTINS, C. I. O. ; CESAR JUNIOR, R. M. ; FREITAS, A. V. L. ; JORGE, L. R. ; Leandro, Jorge J. G.</autores>
+          <titulo>Segmentation of Similar Images using Graph Matching and Community Detection</titulo>
+          <nome_evento>8th IAPR-TC-15 Workshop on Graph-based Representations in Pattern Recognition</nome_evento>
+          <ano>2011</ano>
+          <volume></volume>
+          <paginas></paginas>
+        </trabalho_completo>
+        <trabalho_completo>
+          <doi></doi>
+          <autores>PERCIANO, T. ; TUPIN, F. ; HIRATA JR., R. ; Cesar Jr., R.M.</autores>
+          <titulo>A hierarchical Markov random field for road network extraction and its applicationwith optical and sar data</titulo>
+          <nome_evento>2011 IEEE International Geoscience and Remote Sensing Symposium</nome_evento>
+          <ano>2011</ano>
+          <volume></volume>
+          <paginas></paginas>
+        </trabalho_completo>
+        <trabalho_completo>
+          <doi>http://dx.doi.org/10.1109/ICIP.2011.6115668</doi>
+          <autores>PINTO, S. C. D. ; Mena-Chalco, Jesús P. ; LOPES, Fabrício Martins ; VELHO, L ; Cesar Jr., R.M.</autores>
+          <titulo>3D Facial Expression Analysis by using 2D and 3D Wavelet Transforms</titulo>
+          <nome_evento>18th IEEE International Conference on Image Processing - ICIP 2011</nome_evento>
+          <ano>2011</ano>
+          <volume></volume>
+          <paginas>1281-1284</paginas>
+        </trabalho_completo>
+        <trabalho_completo>
+          <doi></doi>
+          <autores>MORIMITSU, H. ; PIMENTEL, R. ; HASHIMOTO, M. ; Cesar Jr., R.M. ; HIRATA JR., R.</autores>
+          <titulo>Wi-Fi and Keygraphs for Localization with Cell Phones</titulo>
+          <nome_evento>Second IEEE International Workshop on Mobile Vision - IWMV - ICCV</nome_evento>
+          <ano>2011</ano>
+          <volume></volume>
+          <paginas></paginas>
+        </trabalho_completo>
+        <trabalho_completo>
+          <doi>http://dx.doi.org/10.1109/eScienceW.2011.31</doi>
+          <autores>Mena-Chalco, Jesús Pascual ; Cesar Jr., R.M.</autores>
+          <titulo>Towards automatic discovery of co-authorship networks in the Brazilian academic areas</titulo>
+          <nome_evento>Workshop On Measuring the Impact of e-Science Research (MeSR 2011) - In Conjunction with 7th IEEE International Conference on e-Science</nome_evento>
+          <ano>2011</ano>
+          <volume></volume>
+          <paginas>53-60</paginas>
+        </trabalho_completo>
+        <trabalho_completo>
+          <doi></doi>
+          <autores>FREIRE, A. ; CESAR JUNIOR, R. M. ; FERREIRA, C. E.</autores>
+          <titulo>A column generation approach for the graph matching problem</titulo>
+          <nome_evento>International Conference on Pattern Recognition - ICPR</nome_evento>
+          <ano>2010</ano>
+          <volume></volume>
+          <paginas></paginas>
+        </trabalho_completo>
+        <trabalho_completo>
+          <doi></doi>
+          <autores>LOPES, Fabrício Martins ; MARTINS, C. I. O. ; Martins, David C. ; BARRERA, J ; CESAR JUNIOR, R. M.</autores>
+          <titulo>SFFS-MR: a floating search strategy for GRNs inference</titulo>
+          <nome_evento>5th IAPR International Conference on Pattern Recognition in Bioinformatics</nome_evento>
+          <ano>2010</ano>
+          <volume></volume>
+          <paginas></paginas>
+        </trabalho_completo>
+        <trabalho_completo>
+          <doi></doi>
+          <autores>NOMA, A. ; CESAR JUNIOR, R. M.</autores>
+          <titulo>Sparse Representations for Efficient Shape Matching</titulo>
+          <nome_evento>SIBGRAPI</nome_evento>
+          <ano>2010</ano>
+          <volume></volume>
+          <paginas></paginas>
+        </trabalho_completo>
+        <trabalho_completo>
+          <doi>http://dx.doi.org/10.1109/SIBGRAPI.2010.44</doi>
+          <autores>MATTOS, A. B. ; Mena-Chalco, Jesús P. ; CESAR JUNIOR, R. M. ; VELHO, L</autores>
+          <titulo>3D Linear Facial Animation Based on Real Data</titulo>
+          <nome_evento>Brazilian Symposium on Computer Graphics and Image Processing SIBGRAPI 2010</nome_evento>
+          <ano>2010</ano>
+          <volume></volume>
+          <paginas>271-278</paginas>
+        </trabalho_completo>
+        <trabalho_completo>
+          <doi></doi>
+          <autores>CARVALHO, M. A. ; COSTA, A. ; FERREIRA, A. ; CESAR JUNIOR, R. M.</autores>
+          <titulo>Image Segmentation Using Component Tree and Normalized Cut</titulo>
+          <nome_evento>SIBGRAPI</nome_evento>
+          <ano>2010</ano>
+          <volume></volume>
+          <paginas></paginas>
+        </trabalho_completo>
+    </trabalho_completo_congresso>
+    <resumo_expandido_congresso>
+        <resumo_expandido>
+          <doi></doi>
+          <autores>Graciano, Ana B.V. ; Cesar Jr, Roberto M. ; BLOCH, Isabelle</autores>
+          <titulo>Modeling and recognition of structured objects: a statistical-relational approach</titulo>
+          <nome_evento>Workshop FEAST - ICPR 2014, 2014, Stockholm. Proc. Workshop FEAST - ICPR 2014</nome_evento>
+          <ano>2014</ano>
+          <volume></volume>
+          <paginas></paginas>
+        </resumo_expandido>
+        <resumo_expandido>
+          <doi></doi>
+          <autores>MORIMITSU, H. ; Cesar Jr, Roberto M. ; BLOCH, Isabelle</autores>
+          <titulo>A graph-based approach for object detection and action recognition in videos</titulo>
+          <nome_evento>Workshop FEAST - ICPR 2014, 2014, Stockholm. Proc. Workshop FEAST - ICPR 2014</nome_evento>
+          <ano>2014</ano>
+          <volume></volume>
+          <paginas></paginas>
+        </resumo_expandido>
+    </resumo_expandido_congresso>
+    <resumo_congresso>
+        <resumo>
+          <doi></doi>
+          <autores>Robert Gurney ; Lee Allison ; Cesar Jr, Roberto M. ; Roberto Cossu ; Volkmar Dietz ; GEMEINHOLZER, B. ; KOIKE, T. ; MOKRANE, M. ; PETERS, D. ; THALLER-HONOLD, S. ; TRELOAR, A. ; VILOTTE, J. ; WALDMANN, C.</autores>
+          <titulo>Towards global environmental information and data management</titulo>
+          <nome_evento>European Geosciences Union General Assembly 2014, 2014, Vienna, Austria. Proc. European Geosciences Union General Assembly 2014</nome_evento>
+          <ano>2014</ano>
+          <volume></volume>
+          <paginas></paginas>
+          <numero></numero>
+        </resumo>
+        <resumo>
+          <doi></doi>
+          <autores>ALLISON, L. ; Cesar Jr, Roberto M. ; et al.</autores>
+          <titulo>E-Infrastructure and Data Management for Global Change Research</titulo>
+          <nome_evento>AGU Fall Event, 2014, San Francisco. Proc. AGU Fall Meeting</nome_evento>
+          <ano>2014</ano>
+          <volume></volume>
+          <paginas></paginas>
+          <numero></numero>
+        </resumo>
+    </resumo_congresso>
+    <artigos_em_revista>
+        <artigo_revista>
+          <doi></doi>
+          <autores>CERVANTES, E. P. ; COMIN, CESAR HENRIQUE ; Cesar Jr, Roberto M. ; Costa, Luciano Da F.</autores>
+          <titulo>Morphological neuron classification based on dendritic tree hierarchy</titulo>
+          <revista>NEUROINFORMATICS</revista>
+          <ano>2018</ano>
+          <volume></volume>
+          <paginas></paginas>
+          <numero></numero>
+        </artigo_revista>
+        <artigo_revista>
+          <doi>http://dx.doi.org/10.1016/j.patrec.2017.10.038</doi>
+          <autores>DAZZI, E. ; T. E. Campos ; Cesar Jr, Roberto M. ; HILTON, A.</autores>
+          <titulo>Scalable object instance recognition based on keygraph matching</titulo>
+          <revista>PATTERN RECOGNITION LETTERS</revista>
+          <ano>2017</ano>
+          <volume></volume>
+          <paginas></paginas>
+          <numero></numero>
+        </artigo_revista>
+    </artigos_em_revista>
+    <produto_tecnologico>
+        <produto>
+          <titulo>Compostos poliméricos eletricamente condutores para sensores de gases que identificam espécies de madeiras (DEPOSITADA)</titulo>
+          <autores>GRUBER, J. ; CORDEIRO, J. R. ; TAKAHASHI, E. S. ; CECCANTINI, G. C. T. ; VENTURA, L. ; CESAR JUNIOR, R. M. ; REHDER, G. ; CARRENO, M. N. P. ; CAMILO, F. F.</autores>
+          <ano>2010</ano>
+        </produto>
+    </produto_tecnologico>
+    <trabalhos_tecnicos>
+        <trabalho>
+          <titulo>Extensão para empresas de visão</titulo>
+          <autores>Cesar Jr, Roberto M</autores>
+          <ano>2010</ano>
+        </trabalho>
+    </trabalhos_tecnicos>
+    <supervisao_pos_doutorado_em_andamento>
+        <supervisao>
+          <nome_aluno>Ricardo Luiz de Andrade Abrantes</nome_aluno>
+          <titulo_trabalho></titulo_trabalho>
+          <ano>2016</ano>
+          <instituicao>Universidade de São Paulo</instituicao>
+          <agencia_de_fomento>Fundação de Amparo à Pesquisa do Estado de São Paulo.</agencia_de_fomento>
+          <tipo_de_orientacao>Supervisor</tipo_de_orientacao>
+        </supervisao>
+    </supervisao_pos_doutorado_em_andamento>
+    <orientacao_doutorado_em_andamento>
+        <tese>
+          <nome_aluno>Luciano Walenty Xavier Cejnog</nome_aluno>
+          <titulo_trabalho>A framework for hand gesture analysis and tracking: the case for hands with unusual shapes and movements</titulo_trabalho>
+          <ano>2016</ano>
+          <instituicao>Tese (Doutorado em Ciências da Computação) - Universidade de São Paulo</instituicao>
+          <agencia_de_fomento>Fundação de Amparo à Pesquisa do Estado de São Paulo</agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
+        </tese>
+        <tese>
+          <nome_aluno>Nayereh Hamidishad</nome_aluno>
+          <titulo_trabalho>Data mining and deep learning</titulo_trabalho>
+          <ano>2016</ano>
+          <instituicao>Tese (Doutorado em Ciências da Computação) - Universidade de São Paulo</instituicao>
+          <agencia_de_fomento>Coordenação de Aperfeiçoamento de Pessoal de Nível Superior</agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
+        </tese>
+        <tese>
+          <nome_aluno>Evelyn Perez Cervantes</nome_aluno>
+          <titulo_trabalho>Análise morfológica de estruturas neurais 3D usando bigdata</titulo_trabalho>
+          <ano>2015</ano>
+          <instituicao>Tese (Doutorado em Ciencia da Computacao) - Universidade de São Paulo</instituicao>
+          <agencia_de_fomento>Coordenação de Aperfeiçoamento de Pessoal de Nível Superior</agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
+        </tese>
+        <tese>
+          <nome_aluno>Eric Keiji Tokuda</nome_aluno>
+          <titulo_trabalho>Deep learning fracamente supervisionado para detecção de faces e atributos de pessoas</titulo_trabalho>
+          <ano>2015</ano>
+          <instituicao>Tese (Doutorado em Ciencia da Computacao) - Universidade de São Paulo</instituicao>
+          <agencia_de_fomento>Fundação de Amparo à Pesquisa do Estado de São Paulo</agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
+        </tese>
+    </orientacao_doutorado_em_andamento>
+    <orientacao_mestrado_em_andamento>
+        <dissertacao>
+          <nome_aluno>Florence Alyssa Sakuma Shibata</nome_aluno>
+          <titulo_trabalho>Remote sensing for urban informatics</titulo_trabalho>
+          <ano>2018</ano>
+          <instituicao>Dissertação (Mestrado em Ciências da Computação) - Universidade de São Paulo</instituicao>
+          <agencia_de_fomento></agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
+        </dissertacao>
+        <dissertacao>
+          <nome_aluno>Lucas de Carvalho Dias</nome_aluno>
+          <titulo_trabalho>Text recognition for urban informatics</titulo_trabalho>
+          <ano>2018</ano>
+          <instituicao>Dissertação (Mestrado em Ciências da Computação) - Universidade de São Paulo</instituicao>
+          <agencia_de_fomento></agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
+        </dissertacao>
+        <dissertacao>
+          <nome_aluno>Larissa de Oliveira Penteado</nome_aluno>
+          <titulo_trabalho>Model learning for structural MRI segmentation</titulo_trabalho>
+          <ano>2018</ano>
+          <instituicao>Dissertação (Mestrado em Ciências da Computação) - Universidade de São Paulo</instituicao>
+          <agencia_de_fomento>Fundação de Amparo à Pesquisa do Estado de São Paulo</agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
+        </dissertacao>
+        <dissertacao>
+          <nome_aluno>Iago Breno Araújo</nome_aluno>
+          <titulo_trabalho>Urban object detection under rainy images</titulo_trabalho>
+          <ano>2018</ano>
+          <instituicao>Dissertação (Mestrado em Ciências da Computação) - Universidade de São Paulo</instituicao>
+          <agencia_de_fomento>Coordenação de Aperfeiçoamento de Pessoal de Nível Superior</agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
+        </dissertacao>
+        <dissertacao>
+          <nome_aluno>Mateus Riva</nome_aluno>
+          <titulo_trabalho>A structural method for pediatric MRI segmentation</titulo_trabalho>
+          <ano>2018</ano>
+          <instituicao>Dissertação (Mestrado em Ciências da Computação) - Universidade de São Paulo</instituicao>
+          <agencia_de_fomento>Fundação de Amparo à Pesquisa do Estado de São Paulo</agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
+        </dissertacao>
+    </orientacao_mestrado_em_andamento>
+    <supervisao_pos_doutorado_concluido>
+        <supervisao>
+          <nome_aluno>Silvia Cristina Dias Pinto</nome_aluno>
+          <titulo_trabalho>Aprendizado estrutural e wavelets</titulo_trabalho>
+          <ano>2015</ano>
+          <instituicao>Instituto de Matematica e Estatistica</instituicao>
+          <agencia_de_fomento>Coordenação de Aperfeiçoamento de Pessoal de Nível Superior</agencia_de_fomento>
+          <tipo_de_orientacao>Supervisor</tipo_de_orientacao>
+        </supervisao>
+        <supervisao>
+          <nome_aluno>Estefhan D</nome_aluno>
+          <titulo_trabalho>Wandekokem.</titulo_trabalho>
+          <ano>2015</ano>
+          <instituicao>Universidade de São Paulo</instituicao>
+          <agencia_de_fomento>Conselho Nacional de Desenvolvimento Científico e Tecnológico</agencia_de_fomento>
+          <tipo_de_orientacao>Supervisor</tipo_de_orientacao>
+        </supervisao>
+        <supervisao>
+          <nome_aluno>Evaldo Araújo de Oliveira Filho</nome_aluno>
+          <titulo_trabalho></titulo_trabalho>
+          <ano>2011</ano>
+          <instituicao>Instituto de Matematica e Estatistica</instituicao>
+          <agencia_de_fomento>Fundação de Amparo à Pesquisa do Estado de São Paulo</agencia_de_fomento>
+          <tipo_de_orientacao>Supervisor</tipo_de_orientacao>
+        </supervisao>
+        <supervisao>
+          <nome_aluno>Monica Guimarães Campiteli</nome_aluno>
+          <titulo_trabalho></titulo_trabalho>
+          <ano>2011</ano>
+          <instituicao>Instituto de Matematica e Estatistica</instituicao>
+          <agencia_de_fomento>Fundação de Amparo à Pesquisa do Estado de São Paulo</agencia_de_fomento>
+          <tipo_de_orientacao>Supervisor</tipo_de_orientacao>
+        </supervisao>
+        <supervisao>
+          <nome_aluno>Jesús Pascual Mena Chalco</nome_aluno>
+          <titulo_trabalho></titulo_trabalho>
+          <ano>2011</ano>
+          <instituicao>Universidade de São Paulo</instituicao>
+          <agencia_de_fomento></agencia_de_fomento>
+          <tipo_de_orientacao>Supervisor</tipo_de_orientacao>
+        </supervisao>
+    </supervisao_pos_doutorado_concluido>
+    <orientacao_doutorado_concluido>
+        <tese>
+          <nome_aluno>Samuel Martins B. Neto</nome_aluno>
+          <titulo_trabalho>Análise de dados de comportamento social</titulo_trabalho>
+          <ano>2017</ano>
+          <instituicao>Tese (Doutorado em Ciências da Computação) - Universidade de São Paulo</instituicao>
+          <agencia_de_fomento>Coordenação de Aperfeiçoamento de Pessoal de Nível Superior</agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
+        </tese>
+        <tese>
+          <nome_aluno>Estefhan D. Wandekokem</nome_aluno>
+          <titulo_trabalho>Um método escalável de reconhecimento de objetos com uso de informações estruturais de grafos-chave.</titulo_trabalho>
+          <ano>2015</ano>
+          <instituicao>Tese (Doutorado em Ciencia da Computacao) - Universidade de São Paulo</instituicao>
+          <agencia_de_fomento>Conselho Nacional de Desenvolvimento Científico e Tecnológico</agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
+        </tese>
+        <tese>
+          <nome_aluno>Henrique Morimitsu</nome_aluno>
+          <titulo_trabalho>A graph-based approach for online multi-object tracking in structured videos with an application to action recognition</titulo_trabalho>
+          <ano>2015</ano>
+          <instituicao>Tese (Doutorado em Ciências da Computação) - Universidade de São Paulo</instituicao>
+          <agencia_de_fomento>Fundação de Amparo à Pesquisa do Estado de São Paulo</agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
+        </tese>
+        <tese>
+          <nome_aluno>Jorge J. Gomes Leandro</nome_aluno>
+          <titulo_trabalho>Análise de formas usando wavelets em grafos</titulo_trabalho>
+          <ano>2014</ano>
+          <instituicao>Tese (Doutorado em Ciências da Computação) - Universidade de São Paulo</instituicao>
+          <agencia_de_fomento></agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
+        </tese>
+        <tese>
+          <nome_aluno>David da Silva Pires</nome_aluno>
+          <titulo_trabalho>Estimação de movimento a partir de imagens RGBD usando homomorfismo entre grafos</titulo_trabalho>
+          <ano>2012</ano>
+          <instituicao>Tese (Doutorado em Ciencia da Computacao) - Universidade de São Paulo</instituicao>
+          <agencia_de_fomento>Coordenação de Aperfeiçoamento de Pessoal de Nível Superior</agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
+        </tese>
+        <tese>
+          <nome_aluno>Ana Beatriz Vicentim Graciano</nome_aluno>
+          <titulo_trabalho>Casamento de grafos em estruturas 3D</titulo_trabalho>
+          <ano>2012</ano>
+          <instituicao>Tese (Doutorado em Ciencia da Computacao) - Universidade de São Paulo</instituicao>
+          <agencia_de_fomento>Conselho Nacional de Desenvolvimento Científico e Tecnológico</agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
+        </tese>
+        <tese>
+          <nome_aluno>Marcelo Hashimoto</nome_aluno>
+          <titulo_trabalho>Detecção de objetos por reconhecimento de grafos-chave</titulo_trabalho>
+          <ano>2012</ano>
+          <instituicao>Tese (Doutorado em Ciências da Computação) - Universidade de São Paulo</instituicao>
+          <agencia_de_fomento>Fundação de Amparo à Pesquisa do Estado de São Paulo</agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
+        </tese>
+        <tese>
+          <nome_aluno>Talita Perciano Costa Leite</nome_aluno>
+          <titulo_trabalho>Detecção de estruturas finas e ramificadas em imagens usando campos aleatórios de Markov e informação perceptual</titulo_trabalho>
+          <ano>2012</ano>
+          <instituicao>Tese (Doutorado em Ciencia da Computacao) - Universidade de São Paulo</instituicao>
+          <agencia_de_fomento>Conselho Nacional de Desenvolvimento Científico e Tecnológico</agencia_de_fomento>
+          <tipo_de_orientacao>Supervisor</tipo_de_orientacao>
+        </tese>
+        <tese>
+          <nome_aluno>Fabrício Martins Lopes</nome_aluno>
+          <titulo_trabalho>Redes complexas de expressão gênica: síntese, identificação, análise e aplicações</titulo_trabalho>
+          <ano>2011</ano>
+          <instituicao>Tese (Doutorado em Bioinformática) - Universidade de São Paulo</instituicao>
+          <agencia_de_fomento></agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
+        </tese>
+        <tese>
+          <nome_aluno>Alexandre Noma</nome_aluno>
+          <titulo_trabalho>Casamento de grafos, MRF e propagação de crenças</titulo_trabalho>
+          <ano>2010</ano>
+          <instituicao>Tese (Doutorado em Ciencia da Computacao) - Universidade de São Paulo</instituicao>
+          <agencia_de_fomento>Fundação de Amparo à Pesquisa do Estado de São Paulo</agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
+        </tese>
+        <tese>
+          <nome_aluno>Jesus pascual Mena Chalco</nome_aluno>
+          <titulo_trabalho>Reconstrução de faces 3D através de espaços de componentes principais</titulo_trabalho>
+          <ano>2010</ano>
+          <instituicao>Tese (Doutorado em Doutorado em Ciência da Computação) - Instituto de Matematica e Estatistica</instituicao>
+          <agencia_de_fomento>Coordenação de Aperfeiçoamento de Pessoal de Nível Superior</agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
+        </tese>
+    </orientacao_doutorado_concluido>
+    <orientacao_mestrado_concluido>
+        <dissertacao>
+          <nome_aluno>Evelyn Perez Cervantes</nome_aluno>
+          <titulo_trabalho>Análise de redes de colaboração científica: Uma abordagem baseada em grafos relacionais com atributos</titulo_trabalho>
+          <ano>2015</ano>
+          <instituicao>Dissertação (Mestrado em Ciências da Computação) - Universidade de São Paulo</instituicao>
+          <agencia_de_fomento>Coordenação de Aperfeiçoamento de Pessoal de Nível Superior</agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
+        </dissertacao>
+        <dissertacao>
+          <nome_aluno>Giseli de Araujo Ramos</nome_aluno>
+          <titulo_trabalho>Detecção e rastreamento de lábios em dispositivos móveis</titulo_trabalho>
+          <ano>2012</ano>
+          <instituicao>Dissertação (Mestrado em Ciências da Computação) - Universidade de São Paulo</instituicao>
+          <agencia_de_fomento>Financiadora de Estudos e Projetos</agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
+        </dissertacao>
+        <dissertacao>
+          <nome_aluno>Damian J. Matuszewski</nome_aluno>
+          <titulo_trabalho>Análise de imagens em oceanografia</titulo_trabalho>
+          <ano>2012</ano>
+          <instituicao>Dissertação (Mestrado em Ciências da Computação) - Universidade de São Paulo</instituicao>
+          <agencia_de_fomento></agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
+        </dissertacao>
+        <dissertacao>
+          <nome_aluno>Andréa Britto Mattos</nome_aluno>
+          <titulo_trabalho>Animação de faces tridimensionais baseada em registro estrutural</titulo_trabalho>
+          <ano>2011</ano>
+          <instituicao>Dissertação (Mestrado em Ciências da Computação) - Universidade de São Paulo</instituicao>
+          <agencia_de_fomento>Fundação de Amparo à Pesquisa do Estado de São Paulo</agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
+        </dissertacao>
+        <dissertacao>
+          <nome_aluno>Henrique Morimitsu</nome_aluno>
+          <titulo_trabalho>Uma abordagem estrutural para detecção de placas em ambientes internos por dispositivos móveis</titulo_trabalho>
+          <ano>2011</ano>
+          <instituicao>Dissertação (Mestrado em Ciências da Computação) - Universidade de São Paulo</instituicao>
+          <agencia_de_fomento>Fundação de Amparo à Pesquisa do Estado de São Paulo</agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
+        </dissertacao>
+        <dissertacao>
+          <nome_aluno>Charles Iury Oliveira Martins</nome_aluno>
+          <titulo_trabalho>Segmentação estrutural de imagens a partir do aprendizado de modelos de grafos</titulo_trabalho>
+          <ano>2011</ano>
+          <instituicao>Dissertação (Mestrado em Ciências da Computação) - Universidade de São Paulo</instituicao>
+          <agencia_de_fomento>Conselho Nacional de Desenvolvimento Científico e Tecnológico</agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
+        </dissertacao>
+    </orientacao_mestrado_concluido>
+    <orientacao_tcc_concluido>
+        <tcc>
+          <nome_aluno>Edson Miyahara</nome_aluno>
+          <titulo_trabalho>Genealogia Lattes</titulo_trabalho>
+          <ano>2011</ano>
+          <instituicao>(Graduação em Computação) - Universidade de São Paulo</instituicao>
+          <agencia_de_fomento></agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
+        </tcc>
+    </orientacao_tcc_concluido>
+    <orientacao_iniciacao_cientifica_concluido>
+        <iniciacao_cientifica>
+          <nome_aluno>Gabriel Augusto Bianchi Azevedo Ferreira</nome_aluno>
+          <titulo_trabalho>Olhando para a cidade: Big Data e visão computacional para análise de ambientes urbanos</titulo_trabalho>
+          <ano>2015</ano>
+          <instituicao>(Graduando em Engenharia Mecânica - Ênfase em Mecatrônica) - Universidade de São Paulo</instituicao>
+          <agencia_de_fomento>Fundação de Amparo à Pesquisa do Estado de São Paulo</agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
+        </iniciacao_cientifica>
+        <iniciacao_cientifica>
+          <nome_aluno>Marcel Santos Claro</nome_aluno>
+          <titulo_trabalho>Rotulação e extração de contornos de estruturas rami cadas</titulo_trabalho>
+          <ano>2010</ano>
+          <instituicao>Iniciação Científica - Universidade de São Paulo</instituicao>
+          <agencia_de_fomento>Fundação de Amparo à Pesquisa do Estado de São Paulo</agencia_de_fomento>
+          <tipo_de_orientacao>Orientador</tipo_de_orientacao>
+        </iniciacao_cientifica>
+    </orientacao_iniciacao_cientifica_concluido>
+  </pesquisador>
+</curriculo_lattes>

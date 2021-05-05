@@ -1,0 +1,195 @@
+
+                <html><head><meta http-equiv="Content-Type" content="text/html; charset=utf8"><meta name="Generator" content="scriptLattes"><title>teste-01</title><link rel="stylesheet" href="css/scriptLattes.css" type="text/css"><link rel="stylesheet" type="text/css" href="css/jquery.dataTables.css"><link rel="stylesheet" type="text/css" href="css/dataTables.colVis.min.css"><script type="text/javascript" charset="utf8" src="js/jquery.min.js"></script><script type="text/javascript" charset="utf8" src="js/jquery.dataTables.min.js"></script><script type="text/javascript" charset="utf8" src="js/dataTables.colVis.min.js"></script><script src="http://professor.ufabc.edu.br/~jesus.mena/sorttable.js"></script></head><body><div id="header2"> <button onClick="history.go(-1)">Voltar</button><h2>teste-01</h2></div>
+                
+        <script type="text/javascript" src="./jquery.min.js"></script>
+        <!--
+        <script type="text/javascript" src="./highcharts.js"></script>
+        <script type="text/javascript" src="./exporting.js"></script>
+        <script type="text/javascript" src="./drilldown.js"></script>
+        -->
+
+        <script src="http://code.highcharts.com/highcharts.js"></script>
+        <script src="http://code.highcharts.com/modules/drilldown.js"></script>
+        <script src="http://code.highcharts.com/modules/exporting.js"></script>
+
+        <script type="text/javascript">
+        // Load the fonts
+        Highcharts.createElement('link', {
+           href: 'http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700',
+           rel: 'stylesheet',
+           type: 'text/css'
+        }, null, document.getElementsByTagName('head')[0]);
+
+        Highcharts.theme = {
+   colors: ["#118D95", "#8085e9", "#8d4654", "#7798BF", "#aaeeee", "#ff0066", "#eeaaee", "#2b908f", "#90ee7e", "#55BF3B", "#DF5353", "#7798BF", "#aaeeee"],
+   chart: {
+      backgroundColor: null,
+      style: {
+         fontFamily: "'Source Sans Pro', 'sans-serif'"
+      }
+   },
+   title: {
+      style: {
+         color: 'black',
+         fontSize: '16px',
+         fontWeight: 'bold'
+      }
+   },
+   subtitle: {
+      style: {
+         color: 'black'
+      }
+   },
+   tooltip: {
+      borderWidth: 0
+   },
+   legend: {
+      itemStyle: {
+         fontWeight: 'bold',
+         fontSize: '13px'
+      }
+   },
+   xAxis: {
+      labels: {
+         style: {
+            color: '#6e6e70'
+         }
+      }
+   },
+   yAxis: {
+      labels: {
+         style: {
+            color: '#6e6e70'
+         }
+      }
+   },
+   plotOptions: {
+      series: {
+         shadow: true
+      },
+      candlestick: {
+         lineColor: '#404048'
+      },
+      map: {
+         shadow: false
+      }
+   },
+
+   // Highstock specific
+   navigator: {
+      xAxis: {
+         gridLineColor: '#D0D0D8'
+      }
+   },
+   rangeSelector: {
+      buttonTheme: {
+         fill: 'white',
+         stroke: '#C0C0C8',
+         'stroke-width': 1,
+         states: {
+            select: {
+               fill: '#D0D0D8'
+            }
+         }
+      }
+   },
+   scrollbar: {
+      trackBorderColor: '#C0C0C8'
+   },
+
+   // General
+   background2: '#E0E0E8'
+};
+
+        Highcharts.setOptions(Highcharts.theme);
+        $(function () {
+            $('#container').highcharts({subtitle: {text: ''}, 
+title: {text: 'Total de produção técnica'}, 
+series: [{data: [[2010,
+3],
+[2011,
+1],
+[2016,
+9],
+[2017,
+4],
+[2018,
+2]], 
+name: 'Total'}], 
+yAxis: {labels: {overflow: 'justify'}, 
+title: {text: 'Quantidade', 
+align: 'middle'}, 
+stackLabels: {enabled: true, 
+format: '{stack}'}, 
+min: 0}, 
+chart: {type: 'column', 
+height: 300}, 
+tooltip: {pointFormat: '<span style="color:{series.color}">\u25CF</span> {series.name}: <b>{point.y}</b><br/>', 
+shared: false, 
+headerFormat: '<span style="font-size: 10px">{point.key}{point.stack}{series.stack}</span><br/>', 
+valueSuffix: '', 
+enabled: true}, 
+credits: {enabled: false}, 
+plotOptions: {column: {stacking: null}, 
+series: {shadow: 'true'}, 
+bar: {dataLabels: {enabled: false}}}, 
+xAxis: {type: 'category', 
+title: {text: ''}}, 
+legend: {layout: 'vertical', 
+align: 'right', 
+enabled: false, 
+borderWidth: 1, 
+backgroundColor: (Highcharts.theme && Highcharts.theme.legendBackgroundColor || '#FFFFFF'), 
+verticalAlign: 'middle', 
+shadow: true}});
+        });
+        </script>
+        
+                <h3>Total de produção técnica</h3> <br>
+                    <div id="container" style="min-width: 310px; max-width: 1920px; height: 300; margin: 0"></div>
+                    Número total de itens: 19<br>
+                    
+                    
+                    <div id="dv-year-2018"><h3 class="year">2018</h3> <table>
+            <tr valign="top"><td>1. &nbsp;</td> <td>MENA-CHALCO, J. P. <b>6º EBBC - Encontro Brasileiro de Bibliometria e Cientometria (Comitê de programa)</b>. 2018.<br>         <font size=-1>          [ <a href="http://www.google.com/search?btnG=Google+Search&q=6º+EBBC+-+Encontro+Brasileiro+de+Bibliometria+e+Cientometria+(Comitê+de+programa)">busca Google</a> |            <a href="http://www.bing.com/search?q=6º+EBBC+-+Encontro+Brasileiro+de+Bibliometria+e+Cientometria+(Comitê+de+programa)">busca Bing</a> ]          </font><br></td></tr>
+            
+            <tr valign="top"><td>2. &nbsp;</td> <td>MENA-CHALCO, J. P. <b>Recuperação, representação e análise de dados acadêmicos prospectados de fontes brasileiras</b>. 2018. Curso de curta duração ministrado/Especialização<br>         <font size=-1>          [ <a href="http://www.google.com/search?btnG=Google+Search&q=Recuperação,+representação+e+análise+de+dados+acadêmicos+prospectados+de+fontes+brasileiras">busca Google</a> |            <a href="http://www.bing.com/search?q=Recuperação,+representação+e+análise+de+dados+acadêmicos+prospectados+de+fontes+brasileiras">busca Bing</a> ]          </font><br></td></tr>
+            </table></div><div id="dv-year-2017"><h3 class="year">2017</h3> <table>
+            <tr valign="top"><td>1. &nbsp;</td> <td>MENA-CHALCO, J. P. <b>SNMAM 2017 - Track on Social Network and Media Analysis and Mining (Comitê de programa)</b>. 2017.<br>         <font size=-1>          [ <a href="http://www.google.com/search?btnG=Google+Search&q=SNMAM+2017+-+Track+on+Social+Network+and+Media+Analysis+and+Mining+(Comitê+de+programa)">busca Google</a> |            <a href="http://www.bing.com/search?q=SNMAM+2017+-+Track+on+Social+Network+and+Media+Analysis+and+Mining+(Comitê+de+programa)">busca Bing</a> ]          </font><br></td></tr>
+            
+            <tr valign="top"><td>2. &nbsp;</td> <td>MENA-CHALCO, J. P. <b>SIBGRAPI 2017 - Workshop of Works in Progress (Revisor de trabalhos)</b>. 2017.<br>         <font size=-1>          [ <a href="http://www.google.com/search?btnG=Google+Search&q=SIBGRAPI+2017+-+Workshop+of+Works+in+Progress+(Revisor+de+trabalhos)">busca Google</a> |            <a href="http://www.bing.com/search?q=SIBGRAPI+2017+-+Workshop+of+Works+in+Progress+(Revisor+de+trabalhos)">busca Bing</a> ]          </font><br></td></tr>
+            
+            <tr valign="top"><td>3. &nbsp;</td> <td>MENA-CHALCO, J. P. <b>ENANCIB 2017 - XVIII Encontro Nacional de Pesquisa em Ciência da Informação (Revisor de trabalhos)</b>. 2017.<br>         <font size=-1>          [ <a href="http://www.google.com/search?btnG=Google+Search&q=ENANCIB+2017+-+XVIII+Encontro+Nacional+de+Pesquisa+em+Ciência+da+Informação+(Revisor+de+trabalhos)">busca Google</a> |            <a href="http://www.bing.com/search?q=ENANCIB+2017+-+XVIII+Encontro+Nacional+de+Pesquisa+em+Ciência+da+Informação+(Revisor+de+trabalhos)">busca Bing</a> ]          </font><br></td></tr>
+            
+            <tr valign="top"><td>4. &nbsp;</td> <td>MENA-CHALCO, J. P. <b>PSIVT 2017 - The Eighth Pacific-Rim Symposium on Image and Video Technology (revisor de trabalhos)</b>. 2017.<br>         <font size=-1>          [ <a href="http://www.google.com/search?btnG=Google+Search&q=PSIVT+2017+-+The+Eighth+Pacific-Rim+Symposium+on+Image+and+Video+Technology+(revisor+de+trabalhos)">busca Google</a> |            <a href="http://www.bing.com/search?q=PSIVT+2017+-+The+Eighth+Pacific-Rim+Symposium+on+Image+and+Video+Technology+(revisor+de+trabalhos)">busca Bing</a> ]          </font><br></td></tr>
+            </table></div><div id="dv-year-2016"><h3 class="year">2016</h3> <table>
+            <tr valign="top"><td>1. &nbsp;</td> <td>MENA-CHALCO, J. P. <b>CIARP 2016 - 21st IberoAmerican Congress on Pattern Recognition (Comitê de programa)</b>. 2016.<br>         <font size=-1>          [ <a href="http://www.google.com/search?btnG=Google+Search&q=CIARP+2016+-+21st+IberoAmerican+Congress+on+Pattern+Recognition+(Comitê+de+programa)">busca Google</a> |            <a href="http://www.bing.com/search?q=CIARP+2016+-+21st+IberoAmerican+Congress+on+Pattern+Recognition+(Comitê+de+programa)">busca Bing</a> ]          </font><br></td></tr>
+            
+            <tr valign="top"><td>2. &nbsp;</td> <td>MENA-CHALCO, J. P. <b>5º EBBC - Encontro Brasileiro de Bibliometria e Cientometria (Comitê de programa)</b>. 2016.<br>         <font size=-1>          [ <a href="http://www.google.com/search?btnG=Google+Search&q=5º+EBBC+-+Encontro+Brasileiro+de+Bibliometria+e+Cientometria+(Comitê+de+programa)">busca Google</a> |            <a href="http://www.bing.com/search?q=5º+EBBC+-+Encontro+Brasileiro+de+Bibliometria+e+Cientometria+(Comitê+de+programa)">busca Bing</a> ]          </font><br></td></tr>
+            
+            <tr valign="top"><td>3. &nbsp;</td> <td>MENA-CHALCO, J. P. <b>IV Fourth Brazilian Conference on Fuzzy Systems (Revisor de trabalhos)</b>. 2016.<br>         <font size=-1>          [ <a href="http://www.google.com/search?btnG=Google+Search&q=IV+Fourth+Brazilian+Conference+on+Fuzzy+Systems+(Revisor+de+trabalhos)">busca Google</a> |            <a href="http://www.bing.com/search?q=IV+Fourth+Brazilian+Conference+on+Fuzzy+Systems+(Revisor+de+trabalhos)">busca Bing</a> ]          </font><br></td></tr>
+            
+            <tr valign="top"><td>4. &nbsp;</td> <td>MENA-CHALCO, J. P. <b>SIBGRAPI 2016 - Workshop of Works in Progress (Revisor de trabalhos)</b>. 2016.<br>         <font size=-1>          [ <a href="http://www.google.com/search?btnG=Google+Search&q=SIBGRAPI+2016+-+Workshop+of+Works+in+Progress+(Revisor+de+trabalhos)">busca Google</a> |            <a href="http://www.bing.com/search?q=SIBGRAPI+2016+-+Workshop+of+Works+in+Progress+(Revisor+de+trabalhos)">busca Bing</a> ]          </font><br></td></tr>
+            
+            <tr valign="top"><td>5. &nbsp;</td> <td>MENA-CHALCO, J. P. <b>XV Congresso Brasileiro de Informática em Saúde - CBIS (Revisor de trabalhos)</b>. 2016.<br>         <font size=-1>          [ <a href="http://www.google.com/search?btnG=Google+Search&q=XV+Congresso+Brasileiro+de+Informática+em+Saúde+-+CBIS+(Revisor+de+trabalhos)">busca Google</a> |            <a href="http://www.bing.com/search?q=XV+Congresso+Brasileiro+de+Informática+em+Saúde+-+CBIS+(Revisor+de+trabalhos)">busca Bing</a> ]          </font><br></td></tr>
+            
+            <tr valign="top"><td>6. &nbsp;</td> <td>MENA-CHALCO, J. P. <b>XVII Encontro Nacional de Pesquisa em Pós-Graduação em Ciência da Informação (Revisor de trabalhos)</b>. 2016.<br>         <font size=-1>          [ <a href="http://www.google.com/search?btnG=Google+Search&q=XVII+Encontro+Nacional+de+Pesquisa+em+Pós-Graduação+em+Ciência+da+Informação+(Revisor+de+trabalhos)">busca Google</a> |            <a href="http://www.bing.com/search?q=XVII+Encontro+Nacional+de+Pesquisa+em+Pós-Graduação+em+Ciência+da+Informação+(Revisor+de+trabalhos)">busca Bing</a> ]          </font><br></td></tr>
+            
+            <tr valign="top"><td>7. &nbsp;</td> <td>MENA-CHALCO, J. P. <b>XXXVI Congresso Nacional de Matemática Aplicada e Computacional - CNMAC2016 (Comitê de programa)</b>. 2016.<br>         <font size=-1>          [ <a href="http://www.google.com/search?btnG=Google+Search&q=XXXVI+Congresso+Nacional+de+Matemática+Aplicada+e+Computacional+-+CNMAC2016+(Comitê+de+programa)">busca Google</a> |            <a href="http://www.bing.com/search?q=XXXVI+Congresso+Nacional+de+Matemática+Aplicada+e+Computacional+-+CNMAC2016+(Comitê+de+programa)">busca Bing</a> ]          </font><br></td></tr>
+            
+            <tr valign="top"><td>8. &nbsp;</td> <td>MENA-CHALCO, J. P. <b>Seminário em Tecnologia da Informação Inteligente SeTII (Revisor de trabalhos)</b>. 2016.<br>         <font size=-1>          [ <a href="http://www.google.com/search?btnG=Google+Search&q=Seminário+em+Tecnologia+da+Informação+Inteligente+SeTII+(Revisor+de+trabalhos)">busca Google</a> |            <a href="http://www.bing.com/search?q=Seminário+em+Tecnologia+da+Informação+Inteligente+SeTII+(Revisor+de+trabalhos)">busca Bing</a> ]          </font><br></td></tr>
+            
+            <tr valign="top"><td>9. &nbsp;</td> <td>MENA-CHALCO, J. P. <b>Não sou um robô. 2016. (Programa de rádio ou</b>. 2016.<br>         <font size=-1>          [ <a href="http://www.google.com/search?btnG=Google+Search&q=Não+sou+um+robô.+2016.+(Programa+de+rádio+ou">busca Google</a> |            <a href="http://www.bing.com/search?q=Não+sou+um+robô.+2016.+(Programa+de+rádio+ou">busca Bing</a> ]          </font><br></td></tr>
+            </table></div><div id="dv-year-2011"><h3 class="year">2011</h3> <table>
+            <tr valign="top"><td>1. &nbsp;</td> <td>MENA-CHALCO, J. P. <b>Análise de dados acadêmicos da Plataforma Lattes por meio do scriptLattes</b>. 2011. Curso de curta duração ministrado/Especialização<br>         <font size=-1>          [ <a href="http://www.google.com/search?btnG=Google+Search&q=Análise+de+dados+acadêmicos+da+Plataforma+Lattes+por+meio+do+scriptLattes">busca Google</a> |            <a href="http://www.bing.com/search?q=Análise+de+dados+acadêmicos+da+Plataforma+Lattes+por+meio+do+scriptLattes">busca Bing</a> ]          </font><br></td></tr>
+            </table></div><div id="dv-year-2010"><h3 class="year">2010</h3> <table>
+            <tr valign="top"><td>1. &nbsp;</td> <td>Cesar Jr, Roberto M. <b>Extensão para empresas de visão</b>. 2010.<br>         <font size=-1>          [ <a href="http://www.google.com/search?btnG=Google+Search&q=Extensão+para+empresas+de+visão">busca Google</a> |            <a href="http://www.bing.com/search?q=Extensão+para+empresas+de+visão">busca Bing</a> ]          </font><br></td></tr>
+            
+            <tr valign="top"><td>2. &nbsp;</td> <td>GRUBER, J. ; CORDEIRO, J. R. ; TAKAHASHI, E. S. ; CECCANTINI, G. C. T. ; VENTURA, L. ; CESAR JUNIOR, R. M. ; REHDER, G. ; CARRENO, M. N. P. ; CAMILO, F. F.. <b>Compostos poliméricos eletricamente condutores para sensores de gases que identificam espécies de madeiras (DEPOSITADA)</b>. 2010.<br>         <font size=-1>          [ <a href="http://www.google.com/search?btnG=Google+Search&q=Compostos+poliméricos+eletricamente+condutores+para+sensores+de+gases+que+identificam+espécies+de+madeiras+(DEPOSITADA)">busca Google</a> |            <a href="http://www.bing.com/search?q=Compostos+poliméricos+eletricamente+condutores+para+sensores+de+gases+que+identificam+espécies+de+madeiras+(DEPOSITADA)">busca Bing</a> ]          </font><br></td></tr>
+            
+            <tr valign="top"><td>3. &nbsp;</td> <td>MACEDO, M. M. G. ; MENA-CHALCO, J. P. ; MEKKAOUI, C. ; JACKOWSKI, M. P.. <b>Blood vessel tracking in MRA images - Technical Video - SIBGRAPI 2010</b>. 2010.<br>         <font size=-1>          [ <a href="http://www.google.com/search?btnG=Google+Search&q=Blood+vessel+tracking+in+MRA+images+-+Technical+Video+-+SIBGRAPI+2010">busca Google</a> |            <a href="http://www.bing.com/search?q=Blood+vessel+tracking+in+MRA+images+-+Technical+Video+-+SIBGRAPI+2010">busca Bing</a> ]          </font><br></td></tr>
+            </table></div>
+                    </table>
+                <br><p><br>(*) Relatório criado com produções desde 2010 até 2018
+<br>Data de processamento: 22/10/2018 11:21:04<br>         <div id="footer">         Relatório gerado por <a href="http://scriptlattes.sourceforge.net/">scriptLattes V8.11</a>.         Os resultados estão sujeitos a falhas devido a inconsistências no preenchimento dos CVs Lattes. E-mail de contato: <a href="mailto:admin@email.com">admin@email.com</a>         </div> <script type="text/javascript">            var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");            document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));            </script>            <script type="text/javascript">            try {              var pageTracker = _gat._getTracker("UA-5266248-1");              pageTracker._trackPageview();            } catch(err) {}            </script></body></html>
+              

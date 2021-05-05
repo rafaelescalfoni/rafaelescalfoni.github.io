@@ -1,0 +1,187 @@
+
+                <html><head><meta http-equiv="Content-Type" content="text/html; charset=utf8"><meta name="Generator" content="scriptLattes"><title>teste-01</title><link rel="stylesheet" href="css/scriptLattes.css" type="text/css"><link rel="stylesheet" type="text/css" href="css/jquery.dataTables.css"><link rel="stylesheet" type="text/css" href="css/dataTables.colVis.min.css"><script type="text/javascript" charset="utf8" src="js/jquery.min.js"></script><script type="text/javascript" charset="utf8" src="js/jquery.dataTables.min.js"></script><script type="text/javascript" charset="utf8" src="js/dataTables.colVis.min.js"></script><script src="http://professor.ufabc.edu.br/~jesus.mena/sorttable.js"></script></head><body><div id="header2"> <button onClick="history.go(-1)">Voltar</button><h2>teste-01</h2></div>
+                
+        <script type="text/javascript" src="./jquery.min.js"></script>
+        <!--
+        <script type="text/javascript" src="./highcharts.js"></script>
+        <script type="text/javascript" src="./exporting.js"></script>
+        <script type="text/javascript" src="./drilldown.js"></script>
+        -->
+
+        <script src="http://code.highcharts.com/highcharts.js"></script>
+        <script src="http://code.highcharts.com/modules/drilldown.js"></script>
+        <script src="http://code.highcharts.com/modules/exporting.js"></script>
+
+        <script type="text/javascript">
+        // Load the fonts
+        Highcharts.createElement('link', {
+           href: 'http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700',
+           rel: 'stylesheet',
+           type: 'text/css'
+        }, null, document.getElementsByTagName('head')[0]);
+
+        Highcharts.theme = {
+   colors: ["#118D95", "#8085e9", "#8d4654", "#7798BF", "#aaeeee", "#ff0066", "#eeaaee", "#2b908f", "#90ee7e", "#55BF3B", "#DF5353", "#7798BF", "#aaeeee"],
+   chart: {
+      backgroundColor: null,
+      style: {
+         fontFamily: "'Source Sans Pro', 'sans-serif'"
+      }
+   },
+   title: {
+      style: {
+         color: 'black',
+         fontSize: '16px',
+         fontWeight: 'bold'
+      }
+   },
+   subtitle: {
+      style: {
+         color: 'black'
+      }
+   },
+   tooltip: {
+      borderWidth: 0
+   },
+   legend: {
+      itemStyle: {
+         fontWeight: 'bold',
+         fontSize: '13px'
+      }
+   },
+   xAxis: {
+      labels: {
+         style: {
+            color: '#6e6e70'
+         }
+      }
+   },
+   yAxis: {
+      labels: {
+         style: {
+            color: '#6e6e70'
+         }
+      }
+   },
+   plotOptions: {
+      series: {
+         shadow: true
+      },
+      candlestick: {
+         lineColor: '#404048'
+      },
+      map: {
+         shadow: false
+      }
+   },
+
+   // Highstock specific
+   navigator: {
+      xAxis: {
+         gridLineColor: '#D0D0D8'
+      }
+   },
+   rangeSelector: {
+      buttonTheme: {
+         fill: 'white',
+         stroke: '#C0C0C8',
+         'stroke-width': 1,
+         states: {
+            select: {
+               fill: '#D0D0D8'
+            }
+         }
+      }
+   },
+   scrollbar: {
+      trackBorderColor: '#C0C0C8'
+   },
+
+   // General
+   background2: '#E0E0E8'
+};
+
+        Highcharts.setOptions(Highcharts.theme);
+        $(function () {
+            $('#container').highcharts({subtitle: {text: ''}, 
+title: {text: 'Resumos expandidos publicados em anais de congressos'}, 
+series: [{data: [[2010,
+1],
+[2011,
+1],
+[2012,
+2],
+[2013,
+1],
+[2014,
+6],
+[2015,
+1],
+[2017,
+1]], 
+name: 'Total'}], 
+yAxis: {labels: {overflow: 'justify'}, 
+title: {text: 'Quantidade', 
+align: 'middle'}, 
+stackLabels: {enabled: true, 
+format: '{stack}'}, 
+min: 0}, 
+chart: {type: 'column', 
+height: 300}, 
+tooltip: {pointFormat: '<span style="color:{series.color}">\u25CF</span> {series.name}: <b>{point.y}</b><br/>', 
+shared: false, 
+headerFormat: '<span style="font-size: 10px">{point.key}{point.stack}{series.stack}</span><br/>', 
+valueSuffix: '', 
+enabled: true}, 
+credits: {enabled: false}, 
+plotOptions: {column: {stacking: null}, 
+series: {shadow: 'true'}, 
+bar: {dataLabels: {enabled: false}}}, 
+xAxis: {type: 'category', 
+title: {text: ''}}, 
+legend: {layout: 'vertical', 
+align: 'right', 
+enabled: false, 
+borderWidth: 1, 
+backgroundColor: (Highcharts.theme && Highcharts.theme.legendBackgroundColor || '#FFFFFF'), 
+verticalAlign: 'middle', 
+shadow: true}});
+        });
+        </script>
+        
+                <h3>Resumos expandidos publicados em anais de congressos</h3> <br>
+                    <div id="container" style="min-width: 310px; max-width: 1920px; height: 300; margin: 0"></div>
+                    Número total de itens: 13<br>
+                    
+                    
+                    <div id="dv-year-2017"><h3 class="year">2017</h3> <table>
+            <tr valign="top"><td>1. &nbsp;</td> <td>PAULA, A. S. ; MENA-CHALCO, J. P.. <b>O Paradoxo da Amizade em Grafos de Genealogia Acadêmica: Uma Análise Experimental</b>. Em: Congresso Nacional de Matemática Aplicada e Computacional, 2017, São José dos Campos, SP. Congresso Nacional de Matemática Aplicada e Computacional, 2017. <a href="http://dx.doi.org/10.13140/RG.2.2.22495.87207" target="_blank" style="PADDING-RIGHT:4px;"><img border=0 src="doi.png"></a><br>         <font size=-1>          [ <a href="http://scholar.google.com/scholar?hl=en&lr=&q=O+Paradoxo+da+Amizade+em+Grafos+de+Genealogia+Acadêmica:+Uma+Análise+Experimental&btnG=Search">cita&ccedil;&otilde;es Google Scholar</a> |            <a href="http://academic.research.microsoft.com/Search?query=O+Paradoxo+da+Amizade+em+Grafos+de+Genealogia+Acadêmica:+Uma+Análise+Experimental">cita&ccedil;&otilde;es Microsoft Acad&ecirc;mico</a> |            <a href="http://www.google.com/search?btnG=Google+Search&q=O+Paradoxo+da+Amizade+em+Grafos+de+Genealogia+Acadêmica:+Uma+Análise+Experimental">busca Google</a> ]          </font><br></td></tr>
+            </table></div><div id="dv-year-2015"><h3 class="year">2015</h3> <table>
+            <tr valign="top"><td>1. &nbsp;</td> <td>FAUSTO, S. ; MENA-CHALCO, J. P.. <b>Leadership among the leaders of the Brazilian research groups in Marine Biotechnology</b>. Em: 15th INTERNATIONAL CONFERENCE ON SCIENTOMETRICS and INFORMETRICS, 2015, Turquia. Proceedings of ISSI 2015 Istanbul: 15th International Society of Scientometrics and Informetrics Conference, Istanbul, Turkey, p. 814-815, 2015. <a href="http://dx.doi.org/10.13140/RG.2.1.1800.5607" target="_blank" style="PADDING-RIGHT:4px;"><img border=0 src="doi.png"></a><br>         <font size=-1>          [ <a href="http://scholar.google.com/scholar?hl=en&lr=&q=Leadership+among+the+leaders+of+the+Brazilian+research+groups+in+Marine+Biotechnology&btnG=Search">cita&ccedil;&otilde;es Google Scholar</a> |            <a href="http://academic.research.microsoft.com/Search?query=Leadership+among+the+leaders+of+the+Brazilian+research+groups+in+Marine+Biotechnology">cita&ccedil;&otilde;es Microsoft Acad&ecirc;mico</a> |            <a href="http://www.google.com/search?btnG=Google+Search&q=Leadership+among+the+leaders+of+the+Brazilian+research+groups+in+Marine+Biotechnology">busca Google</a> ]          </font><br></td></tr>
+            </table></div><div id="dv-year-2014"><h3 class="year">2014</h3> <table>
+            <tr valign="top"><td>1. &nbsp;</td> <td>AVEGLIANO, P. ; CARDONHA, C. ; MATTOS, A. B. ; BORGER, S.. <b>Shelf replenishment optimization towards the confluence of mobile and analytics</b>. Em: INFORMS, 2014, Boston. 14th Annual Conference on Business Analytics, 2014. <br>         <font size=-1>          [ <a href="http://scholar.google.com/scholar?hl=en&lr=&q=Shelf+replenishment+optimization+towards+the+confluence+of+mobile+and+analytics&btnG=Search">cita&ccedil;&otilde;es Google Scholar</a> |            <a href="http://academic.research.microsoft.com/Search?query=Shelf+replenishment+optimization+towards+the+confluence+of+mobile+and+analytics">cita&ccedil;&otilde;es Microsoft Acad&ecirc;mico</a> |            <a href="http://www.google.com/search?btnG=Google+Search&q=Shelf+replenishment+optimization+towards+the+confluence+of+mobile+and+analytics">busca Google</a> ]          </font><br></td></tr>
+            
+            <tr valign="top"><td>2. &nbsp;</td> <td>Graciano, Ana B.V. ; Cesar Jr, Roberto M. ; BLOCH, Isabelle. <b>Modeling and recognition of structured objects: a statistical-relational approach</b>. Em: Workshop FEAST - ICPR 2014, 2014, Stockholm. Proc. Workshop FEAST - ICPR 2014, 2014. <br>         <font size=-1>          [ <a href="http://scholar.google.com/scholar?hl=en&lr=&q=Modeling+and+recognition+of+structured+objects:+a+statistical-relational+approach&btnG=Search">cita&ccedil;&otilde;es Google Scholar</a> |            <a href="http://academic.research.microsoft.com/Search?query=Modeling+and+recognition+of+structured+objects:+a+statistical-relational+approach">cita&ccedil;&otilde;es Microsoft Acad&ecirc;mico</a> |            <a href="http://www.google.com/search?btnG=Google+Search&q=Modeling+and+recognition+of+structured+objects:+a+statistical-relational+approach">busca Google</a> ]          </font><br></td></tr>
+            
+            <tr valign="top"><td>3. &nbsp;</td> <td>MATTOS, ANDRÉA BRITTO; HERRMANN, RICARDO ; CARDONHA, CARLOS ; GALLO, DIEGO ; AVEGLIANO, PRISCILLA ; BORGER, SERGIO. <b>Marker-assisted recognition of dynamic content in public spaces</b>. Em: the 11th Web for All Conference, 2014, p. 1, 2014. <a href="http://dx.doi.org/10.1145/2596695.2596722" target="_blank" style="PADDING-RIGHT:4px;"><img border=0 src="doi.png"></a><br>         <font size=-1>          [ <a href="http://scholar.google.com/scholar?hl=en&lr=&q=Marker-assisted+recognition+of+dynamic+content+in+public+spaces&btnG=Search">cita&ccedil;&otilde;es Google Scholar</a> |            <a href="http://academic.research.microsoft.com/Search?query=Marker-assisted+recognition+of+dynamic+content+in+public+spaces">cita&ccedil;&otilde;es Microsoft Acad&ecirc;mico</a> |            <a href="http://www.google.com/search?btnG=Google+Search&q=Marker-assisted+recognition+of+dynamic+content+in+public+spaces">busca Google</a> ]          </font><br></td></tr>
+            
+            <tr valign="top"><td>4. &nbsp;</td> <td>MATTOS, ANDRÉA BRITTO; HERRMANN, RICARDO GUIMARÃES ; SHIGENO, KELLY KIYUMI ; FERIS, ROGERIO SCHMIDT. <b>Flower Classification for a Citizen Science Mobile App</b>. Em: International Conference, 2014, p. 532, 2014. <a href="http://dx.doi.org/10.1145/2578726.2582620" target="_blank" style="PADDING-RIGHT:4px;"><img border=0 src="doi.png"></a><br>         <font size=-1>          [ <a href="http://scholar.google.com/scholar?hl=en&lr=&q=Flower+Classification+for+a+Citizen+Science+Mobile+App&btnG=Search">cita&ccedil;&otilde;es Google Scholar</a> |            <a href="http://academic.research.microsoft.com/Search?query=Flower+Classification+for+a+Citizen+Science+Mobile+App">cita&ccedil;&otilde;es Microsoft Acad&ecirc;mico</a> |            <a href="http://www.google.com/search?btnG=Google+Search&q=Flower+Classification+for+a+Citizen+Science+Mobile+App">busca Google</a> ]          </font><br></td></tr>
+            
+            <tr valign="top"><td>5. &nbsp;</td> <td>MORIMITSU, H. ; Cesar Jr, Roberto M. ; BLOCH, Isabelle. <b>A graph-based approach for object detection and action recognition in videos</b>. Em: Workshop FEAST - ICPR 2014, 2014, Stockholm. Proc. Workshop FEAST - ICPR 2014, 2014. <br>         <font size=-1>          [ <a href="http://scholar.google.com/scholar?hl=en&lr=&q=A+graph-based+approach+for+object+detection+and+action+recognition+in+videos&btnG=Search">cita&ccedil;&otilde;es Google Scholar</a> |            <a href="http://academic.research.microsoft.com/Search?query=A+graph-based+approach+for+object+detection+and+action+recognition+in+videos">cita&ccedil;&otilde;es Microsoft Acad&ecirc;mico</a> |            <a href="http://www.google.com/search?btnG=Google+Search&q=A+graph-based+approach+for+object+detection+and+action+recognition+in+videos">busca Google</a> ]          </font><br></td></tr>
+            
+            <tr valign="top"><td>6. &nbsp;</td> <td>ROSSI, L. ; MENA-CHALCO, J. P.. <b>Aos ombros de gigantes: um estudo de genealogia acadêmica dos matemáticos no Brasil</b>. Em: Simpósio de Pesquisa do Grande ABC, 2014, São Bernardo. Simpósio de Pesquisa do Grande ABC, 2014. <a href="http://dx.doi.org/10.13140/RG.2.1.2193.7762" target="_blank" style="PADDING-RIGHT:4px;"><img border=0 src="doi.png"></a><br>         <font size=-1>          [ <a href="http://scholar.google.com/scholar?hl=en&lr=&q=Aos+ombros+de+gigantes:+um+estudo+de+genealogia+acadêmica+dos+matemáticos+no+Brasil&btnG=Search">cita&ccedil;&otilde;es Google Scholar</a> |            <a href="http://academic.research.microsoft.com/Search?query=Aos+ombros+de+gigantes:+um+estudo+de+genealogia+acadêmica+dos+matemáticos+no+Brasil">cita&ccedil;&otilde;es Microsoft Acad&ecirc;mico</a> |            <a href="http://www.google.com/search?btnG=Google+Search&q=Aos+ombros+de+gigantes:+um+estudo+de+genealogia+acadêmica+dos+matemáticos+no+Brasil">busca Google</a> ]          </font><br></td></tr>
+            </table></div><div id="dv-year-2013"><h3 class="year">2013</h3> <table>
+            <tr valign="top"><td>1. &nbsp;</td> <td>MEDEIROS, C. B. ; MENA-CHALCO, J. P.. <b>The Dynamics of Multidisciplinary Research Networks - Mining a Public Repository of Scientists CVs</b>. Em: World Social Science Forum 2013 (social transformations and the digital ages), 2013, Canada. World Social Science Forum 2013, 2013. <a href="http://dx.doi.org/10.13140/RG.2.1.4815.2160" target="_blank" style="PADDING-RIGHT:4px;"><img border=0 src="doi.png"></a><br>         <font size=-1>          [ <a href="http://scholar.google.com/scholar?hl=en&lr=&q=The+Dynamics+of+Multidisciplinary+Research+Networks+-+Mining+a+Public+Repository+of+Scientists+CVs&btnG=Search">cita&ccedil;&otilde;es Google Scholar</a> |            <a href="http://academic.research.microsoft.com/Search?query=The+Dynamics+of+Multidisciplinary+Research+Networks+-+Mining+a+Public+Repository+of+Scientists+CVs">cita&ccedil;&otilde;es Microsoft Acad&ecirc;mico</a> |            <a href="http://www.google.com/search?btnG=Google+Search&q=The+Dynamics+of+Multidisciplinary+Research+Networks+-+Mining+a+Public+Repository+of+Scientists+CVs">busca Google</a> ]          </font><br></td></tr>
+            </table></div><div id="dv-year-2012"><h3 class="year">2012</h3> <table>
+            <tr valign="top"><td>1. &nbsp;</td> <td>MENA-CHALCO, J. P.; CAPELLE, K. ; DALPIAN, G. M.. <b>Rede de coautoria acadêmica da UFABC</b>. Em: Simpósio de Pesquisa do Grande ABC, 2012, São Paulo. Simpósio de Pesquisa do Grande ABC, 2012. <br>         <font size=-1>          [ <a href="http://scholar.google.com/scholar?hl=en&lr=&q=Rede+de+coautoria+acadêmica+da+UFABC&btnG=Search">cita&ccedil;&otilde;es Google Scholar</a> |            <a href="http://academic.research.microsoft.com/Search?query=Rede+de+coautoria+acadêmica+da+UFABC">cita&ccedil;&otilde;es Microsoft Acad&ecirc;mico</a> |            <a href="http://www.google.com/search?btnG=Google+Search&q=Rede+de+coautoria+acadêmica+da+UFABC">busca Google</a> ]          </font><br></td></tr>
+            
+            <tr valign="top"><td>2. &nbsp;</td> <td>PEREZ-CERVANTES, E. ; MENA-CHALCO, J. P. ; CESAR JUNIOR, R. M.. <b>Interação acadêmica dos docentes do IME-USP no período 2000-2011</b>. Em: VI Simpósio de Iniciação Científica e Pós-Graduação do IME-USP, 2012, São Paulo. VI Simpósio de Iniciação Científica e Pós-Graduação do IME-USP, 2012. <br>         <font size=-1>          [ <a href="http://scholar.google.com/scholar?hl=en&lr=&q=Interação+acadêmica+dos+docentes+do+IME-USP+no+período+2000-2011&btnG=Search">cita&ccedil;&otilde;es Google Scholar</a> |            <a href="http://academic.research.microsoft.com/Search?query=Interação+acadêmica+dos+docentes+do+IME-USP+no+período+2000-2011">cita&ccedil;&otilde;es Microsoft Acad&ecirc;mico</a> |            <a href="http://www.google.com/search?btnG=Google+Search&q=Interação+acadêmica+dos+docentes+do+IME-USP+no+período+2000-2011">busca Google</a> ]          </font><br></td></tr>
+            </table></div><div id="dv-year-2011"><h3 class="year">2011</h3> <table>
+            <tr valign="top"><td>1. &nbsp;</td> <td>DANUELLO, J. C. ; MENA-CHALCO, J. P. ; OLIVEIRA, E. F. T.. <b>Rede colaborativa dos pesquisadores dos programas de pós-graduação em fonoaudiologia no Brasil</b>. Em: XII Encontro Nacional de Pesquisa em Ciência da Informação, 2011, Brasília. XII Encontro Nacional de Pesquisa em Ciência da Informação, 2011. <br>         <font size=-1>          [ <a href="http://scholar.google.com/scholar?hl=en&lr=&q=Rede+colaborativa+dos+pesquisadores+dos+programas+de+pós-graduação+em+fonoaudiologia+no+Brasil&btnG=Search">cita&ccedil;&otilde;es Google Scholar</a> |            <a href="http://academic.research.microsoft.com/Search?query=Rede+colaborativa+dos+pesquisadores+dos+programas+de+pós-graduação+em+fonoaudiologia+no+Brasil">cita&ccedil;&otilde;es Microsoft Acad&ecirc;mico</a> |            <a href="http://www.google.com/search?btnG=Google+Search&q=Rede+colaborativa+dos+pesquisadores+dos+programas+de+pós-graduação+em+fonoaudiologia+no+Brasil">busca Google</a> ]          </font><br></td></tr>
+            </table></div><div id="dv-year-2010"><h3 class="year">2010</h3> <table>
+            <tr valign="top"><td>1. &nbsp;</td> <td>PINTO, S. C. D. ; MENA-CHALCO, J. P. ; LOPES, F. M. ; CESAR JUNIOR, R. M.. <b>Preliminary results on 3D facial expression analysis using 2D and 3D wavelet transforms</b>. Em: 23rd Brazilian Symposium on Computer Graphics and Image Processing SIBGRAPI 2010, 2010, Gramado. 23rd Brazilian Symposium on Computer Graphics and Image Processing SIBGRAPI 2010, Conference Proceedings, 2010. <br>         <font size=-1>          [ <a href="http://scholar.google.com/scholar?hl=en&lr=&q=Preliminary+results+on+3D+facial+expression+analysis+using+2D+and+3D+wavelet+transforms&btnG=Search">cita&ccedil;&otilde;es Google Scholar</a> |            <a href="http://academic.research.microsoft.com/Search?query=Preliminary+results+on+3D+facial+expression+analysis+using+2D+and+3D+wavelet+transforms">cita&ccedil;&otilde;es Microsoft Acad&ecirc;mico</a> |            <a href="http://www.google.com/search?btnG=Google+Search&q=Preliminary+results+on+3D+facial+expression+analysis+using+2D+and+3D+wavelet+transforms">busca Google</a> ]          </font><br></td></tr>
+            </table></div>
+                    </table>
+                <br><p><br>(*) Relatório criado com produções desde 2010 até 2018
+<br>Data de processamento: 22/10/2018 11:21:04<br>         <div id="footer">         Relatório gerado por <a href="http://scriptlattes.sourceforge.net/">scriptLattes V8.11</a>.         Os resultados estão sujeitos a falhas devido a inconsistências no preenchimento dos CVs Lattes. E-mail de contato: <a href="mailto:admin@email.com">admin@email.com</a>         </div> <script type="text/javascript">            var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");            document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));            </script>            <script type="text/javascript">            try {              var pageTracker = _gat._getTracker("UA-5266248-1");              pageTracker._trackPageview();            } catch(err) {}            </script></body></html>
+              

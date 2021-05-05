@@ -1,0 +1,8 @@
+nodedef> name VARCHAR, idLattes VARCHAR, label VARCHAR, rotulo VARCHAR, lat DOUBLE, lon DOUBLE, collaborationRank DOUBLE, producaoBibliografica DOUBLE, artigoEmPeriodico DOUBLE, livro DOUBLE, capituloDeLivro DOUBLE, trabalhoEmCongresso DOUBLE, resumoExpandido DOUBLE, resumo DOUBLE, posDoutorado DOUBLE, dutorado DOUBLE, mestrado DOUBLE, ic DOUBLE, color VARCHAR
+0,2837012019824386,Andrea Britto Mattos,[Sem rotulo],-23.5598580,-46.7329875,0.480038,9,0,0,0,6,3,0,0,0,0,0,'10,110,164'
+1,4727357182510680,Jesus Pascual Mena Chalco,[Sem rotulo],-23.6447853,-46.5305749,1.35894,77,28,0,1,35,8,5,1,0,5,19,'10,110,164'
+2,2240951178648368,Roberto Marcondes Cesar Junior,[Sem rotulo],-23.5598580,-46.7329875,1.16102,49,17,2,0,26,2,2,5,11,6,2,'10,110,164'
+edgedef> node1 VARCHAR, node2 VARCHAR, weight DOUBLE
+0,1,2.0
+0,2,1.0
+1,2,6.0
