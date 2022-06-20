@@ -1244,7 +1244,7 @@ input[type="radio"] + label:before {
   }
     .image.main img {
       width: 100%; 
-      max-height: 400px;}
+      max-height: 300px;}
 
 a.image {
   overflow: hidden; }
@@ -1298,12 +1298,13 @@ ul.actions {
   display: -webkit-flex;
   display: -ms-flex;
   display: flex;
+  flex-wrap: wrap;
   cursor: default;
   list-style: none;
   margin-left: -1em;
   padding-left: 0; }
   ul.actions li {
-    padding: 0 0 0 1em;
+    padding: 0 0 0.5em 1em;
     vertical-align: middle; }
   ul.actions.special {
     -moz-justify-content: center;
