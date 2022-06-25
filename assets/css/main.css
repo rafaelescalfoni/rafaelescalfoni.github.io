@@ -60,6 +60,11 @@ input, select, textarea {
   -ms-appearance: none;
   appearance: none; }
 
+/* testando algoritmos de renderização*/
+img {
+  image-rendering: crisp-edges;
+}
+
 /* Basic */
 @-ms-viewport {
   width: device-width; }
