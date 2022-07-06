@@ -1,0 +1,83 @@
+* {
+    font-family: Roboto, Helvetica, sans-serif;
+}
+body {
+    background-color: #ddd;
+}
+
+header, main {
+    width: 900px;
+    margin: 0 auto;
+    background-color: #fff;
+    box-shadow: 3px 5px 2px #ccc;
+    padding: 20px 10px;
+
+}
+
+main {
+    min-height: 80vh;
+}
+header {border-radius: 15px 15px 0px 0;}
+header img {
+    width: 150px;
+    height: 150px;
+    float:left;
+    margin-right:25px
+}
+header h1 {
+    font-size: 1.5em;
+    margin: 0;
+}
+header h3 {
+    margin: 5px 0 10px;
+    font-style: italic;
+    font-weight: normal;
+    font-size: 1.1em;
+}
+header h4 {
+    margin:5px 0;
+    font-weight: normal;
+    font-size: 0.8em;
+}
+main h4{
+    text-align: center;
+}
+main >	p {
+    font-size:0.9em;
+    margin-left: 15px;	
+}
+main li {
+    margin-bottom: 20px;
+    margin-right: 15px;
+    line-height: 1.5em;
+}
+article {
+    background-color: #ddd;
+    font-size: 0.8em;
+    box-sizing: border-box;
+    padding: 5px 10px;
+    line-height: 1.2em;	
+}
+.destaque {
+    background-color: #ff0;
+    padding: 2px;
+    font-weight: bold;
+}
+
+label {
+    font-size: 0.9em;
+    font-weight: bold;
+}
+
+table, table td, table th{
+    border:1px solid #000;
+    font-size:0.85em;
+}
+
+table td, table th {
+    padding: 1px 10px;
+}
+
+table tr:nth-child(2n) {
+    background-color:#ddd;
+}
