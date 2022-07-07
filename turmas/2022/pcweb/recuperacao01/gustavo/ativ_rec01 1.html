@@ -1,0 +1,472 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="../../../../Working%20files/GUSTAVO%20NERY%20BARBOSA/Atividade%20de%20Recupera��o%2001/css/estilo.css">
+    <title>PCWeb2022 - Atividade de Recuperação 1</title>
+    <style>
+        * {
+    font-family: Roboto, Helvetica, sans-serif;
+}
+body {
+    background-color: #ddd;
+}
+
+header, main {
+    width: 900px;
+    margin: 0 auto;
+    background-color: #fff;
+    box-shadow: 3px 5px 2px #ccc;
+    padding: 20px 10px;
+}
+
+main {
+    min-height: 80vh;
+}
+header {border-radius: 15px 15px 0px 0;}
+header img {
+    width: 150px;
+    height: 150px;
+    float:left;
+    margin-right:25px
+}
+header h1 {
+    font-size: 1.2em;
+    margin: 0;
+}
+header h3 {
+    margin: 5px 0 10px;
+    font-style: italic;
+    font-weight: normal;
+    font-size: 1.0em;
+}
+header h4 {
+    margin:5px 0;
+    font-weight: normal;
+    font-size: 0.75em;
+}
+main h4{
+    text-align: center;
+}
+main >	p {
+    font-size:0.8em;
+    margin-left: 15px;	
+}
+main li {
+    margin-bottom: 20px;
+    margin-right: 15px;
+    line-height: 1.2em;
+}
+article {
+    background-color: #ddd;
+    font-size: 0.8em;
+    box-sizing: border-box;
+    padding: 5px 10px;
+    line-height: 1.2em;	
+}
+.destaque {
+    background-color: #ff0;
+    padding: 2px;
+    font-weight: bold;
+}
+
+label {
+    font-size: 0.9em;
+    font-weight: bold;
+}
+
+table, table td, table th{
+    border:1px solid #000;
+    font-size:0.85em;
+}
+
+table td, table th {
+    padding: 1px 10px;
+}
+
+table tr:nth-child(2n) {
+    background-color:#ddd;
+}
+    </style>
+</head>
+<body>
+    <header>
+		<img src="/images/logo.jpg " alt="Centro Federal de Educação Tecnológica do Rio de Janeiro Celso Suckow da Fonseca - CEFET/RJ">
+		<h1>Centro Federal de Educação Tecnológica do Rio de Janeiro - Celso Suckow da Fonseca</h1>
+		<h3>Campus Nova Friburgo</h3>
+		<h4>Curso Técnico em Informática</h4>
+		<h4>Professor Rafael Escalfoni</h4>
+	</header>
+	<main>
+		<h4>Programação de Clientes Web - Atividade de Recuperação 1</h4>
+        <p>
+			Leia os enunciados das questões com atenção. Responda à tarefa no MS Teams com este arquivo completo. 
+		</p>
+		<p>
+			Não altere o nome das variáveis no seu script. Seu script será testado nesta página, sem adaptações.
+		</p>
+
+		<p>
+			Boa sorte!
+		</p>
+	
+		<ol>
+			<li> <h5>Computador de bordo</h5>
+                <p>Um novo modelo de carro, super econômico foi lançado. Ele faz 20 km com 1 litro de combustível, considere cada litro de combustível custa R$ 7,00.</p>
+                <p>
+                    Faça um programa que pergunte ao usuário quanto de dinheiro ele tem e em seguida diga quantos litros de combustível ele pode comprar e quantos quilômetros o carro consegue andar com este tanto de combustível.
+                </p>
+                <p>Seu script será usado no computador de bordo do carro.
+                </p>
+                <fieldset>
+                    <legend>Painel</legend>
+                    <label>Informe quantos R$ dispõe</label>
+                    <input id="q01-dinheiro" type="text" placeholder="999.99">
+                    <button id="q01-executar">Calcular</button>
+                    <ul id="q01-result">
+                        <!-- resposta aqui
+                            <li>Você abastecerá XYZ litros</li>
+                            <li>Sua autonomia é de zzzz quilômetros</li>
+                        -->
+                    </ul>
+                </fieldset>
+            </li>
+            <li> <h5>Calculadora de IMC</h5>
+                <p>O índice de massa corpórea (IMC) é o cálculo que demonstra se o indivíduo está ou não em seu peso ideal. Esse cálculo é importante para avaliar os riscos de obesidade e encontrar seu peso ideal. Segundo o modelo, pessoas com IMC </p>
+                <table>
+                    <tr>
+                        <th>Intervalos</th>
+                        <th>Interpretação</th>
+                    </tr>
+                    <tr>
+                        <td>abaixo de 18.5</td>
+                        <td>abaixo do peso</td>
+                    </tr>
+                    <tr>
+                        <td>entre 18.5 e 24.9</td>
+                        <td>com peso normal</td>
+                    </tr>
+                    <tr>
+                        <td>entre 25.0 e 29.9</td>
+                        <td>levemente acima do peso</td>
+                    </tr>
+                    <tr>
+                        <td>entre 30.0 e 34.9</td>
+                        <td>Obesidade grau I</td>
+                    </tr>
+                    <tr>
+                        <td>entre 35.0 e 39.9</td>
+                        <td>Obesidade grau II (severa)</td>
+                    </tr>
+                    <tr>
+                        <td>acima de 40</td>
+                        <td>Obesidade grau III (mórbida)</td>
+                    </tr>
+                </table>
+                <p>
+                    Implemente a calculadora de IMC abaixo
+                </p>
+                <p>IMC = peso/(altura ^ 2)</p>
+                <fieldset>
+                    <legend>Calculadora de IMC</legend>
+                    <label>Informe o peso (KG)</label>
+                    <input id="q02-peso" type="text" placeholder="999.99">
+                    <label>Informe a altura (m)</label>
+                    <input id="q02-altura" type="text" placeholder="9.99">
+                    <button id="q02-executar">Calcular</button>
+                    <ul id="q02-result">
+                        <!-- resposta aqui
+                            <li>Seu IMC é zzz</li>
+                            <li>Você está na faixa: "abaixo do peso"</li>
+                        -->
+                    </ul>
+                </fieldset>
+            </li>
+            <li>
+                <h5>Cálculo de probabilidades</h5>
+                <p>A probabilidade de dar um valor em um dado é 1/6 (uma em 6). Faça um script em JavaScript que simule 1 milhão de lançamentos de dados e mostre a frequência que deu para cada número.
+                </p>
+                <p>
+                Ao apertar o botão "Simular", seu programa deverá realizar 1 milhão de lançamentos aleatórios e contabilizar a frequência para cada face do dado. 
+                </p>
+                <fieldset>
+                    <legend>Simulador</legend>
+                    <button id="q03-executar">Simular</button>
+                    <p>Resposta:</p>
+                    <table>
+                        <tr>
+                            <th>Face</th>
+                            <th>Ocorrências</th>
+                            <th>Frequência</th>
+                        </tr>
+                        <tr>
+                            <td>1</td>
+                            <td class="face-ocorr-1">160223<!-- substitua o valor exemplo pela sua resposta aqui --></td>
+                            <td class="face-freq-1">16.02%<!-- substitua o valor exemplo pela sua resposta aqui --></td>
+                        </tr>
+                        <tr>
+                            <td>2</td>
+                            <td class="face-ocorr-2">169021<!-- substitua o valor exemplo pela sua resposta aqui --></td>
+                            <td class="face-freq-2">16.90%<!-- substitua o valor exemplo pela sua resposta aqui --></td>
+                        </tr>
+                        <tr>
+                            <td>3</td>
+                            <td class="face-ocorr-3">171911<!-- substitua o valor exemplo pela sua resposta aqui --></td>
+                            <td class="face-freq-3">17.19%<!-- substitua o valor exemplo pela sua resposta aqui --></td>
+                        </tr>
+                        <tr>
+                            <td>4</td>
+                            <td class="face-ocorr-4">162888<!-- substitua o valor exemplo pela sua resposta aqui --></td>
+                            <td class="face-freq-4">16.29%<!-- substitua o valor exemplo pela sua resposta aqui --></td>
+                        </tr>
+                        <tr>
+                            <td>5</td>
+                            <td class="face-ocorr-5">165017<!-- substitua o valor exemplo pela sua resposta aqui --></td>
+                            <td class="face-freq-5">16.50%<!-- substitua o valor exemplo pela sua resposta aqui --></td>
+                        </tr>
+                        <tr>
+                            <td>6</td>
+                            <td class="face-ocorr-6">171940<!-- substitua o valor exemplo pela sua resposta aqui --></td>
+                            <td class="face-freq-6">17.19%<!-- substitua o valor exemplo pela sua resposta aqui --></td>
+                        </tr>
+                    </table>
+                </fieldset>
+            </li>
+            <li> 
+                <h5>Inversor de nomes</h5>
+                <p>Faça um programa que peça ao usuário para digitar vários nomes. Ao mandar executar, seu programa deve exibir os nomes digitados invertidos (da última letra para a primeira).
+                </p>
+                <fieldset>
+                    <legend>Nomes</legend>
+                    <label>Insira um nome</label>
+                    <input id="q04-nome" type="text" placeholder="Digite um nome">
+                    <button id="q04-add">Adicionar nome</button>
+                    <h6>Lista de Nomes Digitados</h6>
+                    <ul id="q04-nomes">
+                        <li>Ana</li>
+                        <li>Paulo</li>
+                        <!--<li>Insira os nomes digitados nessa lista</li> -->
+                    </ul>
+                    <button id="q04-executar">Inverter</button>
+                    <h6>Lista de Nomes Invertidos</h6>
+                    <ul id="q04-nomes-invertidos">
+                        <!--<li>Insira os nomes invertidos nessa lista</li> -->
+                    </ul>
+                </fieldset>
+            </li>
+            <li>
+                <h5>Palíndromo</h5>
+                <p>Faça um programa que verifique se uma palavra digitada é um palíndromo. 
+                </p>
+                <p><em>Um palíndromo é uma palavra que quando invertida tem a mesma escrita: ARARA, OVO, ANA...</em>
+                </p>
+                <fieldset>
+                    <legend>Palindromista</legend>
+                    <label>Digite uma palavra</label>
+                    <input id="q05-palavra" type="text" placeholder="Digite uma palavra">
+                    <button id="q05-executar">Testa Palíndromo</button>
+                    <p id="q05-result"></p>
+                </fieldset>
+            </li>
+            
+        </ol>
+    </main>
+</body>
+<script>
+const btn01 = document.querySelector("#q01-executar")
+const btn02 = document.querySelector("#q02-executar")
+const btn03 = document.querySelector("#q03-executar")
+const btn04 = document.querySelector("#q04-executar")
+const btn05 = document.querySelector("#q05-executar")
+
+/*****************************************
+ * QUESTÃO 01
+ */
+
+/**
+ * Função que retorna a quantidade de dinheiro digitada pelo usuário
+ */
+const getDinheiro = () => parseFloat(document.querySelector("#q01-dinheiro").value) || 0
+
+/**
+ * Função que calcula a quantidade de combustivel comprada
+ * @param dinheiro
+ * @return litros
+ * obs: cada litro custa 7 reais para o exemplo
+ * o valor inicial é só para testes
+ */
+const calcLitrosCombustivel = dinheiro => {
+    // programe aqui a compra de combustível
+    const litros = dinheiro / 7.00 // operação que calcula a quantidade de litros de acordo com o dinheiro que possui
+    return litros
+}
+
+/**
+ * função que retorna a quantidade de km que o carro conseguirá percorrer
+ * @param litros - quantidade de litros comprados
+ * @return km - de autonomia do carro
+ */
+const calcAutonomia = litros => {
+    // programe a autonomia
+    const km = litros * 20 // operação que calcula os km rodados de acordo com os litros
+    return km
+}
+
+const respondeQuestao01 = (litros, autonomia) => {
+    const listaResp = document.querySelector("#q01-result")
+    const liResp = `<li>Você abastecerá ${litros}l</li>
+                    <li>Sua autonomia é de ${autonomia}km</li>`
+    listaResp.innerHTML = liResp
+}
+
+btn01.addEventListener("click", () => {
+    const dinheiro = getDinheiro()
+    const litros = calcLitrosCombustivel(dinheiro)
+    const autonomia = calcAutonomia(litros)
+
+    respondeQuestao01(litros, autonomia)
+})
+
+/*****************************************
+ * QUESTÃO 02
+ */
+
+/**
+ * Função que retorna o PESO digitado pelo usuário
+ */
+const getPeso = () => parseFloat(document.querySelector("#q02-peso").value) || 0
+
+/**
+ * Função que retorna a ALTURA digitada pelo usuário
+ */
+const getAltura = () => parseFloat(document.querySelector("#q02-altura").value) || 0 
+
+const calcIMC = (peso, altura) => {
+    const IMCcalc = peso / Math.pow(altura, 2)
+    return IMCcalc
+}
+
+const getFaixa = imc => {
+    if (imc<18.5) return "Abaixo do peso"
+    if (imc>=18.5 && imc<25) return "Peso normal"
+    if (imc>=25 && imc<30) return "Levemente acima do peso"
+    if (imc>=30 && imc<35) return "Obesidade grau I"
+    if (imc>=35 && imc<40) return "Obesidade grau II (severa)"
+    return "Obesidade grau III (mórbida)"
+}
+
+btn02.addEventListener("click", () => {
+    const altura = getAltura() // irá retomar a função da altura
+    const peso = getPeso() //irá retomar a função do peso
+
+    const imc = calcIMC(peso, altura)
+
+    const IMCAnswer = document.querySelector("#q02-result")
+    const IMCAns = `<li>A sua interpretação de peso é ${getFaixa(imc)}</li>
+                    <li>O seu IMC é ${imc}</li>`
+    
+    IMCAnswer.innerHTML = IMCAns
+    //use getFaixa para imprimir a mensagem na tela
+})
+
+/*****************************************
+ * QUESTÃO 03
+ */
+
+const lancadorDados = () => Math.ceil(Math.random()*6)
+
+btn03.addEventListener("click", () => {
+    let lances = [0, 0, 0, 0, 0, 0] //6 faces do dado 
+    for(let i = 0; i < 1000000; i++){
+        lances[lancadorDados() - 1]++      
+    }
+    // a frequencia é total de #face/total de lancamentos
+    lancadorDados() - 1 / 1000000
+    console.log(lances)
+    const freqFace = document.querySelector("#face-freq-1")
+    const freqFace1 = document.querySelector("#face-freq-2")
+    const freqFace2 = document.querySelector("#face-freq-3")
+    const freqFace3 = document.querySelector("#face-freq-4")
+    const freqFace4 = document.querySelector("#face-freq-5")
+    const freqFace5 = document.querySelector("#face-freq-6")
+
+   const freqOccur1 = lances[0] / 10000 // freq do lado 1
+   const freqOccur2 = lances[1] / 10000 // freq do lado 2
+   const freqOccur3 = lances[2] / 10000 // freq do lado 3
+   const freqOccur4 =  lances[3] / 10000 // freq do lado 4
+   const freqOccur5 = lances[4] / 10000 // freq do lado 5
+   const freqOccur6 = lances[5] / 10000 // freq do lado 6
+
+   freqFace.innerHTML = freqOccur1
+   freqFace1.innerHTML = freqOccur2
+   freqFace2.innerHTML = freqOccur3
+   freqFace3.innerHTML = freqOccur4
+   freqFace4.innerHTML = freqOccur5
+   freqFace5.innerHTML = freqOccur6
+    //atualize a tabela com seus valores
+})
+
+/*****************************************
+ * QUESTÃO 04
+ */
+const btnAddNome = document.querySelector("#q04-add")
+
+//funcao que retorna o nome digitado
+const getNome = () => document.querySelector("#q04-nome").value
+
+const insereNome = nome => {
+    const listaNomes = document.querySelector("#q04-nomes")
+    //inserir nomes em listaNomes
+
+}
+
+const inverteNome = nome => {
+    let nome1 = ["Ana", "Paulo"]
+    for(let i = 0; i<nome1.lenght; i++){
+        
+    }
+    return 
+}
+
+// insere nome digitado
+btnAddNome.addEventListener("click", () => {
+    const listaNomes = document.querySelector("#q04-nomes")
+    if(getNome())
+        listaNomes.innerHTML += `<li>${getNome()}</li>`
+})
+
+btn04.addEventListener("click", ()=>{
+    const liNomesDigitados = document.querySelectorAll("#q04-nomes li")
+    const listaInvertido = document.querySelector("#q04-nomes-invertidos")
+
+    //para cada li de liNomesDigitados, inverta e insira em listaInvertido
+    for (let i=0; i<liNomesDigitados.length; i++) {
+        const nome = liNomesDigitados[i].textContent
+        const nomeInvertido = inverteNome(nome)
+        listaInvertido.innerHTML += `<li>${nomeInvertido}</li>`
+    }
+})
+
+/*****************************************
+ * QUESTÃO 05
+ */
+//funcao que retorna o nome digitado
+const getPalavra = () => document.querySelector("#q05-palavra").value
+
+const verificaPalindromo = (palavra) => {
+    //palavra[0] == palavra[palavra.length-1]
+    //palavra[1] == palavra[palavra.length-2] 
+    //palavra[2] == palavra[palavra.length-3] ...
+    // até chegar no meio; se todas iguais, é palíndromo
+    // caso contrário, não
+    return false // programe aqui
+}
+btn05.addEventListener("click", () => {
+    const palavra = getPalavra()
+    const resp = document.querySelector("#q05-result")
+    if(palavra)
+        resp.innerHTML = `A palavra ${palavra} 
+            ${(verificaPalindromo(palavra))?"é":"não é"} 
+            um palíndromo`
+})
+</script>
+</html>
