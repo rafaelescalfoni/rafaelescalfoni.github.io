@@ -180,10 +180,10 @@ CREATE (lib1:Libro{ISBN:'978-3-8484-6665-8',name:'Cuerpo of conocimiento y guí
 // ---- ARTICULOS PILAR ANGELES ---
 CREATE (ARTMPA1:Articulo{ISBN:'1',vol:'3',num:'3',edit:'Elsevier',titulo:'Towards a Representation of Enterprise Architecture based on Zachman Framework through OMG Standards',nameevento:'30th International Conference on Software Engineering and Knowledge Engineering SEKE 2018',alcance:'interNational',abstract:'nodisponible',numpags:11,rutapdf:'nohay',palabraClave1:'OM G',palabraClave2:'duplication',palabraClave3:'record linkage',anio:2018})
 CREATE (ARTMPA2:Articulo{ISBN:2,vol:'1',num:'1',edit:'Elsevier',titulo:'Mapeo entre la ISO/IEC 29110-5-1-2 y el MAAGTICSI dirigido a Organizaciones Pequeñas Desarrolladoras of Software en Mexico',nameevento:'XXI Ibero American Conference on Software Engineering CIbSE 2018',alcance:'interNational',abstract:'no disponible',numpags:11,rutapdf:'no disponible',palabraClave1:'MAGTICSI',palabraClave2:'PYME',palabraClave3:'Software',anio:2018 })
-CREATE (ARTMPA3:Articulo{ISBN:'978-1-4673-6901- 5',vol:3,num:2,edit:'Elsevier',titulo:'Analysis of String encoding functions during of duplication process',nameevento:'IEEE International Conference on Informatics Electronic and Vision, ICIEV 2015',alcance:'interNational',abstract:'no disponible',numpags:12,rutapdf:'http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=7333979&u rl=http%3A%2F%2Fieeexplore.ieee.org%2Fxpls%2Fabs_all.jsp%3Farnumber%3D7333979',palabr aClave1:'data matching',palabraClave2:'of duplication',palabraClave3:'record linkage',anio:2015})
+CREATE (ARTMPA3:Articulo{ISBN:'978-1-4673-6901-5',vol:3,num:2,edit:'Elsevier',titulo:'Analysis of String encoding functions during of duplication process',nameevento:'IEEE International Conference on Informatics Electronic and Vision, ICIEV 2015',alcance:'interNational',abstract:'no disponible',numpags:12,rutapdf:'http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=7333979&url=http%3A%2F%2Fieeexplore.ieee.org%2Fxpls%2Fabs_all.jsp%3Farnumber%3D7333979',palabraClave1:'data matching',palabraClave2:'of duplication',palabraClave3:'record linkage',anio:2015})
 CREATE (ARTMPA4:Articulo{ISBN:'978-1-4673-6901-5',edit:'IEEE',titulo:'Comparison of a Modified Spanish phonetic Soundex and Phonex coding functions during data matching process',nameevento:'IEEE International Conference on Informatics, Electronic and Vision, ICIEV 2015',alcance:'interNational',abstract:'no disponible',numpags:5,rutapdf:'http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=7334028&ur l=http%3A%2F%2Fieeexplore.ieee.org%2Fiel7%2F7322532%2F7333967%2F07334028.pdf%3Far number%3D7334028',palabraClave1:'data matching',palabraClave2:'of duplication',palabraClave3: 'soundex',anio:2015})
 CREATE (ARTMPA5:Articulo{ISSN:'0268-4012',vol:33,num:6,edit:'Elsevier',titulo:'V+H: Hybrid architecture for DSS and OLTP',nameevento:'International Journal of Information Management', alcance:'interNational',abstract:'no disponible',numpags:7,rutapdf:'http://www.sciencedirect.com/science/article/pii/S02684012130009 72 doi:10.1016/j.ijinfomgt.2013.08.006',palabraClave1:'Decision Support Systems',palabraClave2:'DSS',palabraClave3:'record linkage',anio:2013})
-CREATE (ARTMPA6:Articulo{ISSN:'1942-2628',vol:6,num:4,edit:'IARIA',titulo:'Multi Agent Distributed Data Mining by Ontologies',nameevento:'International Journal on Advances in Software',alcance:'interNational',abstract:'no disponible',numpags:11,rutapdf:'http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.643.375 3&rep=rep1&type=pdf#page=96',palabraClave1:'data matching',palabraClave2:'de- duplication',palabraClave3:'record linkage',anio:2013})
+CREATE (ARTMPA6:Articulo{ISSN:'1942-2628',vol:6,num:4,edit:'IARIA',titulo:'Multi Agent Distributed Data Mining by Ontologies',nameevento:'International Journal on Advances in Software',alcance:'interNational',abstract:'no disponible',numpags:11,rutapdf:'http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.643.375 3&rep=rep1&type=pdf#page=96',palabraClave1:'data matching',palabraClave2:'de-duplication',palabraClave3:'record linkage',anio:2013})
 CREATE (ARTMPA7:Articulo{ISBN:'1942-262',vol:1,num:2,edit:'IARIA',titulo:'Subjective Assessment of Data Quality considering their Interdependencies and Relevance according to the Type of Information Systems',nameevento:'International Journal on Advances in Software',alcance:'interNational',abstract:'checarvalor',numpags:11,rutapdf:'https://www.thinkmind. org/index.php?view=article&articleid=soft_v5_n34_2012_20',palabraClave1:'data matching',palabraClave2:'de-duplication',palabraClave3:'record linkage',anio:2015})
 CREATE (ARTMPA8:Articulo{ISSN:'1751-0465',vol:2,num:3,edit:'Inderscience Enterprise Ltd',titulo:'Managing Data Quality of integrated data with Known Provenance',nameevento:'International Journal of Information Quality',alcance:'interNational',abstract:'no disponible',numpags:19,rutapdf:'http://www.inderscienceonline.com/doi/abs/10.1504/IJIQ.2011.040 671',palabraClave1:'data provenance',palabraClave2:'data lineage',palabraClave3:'data quality',anio:2011})
 CREATE (ARTMPA10:Articulo{ISSN:'1405-5546',vol:13,num:3,edit:'Computación y Sistemas',titulo:'Assessing data quality of integrated data by quality aggregation of its ancestors',nameevento:'Indice of Revistas Cientificas y Tecnologicas del CONACYT',alcance:'interNational',abstract:'checar valor',numpags:10,rutapdf:'http://www.scielo.org.mx/pdf/cys/v13n3/v13n3a7.pdf',palabraClave1:'da ta provenance',palabraClave2:'data lineage',palabraClave3:'data quality',anio:2010})
@@ -193,32 +193,20 @@ CREATE (ARTMPA10:Articulo{ISSN:'1405-5546',vol:13,num:3,edit:'Computación y Si
 
 // CAPTURA of RELACIONES
 // estructura of la unam
-// Las Schooles, Schools, Institutes y entidades que BELONG A LA UNAM CREATE
-(FI)-[:BELONG]->(UNAM)
-CREATE
-(FCA)-[:BELONG]->(UNAM)
-CREATE
-(FC)-[:BELONG]->(UNAM)
-CREATE
-(FESAC)-[:BELONG]->(UNAM)
-CREATE
-(FESAR)-[:BELONG]->(UNAM)
-CREATE
-(FESCU)-[:BELONG]->(UNAM)
-CREATE
-(II)-[:BELONG]->(UNAM)
-CREATE
-(ICN)-[:BELONG]->(UNAM)
-CREATE
-(IIMAS)-[:BELONG]->(UNAM)
-CREATE
-(ICA T)-[:BELONG]->(UNAM)
-CREATE
-(IM)-[:BELONG]->(UNAM)
-CREATE
-(ENESMO)-[:BELONG]->(UNAM)
-CREATE
-(DGTIC)-[:BELONG]->(UNAM)
+// Las Schooles, Schools, Institutes y entidades que BELONG A LA UNAM 
+CREATE (FI)-[:BELONG]->(UNAM)
+CREATE (FCA)-[:BELONG]->(UNAM)
+CREATE (FC)-[:BELONG]->(UNAM)
+CREATE (FESAC)-[:BELONG]->(UNAM)
+CREATE (FESAR)-[:BELONG]->(UNAM)
+CREATE (FESCU)-[:BELONG]->(UNAM)
+CREATE (II)-[:BELONG]->(UNAM)
+CREATE (ICN)-[:BELONG]->(UNAM)
+CREATE (IIMAS)-[:BELONG]->(UNAM)
+CREATE (ICA T)-[:BELONG]->(UNAM)
+CREATE (IM)-[:BELONG]->(UNAM)
+CREATE (ENESMO)-[:BELONG]->(UNAM)
+CREATE (DGTIC)-[:BELONG]->(UNAM)
 CREATE (PRIDEA)<-[:ES_STIMULUS]-(STIMULATE) 
 CREATE (PRIDEB)<-[:ES_STIMULUS]-(STIMULATE) 
 CREATE (PRIDEC)<-[:ES_STIMULUS]-(STIMULATE) 
