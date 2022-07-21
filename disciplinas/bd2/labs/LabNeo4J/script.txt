@@ -1,0 +1,293 @@
+// -- CYPHER SCRIPT FOR POPULATING GRAPH DATABASE
+
+CREATE (UNAM:University{id:1,name:'National Autonomousus University of Mexico'}) 
+CREATE (ITAM:University{id:2,name:'Tecnological Autonomous Institute of Mexico'}) 
+CREATE (UAM:University{id:3,name:'Autonomousus Metropolitan University '}) 
+CREATE (IPN:University{id:4,name:'National PoliTechnical Institute '})
+CREATE (UVM:University{id:5,name:'University del Valle of Mexico'})
+CREATE (ITESM:University{id:6,name:'Tecnological Institute of High Studies of Monterrey'}) 
+CREATE (HWU:University{id:7,name:'Heriot Watt University',country:'Scotland'})
+CREATE (UUE:University{id:8,name:'European University',country:'Europe'})
+CREATE (UUSA:University{id:8,name:'American University',country:'United States of North America'})
+
+CREATE (FI:School{id:1,name:'School of Engineering'})
+CREATE (FCA:School{id:2,name:'School of Administration'})
+CREATE (FC:School{id:3,name:'School of Sciences'})
+CREATE (FESAC:School{id:4,name:'School of High Studies Acatlan'}) 
+CREATE (FESAR:School{id:5,name:'School of High Studies Aragon'}) 
+CREATE (FESCU:School{id:6,name:'School of High Studies Cuautitlan'})
+
+CREATE (II:Institute{id:7,name:'Institute of Engineering'})
+CREATE (ICN:Institute{id:8,name:'Institute of Sciences Nucleares'})
+CREATE (IIMAS:Institute{id:9,name:'Institute of Research on Applied Mathematics and in Systems'})
+CREATE (ICAT:Institute{id:10,name:'Institute of Sciences Applied y Tecnologia '}) 
+CREATE (IM:Institute{id:11,name:'Institute of Mathematics'})
+CREATE (ENESMO:School{id:12,name:'National School of High Studies Morelia'}) 
+CREATE (DGTIC:UNAM_Entity{id:13,name:'General Directorate of Computation and Technology of Information and Communication'})
+
+CREATE (TAXA:TECAX{id:1,name:'Technical Academic',type:'Auxiliar',category:'A'}) 
+CREATE (TAXB:TECAX{id:2,name:'Technical Academic',type:'Auxiliar',category:'B'}) 
+CREATE (TAXC:TECAX{id:3,name:'Technical Academic',type:'Auxiliar',category:'C'})
+
+CREATE (TATA:TECAT{id:1,name:'Technical Academic',type:'Titular',category:'A'}) 
+CREATE (TATB:TECAT{id:2,name:'Technical Academic',type:'Titular',category:'B'}) 
+CREATE (TATC:TECAT{id:3,name:'Technical Academic',type:'Titular',category:'C'})
+
+CREATE (TAAA:TECAA{id:1,name:'Technical Academic',type:'Associate',category:'A'}) 
+CREATE (TAAB:TECAA{id:2,name:'Technical Academic',type:'Associate',category:'B'})
+CREATE (TAAC:TECAA{id:3,name:'Technical Academic',type:'Associate',category:'C'})
+
+CREATE (PCTA:PCT{id:1,name:'Professor of Carrera Titular A'}) 
+CREATE (PCTB:PCT{id:2,name:'Professor of Carrera Titular B'}) 
+CREATE (PCTC:PCT{id:3,name:'Professor of Carrera Titular C'})
+
+CREATE (PCAA:PCA{id:1,name:'Professor of Carrera Associate A'}) 
+CREATE (PCAB:PCA{id:2,name:'Professor of Carrera Associate B'}) 
+CREATE (PCAC:PCA{id:3,name:'Professor of Carrera Associate C'})
+
+CREATE (ICTA:ICT{id:1,name:'Researcher of Carrera Titular A'}) 
+CREATE (ICTB:ICT{id:2,name:'Researcher of Carrera Titular B'}) 
+CREATE (ICTC:ICT{id:3,name:'Researcher of Carrera Titular C'})
+
+CREATE (ICAA:ICT{id:1,name:'Researcher of Carrera Associate A'}) 
+CREATE (ICAB:ICT{id:2,name:'Researcher of Carrera Associate B'}) 
+CREATE (ICAC:ICT{id:3,name:'Researcher of Carrera Associate C'})
+
+CREATE (CCTC:KnowledgeField{id:1,name:'Theory of la Computacion'}) 
+CREATE (CCIS:KnowledgeField{id:2,name:'Software Engineering'}) 
+CREATE (CCBD:KnowledgeField{id:3,name:'Databases'})
+CREATE (CCRS:KnowledgeField{id:4,name:'Network and Security'}) 
+CREATE (CCIA:KnowledgeField{id:5,name:'Artificial Intelligence '}) 
+CREATE (CCSAV:KnowledgeField{id:6,name:'Virtual Environments'}) 
+CREATE (CCCC:KnowledgeField{id:7,name:'Scientific computing'}) 
+CREATE (CCCD:KnowledgeField{id:8,name:'Data Sciences'})
+
+CREATE (IC:GradoAcademic{id:1,name:'Computing enginner'}) 
+CREATE (IE:GradoAcademic{id:1,name:'Electric/Electronic engineer'}) 
+CREATE (IME:GradoAcademic{id:1,name:'Mechanical engineer'})
+
+CREATE (MAT:GradoAcademic{id:1,name:'Bsc. Mathematics'}) 
+CREATE (FIS:GradoAcademic{id:1,name:'Bsc. Physics'})
+CREATE (LCC:GradoAcademic{id:2,name:'Bsc. Computer Sciences'}) 
+CREATE (ACT:GradoAcademic{id:3,name:'Actuarial'})
+
+CREATE (DI:GradoAcademic{id:4,name:'Doctor in Engineering'}) 
+CREATE (MI:GradoAcademic{id:5,name:'Master in Engineering'}) 
+CREATE (MC:GradoAcademic{id:6,name:'Master in Sciences'}) 
+CREATE (DC:GradoAcademic{id:7,name:'Doctor in Sciences'})
+
+CREATE (STIMULATE:STIMULUS{id:1,name:'STIMULATE Academics'})
+
+CREATE (SNIC:SNI{id:1,name:'National System of Researchers', acronym:'SNI-C', level:'Candidato'})
+CREATE (SNI1:SNI{id:2,name:'National System of Researchers', acronym:'SNI-I', level:'I'}) 
+CREATE (SNI2:SNI{id:3,name:'National System of Researchers', acronym:'SNI-II', level:'II'}) 
+CREATE (SNI3:SNI{id:4,name:'National System of Researchers', acronym:'SNI-III', level:'III'})
+
+CREATE (PRIDEA:PRIDE{id:1,name:'Academic Funding Program',acronym:'PRIDE', level:'A'})
+CREATE (PRIDEB:PRIDE{id:2,name:'Academic Funding Program',acronym:'PRIDE', level:'B'}) 
+CREATE (PRIDEC:PRIDE{id:3,name:'Academic Funding Program',acronym:'PRIDE', level:'C'}) 
+CREATE (PRIDED:PRIDE{id:4,name:'Academic Funding Program',acronym:'PRIDE', level:'D'})
+
+CREATE (ESTIMPAIPA:Paipa{id:5,acronym:'PAIPA'})
+CREATE (ESTIMCATCON:Conacyt{id:6,name:'Catedra CONACYT'})
+
+CREATE (ACVEAR:Academic {id:1,name:'Veronica Esther',apPat:'Arriola',apMat:'Rios',gender:'female'})
+CREATE (ACPBS:Academic{id:2,name:'Pablo',apPat:'Barrera',apMat:'Sanchez',gender:'male'}) 
+CREATE (ACHACC:Academic{id:3,name:'Humberto Andres',apPat:'Carrillo',apMat:'Calvet',gender:'male'})
+CREATE (ACJDFP:Academic{id:4,name:'Jose David',apPat:'Flores',apMat:'Peñaloza',gender:'male'})
+CREATE (ACJJGC:Academic{id:5,name:'Jose of Jesus',apPat:'Galaviz',apMat:'Casas',gender:'male'})
+CREATE (ACSNGH:Academic{id:6,name:'Sofia Natalia',apPat:'Galicia',apMat:'Haro',gender:'male'})
+CREATE (ACMPA:Academic{id:7,name:'Maria del Pilar',apPat:'Angeles',apMat:'.',gender:'female',teloficina:'56233500 x 1376',corrofi:'pilarang@cvicom.unam.mx'})
+CREATE (ACFGU:Academic{id:7,name:'Francisco',apPat:'Garcia',apMat:'Ugalde',gender:'male'}) 
+CREATE (ACBER:Academic{id:7,name:'Boris',apPat:'Escalante',apMat:'Ramirez',gender:'male',teloficina:'56 233500 x 1375',corrofi:'boris@cvicom.unam.mx'})
+
+// -- lineas of research of ICAT
+CREATE (LIAI:ResearchLine{id:1,name:'Analysis of Images'})
+CREATE (LIV:ResearchLine{id:1,name:'Visualization'})
+CREATE (LIB:ResearchLine{id:1,name:'Bioinformatics'})
+CREATE (LIIBFC:ResearchLine{id:2,name:'Imagenology, Physics, Computing'}) 
+CREATE (LIUIDT:ResearchLine{id:3,name:'Technological Research and Development'}) 
+CREATE (LIMSP:ResearchLine{id:4,name:'Modeling'})
+CREATE (LISI:ResearchLine{id:5,name:'Intelligent Systems'})
+CREATE (LIESIE:ResearchLine{id:6,name:'Interactive education'})
+CREATE (LITE:ResearchLine{id:7,name:'Telematics for education'})
+CREATE (LIAV:ResearchLine{id:8,name:'Acoustics'})
+
+// -- GRUPOS AcademicS of research ICAT --
+CREATE (GAV:AcademicGroup{id:1,name:'Acoustics',type:'research'})
+CREATE (GAIVB:AcademicGroup{id:2,name:'Analysis of Images, Visualization and Bioinformatics',type:'research'})
+CREATE (GCSC:AcademicGroup{id:3,name:'Cibernetica y sistemas complejos',type:'research'}) 
+CREATE (GCN:AcademicGroup{id:4,name:'Neural Computing',type:'research'})
+CREATE (GESIE:AcademicGroup{id:5,name:'Education spaces',type:'research'})
+CREATE (GIBFC:AcademicGroup{id:6,name:'Imagenology',type:'research'})
+CREATE (GSI:AcademicGroup{id:7,name:'Inteligent Systems',type:'research'})
+CREATE (GUIDT:AcademicGroup{id:8,name:'Technological Development',type:'research'})
+
+// -- GRUPOS AcademicS of F Engineering--
+CREATE (GBD:AcademicGroup{id:7,name:'group Databases',type:'research'}) 
+CREATE (GAI:AcademicGroup{id:15,name:'Group Image Analysis',type:'research'})
+
+// -- GRUPOS AcademicS of FES ACATLAN --
+CREATE (GRAIN:AcademicGroup{id:9,name:'Intelligent Reasoning',type:'research'})
+
+// --lineas of research fes acatlan
+CREATE (LIIA:ResearchLine{id:10,name:'Artificial Intelligence'})
+CREATE (LISBC:ResearchLine{id:11,name:'Knowledge Systems'})
+CREATE (LITRC:ResearchLine{id:12,name:'Qualitative reasoning and representation'}) 
+CREATE (LILD:ResearchLine{id:13,name:'Descriptive Logic '})
+
+CREATE (PYVIZEXPERT:Project{id:1,name:'Expert System for the evaluation of visual pathologies'})
+
+// --ProjectS AcademicS FES ARAGON
+CREATE (PYPREP:Project{id:2,name:'Audit of software to the systems of the Preliminary Electoral Results Program'})
+CREATE (PYELGA:Project{id:3,name:'Elga Internet'})
+
+// --ProjectS AcademicS FES CUAUTITLAN
+CREATE (PYPIAPI1616CPL:Project{id:4,name:'Services of Advanced Computing for the research on Sciences and Engineering'})
+CREATE (PYPAPIITIN113316:Project{id:5,name:'Algebraic Structures Related to Quantum Groups and their Applications'})
+CREATE (PYPIAPI1634:Project{id:6,name:'Algebraic Structures and their Applications'}) 
+CREATE (PYPAPIME5322117:Project{id:7,name:'Mathematical Modeling and Computational Simulation and Optimization of Chemical Processes'})
+CREATE (PYAUCCCCTCA:Project{id:8,name:'Ultrasonic applications and cryogels of meat cuts for the control of the size of crystals of water'})
+CREATE (PYPAPIITIN111628:Project{id:7,name:'Phenomenology of quarks and leptons in extended models'})
+CREATE (PYPIAPI1528:Project{id:9,name:'Computational Applications in Modern Physics'}) 
+CREATE (PYPAPIITIN218118:Project{id:10,name:'Complexes of copper (II) and Zinc (II) with anti-inflammatory drugs'})
+CREATE (PYSIIFCU:Project{id:11,name:'Integral System of Information of the FES Cuautitlan'})
+
+// -- lineas of research of ENES MORELIA --
+CREATE (LICB:ResearchLine{id:14,name:'Biologycal Sciences'}) 
+CREATE (:ResearchLine{id:15,name:'Data Sciences'})
+CREATE (LICT:ResearchLine{id:16,name:'Earth Sciences'}) 
+CREATE (LIAA:ResearchLine{id:17,name:'Machine learning'})
+
+// -- GRUPOS AcademicS of enes morelia --
+CREATE (GLAAD:AcademicGroup{id:10,name:'Advance Analysis Laboratory',type:'laboratory'})
+
+// -- lineas of research of Direccion General of Computo y of Tecnologias of Informacion y Comunicacion
+CREATE (CONACYT:Financiamiento{id:1,name:'Consejo National of Ciencia y Tecnologia',acronym:'CONACYT'})
+CREATE (PAPIIT:Financiamiento{id:2,name:'Programa of Apoyo a Projects of Investigación e Innovación Tecnológica',acronym:'PAPIIT'})
+CREATE (PAPIME:Financiamiento{id:3,name:'Programa of Apoyo a Projects para la Innovación y Mejoramiento of la Enseñanza',acronym:'PAPIME'})
+
+// Projects PARA pilar angeles
+CREATE (PYIN114413:Project{id:11,name:'Sistema Evaluador of Calidad of data',type:'research',endingyear:2017})
+CREATE (PY2018:Project{id:12,name:'Analysis of opinion on twitter about the use of psychostimulant drugs in 10 states of the United States',type:'difusion',endingyear:2018})
+CREATE (PY2010:Project{id:13,name:'Criteria of Quality and Priorities by role of user and type of System of Information for making decisions regarding extensional inconsistencies in environments of Multiple Databases',type:'research',endingyear:2010})
+CREATE (PY2011:Project{id:14,name:'Calidad of data dentro of la Integración of Información Empresarial',type:'research',endingyear:2011})
+CREATE (PY20112:Project{id:15,name:'The use of Data Cleansing in mobile devices',type:'research',endingyear:2011})
+
+// ---- LIBROS PILAR ANGELES ---
+CREATE (lib1:Libro{ISBN:'978-3-8484-6665-8',name:'Cuerpo of conocimiento y guía of evaluación',editorial:'Academica Espanola',isbn:'978-3-8484-6665-8',anio:2018})
+
+// ---- ARTICULOS PILAR ANGELES ---
+CREATE (ARTMPA1:Articulo{ISBN:'1',vol:'3',num:'3',edit:'Elsevier',titulo:'Towards a Representation of Enterprise Architecture based on Zachman Framework through OMG Standards',nameevento:'30th International Conference on Software Engineering and Knowledge Engineering SEKE 2018',alcance:'interNational',abstract:'nodisponible',numpags:11,rutapdf:'nohay',palabraClave1:'OM G',palabraClave2:'duplication',palabraClave3:'record linkage',anio:2018})
+CREATE (ARTMPA2:Articulo{ISBN:2,vol:'1',num:'1',edit:'Elsevier',titulo:'Mapeo entre la ISO/IEC 29110-5-1-2 y el MAAGTICSI dirigido a Organizaciones Pequeñas Desarrolladoras of Software en Mexico',nameevento:'XXI Ibero American Conference on Software Engineering CIbSE 2018',alcance:'interNational',abstract:'no disponible',numpags:11,rutapdf:'no disponible',palabraClave1:'MAGTICSI',palabraClave2:'PYME',palabraClave3:'Software',anio:2018 })
+CREATE (ARTMPA3:Articulo{ISBN:'978-1-4673-6901- 5',vol:3,num:2,edit:'Elsevier',titulo:'Analysis of String encoding functions during of duplication process',nameevento:'IEEE International Conference on Informatics Electronic and Vision, ICIEV 2015',alcance:'interNational',abstract:'no disponible',numpags:12,rutapdf:'http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=7333979&u rl=http%3A%2F%2Fieeexplore.ieee.org%2Fxpls%2Fabs_all.jsp%3Farnumber%3D7333979',palabr aClave1:'data matching',palabraClave2:'of duplication',palabraClave3:'record linkage',anio:2015})
+CREATE (ARTMPA4:Articulo{ISBN:'978-1-4673-6901-5',edit:'IEEE',titulo:'Comparison of a Modified Spanish phonetic Soundex and Phonex coding functions during data matching process',nameevento:'IEEE International Conference on Informatics, Electronic and Vision, ICIEV 2015',alcance:'interNational',abstract:'no disponible',numpags:5,rutapdf:'http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=7334028&ur l=http%3A%2F%2Fieeexplore.ieee.org%2Fiel7%2F7322532%2F7333967%2F07334028.pdf%3Far number%3D7334028',palabraClave1:'data matching',palabraClave2:'of duplication',palabraClave3: 'soundex',anio:2015})
+CREATE (ARTMPA5:Articulo{ISSN:'0268-4012',vol:33,num:6,edit:'Elsevier',titulo:'V+H: Hybrid architecture for DSS and OLTP',nameevento:'International Journal of Information Management', alcance:'interNational',abstract:'no disponible',numpags:7,rutapdf:'http://www.sciencedirect.com/science/article/pii/S02684012130009 72 doi:10.1016/j.ijinfomgt.2013.08.006',palabraClave1:'Decision Support Systems',palabraClave2:'DSS',palabraClave3:'record linkage',anio:2013})
+CREATE (ARTMPA6:Articulo{ISSN:'1942-2628',vol:6,num:4,edit:'IARIA',titulo:'Multi Agent Distributed Data Mining by Ontologies',nameevento:'International Journal on Advances in Software',alcance:'interNational',abstract:'no disponible',numpags:11,rutapdf:'http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.643.375 3&rep=rep1&type=pdf#page=96',palabraClave1:'data matching',palabraClave2:'de- duplication',palabraClave3:'record linkage',anio:2013})
+CREATE (ARTMPA7:Articulo{ISBN:'1942-262',vol:1,num:2,edit:'IARIA',titulo:'Subjective Assessment of Data Quality considering their Interdependencies and Relevance according to the Type of Information Systems',nameevento:'International Journal on Advances in Software',alcance:'interNational',abstract:'checarvalor',numpags:11,rutapdf:'https://www.thinkmind. org/index.php?view=article&articleid=soft_v5_n34_2012_20',palabraClave1:'data matching',palabraClave2:'de-duplication',palabraClave3:'record linkage',anio:2015})
+CREATE (ARTMPA8:Articulo{ISSN:'1751-0465',vol:2,num:3,edit:'Inderscience Enterprise Ltd',titulo:'Managing Data Quality of integrated data with Known Provenance',nameevento:'International Journal of Information Quality',alcance:'interNational',abstract:'no disponible',numpags:19,rutapdf:'http://www.inderscienceonline.com/doi/abs/10.1504/IJIQ.2011.040 671',palabraClave1:'data provenance',palabraClave2:'data lineage',palabraClave3:'data quality',anio:2011})
+CREATE (ARTMPA10:Articulo{ISSN:'1405-5546',vol:13,num:3,edit:'Computación y Sistemas',titulo:'Assessing data quality of integrated data by quality aggregation of its ancestors',nameevento:'Indice of Revistas Cientificas y Tecnologicas del CONACYT',alcance:'interNational',abstract:'checar valor',numpags:10,rutapdf:'http://www.scielo.org.mx/pdf/cys/v13n3/v13n3a7.pdf',palabraClave1:'da ta provenance',palabraClave2:'data lineage',palabraClave3:'data quality',anio:2010})
+
+// CREACION of ARTICULOS, SUS CAMPOS NECESARIOS:
+// CREATE (ARTMPA12:Articulo{ISBN:4,vol:'',num:'',edit:'',titulo:'',nameevento:'',alcance:'interNational',abstract:'',numpags:'',rutapdf:'',palabraClave1:'data matching',palabraClave2:'de-duplication',palabraClave3:'record linkage',anio:2015})
+
+// CAPTURA of RELACIONES
+// estructura of la unam
+// Las Schooles, Schools, Institutes y entidades que BELONG A LA UNAM CREATE
+(FI)-[:BELONG]->(UNAM)
+CREATE
+(FCA)-[:BELONG]->(UNAM)
+CREATE
+(FC)-[:BELONG]->(UNAM)
+CREATE
+(FESAC)-[:BELONG]->(UNAM)
+CREATE
+(FESAR)-[:BELONG]->(UNAM)
+CREATE
+(FESCU)-[:BELONG]->(UNAM)
+CREATE
+(II)-[:BELONG]->(UNAM)
+CREATE
+(ICN)-[:BELONG]->(UNAM)
+CREATE
+(IIMAS)-[:BELONG]->(UNAM)
+CREATE
+(ICA T)-[:BELONG]->(UNAM)
+CREATE
+(IM)-[:BELONG]->(UNAM)
+CREATE
+(ENESMO)-[:BELONG]->(UNAM)
+CREATE
+(DGTIC)-[:BELONG]->(UNAM)
+CREATE (PRIDEA)<-[:ES_STIMULUS]-(STIMULATE) 
+CREATE (PRIDEB)<-[:ES_STIMULUS]-(STIMULATE) 
+CREATE (PRIDEC)<-[:ES_STIMULUS]-(STIMULATE) 
+CREATE (PRIDED)<-[:ES_STIMULUS]-(STIMULATE) 
+CREATE (SNIC)<-[:ES_STIMULUS]-(STIMULATE) 
+CREATE (SNI1)<-[:ES_STIMULUS]-(STIMULATE) 
+CREATE (SNI2)<-[:ES_STIMULUS]-(STIMULATE) 
+CREATE (SNI3)<-[:ES_STIMULUS]-(STIMULATE)
+
+// PILAR ANGELES LICENCIATURA, MAESTRIA Y DOCTORADO 
+CREATE (ACMPA)<-[:BSCSTUDY]-(FI)-[:BSCSTUDY]->(ING)-[:BSCSTUDY]->(IC) 
+CREATE (ACMPA)<-[:MASTERSTUDY]-(IIMAS)-[:MASTERSTUDY]->(MC)
+CREATE (ACMPA)<-[:PHDSTUDY]-(HWU)-[:PHDSTUDY]->(CC)
+
+// BORIS LICENCIATURA, MAESTRIA Y DOCTORADO
+CREATE (ACBER)<-[:BSCSTUDY]-(FI)-[:BSCSTUDY]->(ING)-[:BSCSTUDY]->(IE) 
+CREATE (ACBER)<-[:MASTERSTUDY]-(FI)-[:MASTERSTUDY]->(MI) 
+CREATE (ACBER)<-[:PHDSTUDY]-(UUE)-[:PHDSTUDY]->(DI)
+
+// TRABAJA EN LA UNAM 
+CREATE (ACMPA)-[:WORKS_UNI]->(UNAM) 
+CREATE (ACBER)-[:WORKS_UNI]->(UNAM)
+
+// ADSCRITA A FI 
+CREATE (ACMPA)-[:WORKSFOR]->(FI) 
+CREATE (ACBER)-[:WORKSFOR]->(FI)
+
+// ES Professor
+Create (ACMPA) –[:JOBPOSITION]-> (PCTA) 
+CREATE (ACBER) –[:JOBPOSITION]-> (PCTC)
+
+// HAS STIMULATE SNI Y PRIDE
+CREATE (ACMPA)<–[:HAS_SNI{fechafin:2015}]-(SNIC) 
+CREATE (ACMPA)<–[:HAS_PRIDE{fechafin:2020}]-(PRIDEC)
+CREATE (ACBER)<–[:HAS_SNI{fechafin:2018}]-(SNI2)
+CREATE (ACMPA)<–[:HAS_PRIDE{fechafin:2020}]-(PRIDED)
+
+// HAS LINEA of research 
+CREATE (ACMPA)-[:LINEA_INVESTIGA]->(LICD) 
+CREATE (ACMPA)-[:BELONG_GRUPO]->(GBD)
+CREATE (ACBER)-[:LINEA_INVESTIGA]->(LIAI)
+CREATE (ACBER)-[:BELONG_GRUPO]->(GAI)
+
+//EL GRUPOS AcademicS Y CAMPOS of CONOCIMIENTO
+// GRPO of BASE of data BELONG A LINEA of INVEST Y LA LINEA of INV BELONG CAMPO CONOCIMIENTOS
+CREATE (GBD)-[:LINEA_INVESTIGA]->(LICD)
+CREATE (LICD)-[:BELONG_CAMPO_CONO]->(CCBD)
+CREATE (GAI)-[:LINEA_INVESTIGA]->(LIAI)
+CREATE (LIAI)-[:BELONG_CAMPO_CONO]->(CCSAI)
+CREATE (ACMPA)-[:HAS_Project]->(PYPAPIITIN114413)
+CREATE (ACFGU)-[:HAS_Project]->(PYPAPIITIN114413)
+CREATE (PYPAPIITIN114413)-[:BELONG_GRUPO]->(GBD)
+CREATE (PY2018)-[:BELONG_GRUPO]->(GBD)
+CREATE (PYPAPIITIN114413)-[:FINANCIADO_POR{fechafin:2016}]->(PAPIIT)
+CREATE (PY2018)-[:FINANCIADO_POR{fechafin:2018}]->(CONACYT)
+
+// --- GRUPO Academic CON PILAR ANGELES 
+CREATE (ACMPA)<-[:ESTA_GRUPO_INV]-(GBD) 
+CREATE (ACFGU)<-[:ESTA_GRUPO_INV]-(GBD)
+CREATE (PY2018)-[:PRODUCES]->(ARTMPA1)
+CREATE (ACMPA)-[:WRITE_ARTI{type:'conferencia'}]->(ARTMPA1)
+CREATE (ACBER)-[:WRITE_ARTI{type:'conferencia'}]->(ARTMPA1) 
+CREATE (PY2018)-[:PRODUCES]->(ARTMPA2)
+CREATE (ACMPA)-[:WRITE_ARTI{type:'conferencia'}]->(ARTMPA2) 
+CREATE (ACBER)-[:WRITE_ARTI{type:'conferencia'}]->(ARTMPA2) 
+CREATE (PYIN114413)-[:PRODUCES]->(ARTMPA3)
+CREATE (ACMPA)-[:WRITE_ARTI{type:'conferencia'}]->(ARTMPA3) 
+CREATE (ACFGU)-[:WRITE_ARTI{type:'conferencia'}]->(ARTMPA3) 
+CREATE (PYIN114413)-[:PRODUCES]->(ARTMPA4)
+CREATE (ACMPA)-[:WRITE_ARTI{type:'conferencia'}]->(ARTMPA4) 
+CREATE (ACFGU)-[:WRITE_ARTI{type:'conferencia'}]->(ARTMPA4)
+
