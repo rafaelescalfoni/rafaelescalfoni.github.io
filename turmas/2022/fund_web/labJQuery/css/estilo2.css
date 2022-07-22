@@ -1,0 +1,24 @@
+aside{
+	width: 330px;
+	float: left;
+}
+
+main{
+	width: 670px;
+	float:left;
+}
+
+.titulo {
+	text-align: center;	
+}
+
+.titulo-principal{
+	font-size: 2em;
+	margin-bottom: 2px;
+}
+
+.titulo-secundario{
+	font-size: 1.5em;	
+	margin-top: 2px;	
+	font-weight: normal;
+}

@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        * {
+            box-sizing:border-box;
+        }
+        body {
+            background-color:#000;
+        }
+        #filmes {
+            width:90%;
+            margin:0 auto;
+        }
+
+        .filme {
+            background-color: rgb(32, 32, 32);
+            border: 1px solid rgb(49, 49, 49);
+            padding: 15px 10px;
+            width: 90%;
+            margin: auto;
+        }
+
+        
+        
+        @media (min-width:760px)  {
+            .col-md-6 {
+                width: 50%;
+            }
+            .poster{
+                float: left;
+                padding: 15px 10px;
+                background-color:#000;  
+                color:#fff;
+                height: 400px;
+                overflow:auto;
+            }
+        }
+        
+        @media (max-width:759px){
+            .poster{
+                padding: 15px 10px;
+                background-color:#000;  
+                color:#fff;
+            }
+            .col-sm-12{
+                width: 100%;
+            }    
+            .filme img {
+               width:inherit;
+            }
+        }
+        
+    </style>
+    <script src="./js/jquery.min.js"></script>
+    <script>
+        function adicionaFilme(filme){
+            var objElenco = $("<ul>");
+            objElenco.addClass("filme-elenco");
+            $.each(filme.elenco, function(idx, ator){
+                objElenco.append($("<li>").text(ator));
+            });
+
+            $("#filmes")
+                .append($("<section>")
+                    .addClass("poster")
+                    .addClass("col-md-6").addClass("col-sm-12")
+                    .append($("<div>"))
+                        .addClass("filme")
+                        .append($("<h3>").text(filme.titulo))
+                        .append($("<p>").text(filme.resumo))
+                        .append($("<img>").attr("src", filme.figura))
+                        .append(objElenco));
+        }
+
+        $(function(){
+            var url = "http://rafaelescalfoni.net/filmes.php";
+            $.get(url, function(data, status){
+                lista = JSON.parse(data);
+                
+                $.each(lista, function(indice, filme){
+                    adicionaFilme(filme);
+                })
+            })
+        })
+    </script>
+</head>
+<body>
+    <h1>Catálogo de Filmes</h1>
+    <div id="filmes">
+        
+    </div>
+</body>
+</html>

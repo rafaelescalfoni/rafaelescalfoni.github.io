@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Atividade 4 - Carregar Endereço </title>
+    <script src="./js/jquery.min.js"></script>
+	<script src="./js/atividade04.js"></script>
+	<link rel="stylesheet" href="./css/estilo.css">
+</head>
+<body>
+	<div class="container">
+        <nav>
+            <h3> Atividades</h3>
+            <ul>
+				<li><a href="index.html">Início</a></li>
+                <li><a href="atividade01.html">01. Livraria</a></li>
+                <li><a href="atividade02.html">02. Cafeteria</a></li>
+                <li><a href="atividade03.html">03. Receitas</a></li>
+                <li><a href="atividade04.html">04. CEP</a></li>
+            </ul>
+        </nav>
+        <div class="content">
+
+            <h1>CEP</h1>
+            <h3>
+                AJAX com envio de requisição. 
+            </h3>
+            <p>
+                Nesta atividade, o usuário fará uma requisição AJAX para ter o preenchimento automático de endereço.
+            </p>
+            <label>Entre com o CEP</label> 
+            <input id="cep" type="text" />
+            <button id="buscaEndereco">Buscar Endereço</button>
+            
+            <div id="resultado">
+                <h3>Endereço:</h3>
+                <div class="endereco">
+                    <p class="endereco-logradouro"></p>
+                    <p class="endereco-bairro"></p>
+                    <p class="endereco-cidade"></p>
+                    <p class="endereco-estado"></p>
+                </div>
+            </div>
+        </div>
+        <footer></footer>
+    </div>
+</body>
+</html>
