@@ -1,0 +1,42 @@
+/*
+azul escuro: rgb(2, 27, 38)
+azul claro: rgb(195, 227, 245)
+
+azul-botao: rgb(23, 176, 228)
+azul-link: rgb(9, 70, 92)
+
+*/
+
+body {
+    background-color:rgb(2, 27, 38);
+}
+main {
+    background-color: #fff;
+}
+blockquote, main footer {
+    background-color: rgb(195, 227, 245);
+}
+
+header {
+    display: flex;
+    flex-direction: row;
+    justify-content:space-between;
+}
+
+header h1 {
+    color: #fff;
+}
+nav ul {
+    display:flex;
+    flex-direction: row;
+    justify-content:space-between;
+    list-style:none;
+}
+
+nav li {
+    padding: 20px;
+}
+
+nav a {
+    color:#fff;
+}
