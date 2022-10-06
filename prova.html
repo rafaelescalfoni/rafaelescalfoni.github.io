@@ -1,0 +1,125 @@
+<!doctype html>
+<html>
+<head><!-- configs da página --> </head>
+<style>
+    * {
+        font-family: Arial, Tahoma, sans-serif;
+    }
+
+    body {
+        margin:0;
+    }
+
+    header section, header ul {
+        display: flex;
+        flex-direction: row;
+        justify-content:space-between;
+    }
+
+    header li {
+        list-style:none;/*removendo bullets*/
+        /*insira sua regra aqui */
+        margin-left:15px;
+    }
+
+    header {
+        background-color: #888;
+    }
+
+    main, footer, .box {
+        background-color: #ddd;
+    }
+
+    main section {
+        background-color: #fff; 
+    }
+
+    header section, main section, footer section {
+        width: 960px;
+        margin: auto; 
+        box-sizing:border-box;
+    }
+
+    main section, footer {
+        padding: 15px 20px;
+    }
+
+    h1, h2, h3, h4, h5, h6 { 
+        text-align:center;
+        margin:0;
+    }
+
+    #subtitle {
+        font-size:.8rem;
+        text-align: center;
+        font-style: italic;
+    }
+
+    .boxes {
+        display: flex;
+        flex-direction: row;
+    }
+
+    .box {
+        width: 296px;
+        padding: 10px;
+        border: 1px solid #888;
+        margin:15px;
+    }
+
+</style>
+<body>
+    <header>
+        <section>
+            <img id="logo" src="logo.png" alt="Logo da fábrica" width="200" heigth="120">
+            <nav>
+ 	    <ul>
+                <li><a href="#">Início</a></li>
+                <li><a href="#">Quem somos</a></li>
+                <li><a href="#">Produtos</a></li>
+ 	    </ul>
+            </nav>
+        </section>
+    </header>
+    <main>
+        <section>
+            <h1>Fábrica de Software</h1>
+            <p id="subtitle">Bem-vindo à Fábrica de Software CEFET/RJ Friburgo!</p>
+	        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Itaque commodi harum quas hic iste reiciendis dignissimos, magnam ut aperiam. Nulla temporibus omnis sint rem et quam ullam, accusamus distinctio dolor.</p>
+            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Itaque commodi harum quas hic iste reiciendis dignissimos, magnam ut aperiam. Nulla temporibus omnis sint rem et quam ullam, accusamus distinctio dolor.</p>
+	    </section>
+	<section class="portfolio">
+		 <h3 id="prod-nomes">Nossos produtos</h3>
+         <div class="boxes">
+		 <div class="box">
+		    <h4>Desenvolvimento</h4>
+		    <figure>
+ 			<img src="code.png" alt="Jovens programando">
+			<figcaption>Apps</figcaption>
+               </figure>
+		    <p>Lorem ipsum dolor et amon…</p>
+		 </div>
+ <div class="box">
+		    <h4>Treinamentos</h4>
+		    <figure>
+ 			<img src="sala.png" alt="Sala de Aula">
+			<figcaption>Cursos</figcaption>
+               </figure>
+		    <p>Lorem ipsum dolor et amon…</p>
+		 </div>
+ <div class="box">
+		    <h4>Implantações</h4>
+		    <figure>
+ 			<img src="infra.png" alt="Servidores">
+			<figcaption>Instalações</figcaption>
+               </figure>
+		    <p>Lorem ipsum dolor et amon…</p>
+		 </div>
+        </div>
+        </section>
+    </main>
+    <footer>
+       <section> <p>Fábrica de Software &copy; 2022</p> </section>
+    </footer>
+</body>
+</html>
