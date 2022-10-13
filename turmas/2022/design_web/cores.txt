@@ -1,0 +1,9 @@
+cores:
+
+marrom - cabeçalho e rodapé: rgb(27, 15, 0)
+laranja - corpo rgb(209, 65, 36)
+rosa - rgb(175, 20, 59)
+marrom ícones - rgb(79, 34, 1)
+
+fontes escuras - rgb(28, 15, 0)
+fontes cinzas  - rgb(83, 83, 83)
