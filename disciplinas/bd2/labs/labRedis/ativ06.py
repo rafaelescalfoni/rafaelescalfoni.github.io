@@ -32,4 +32,4 @@ client.mset(chave1, numeros_sorteio1,
         chave4, numeros_sorteio4)
 client.bulk_stop()
 
-print(client.get(chave4))
+print(client.get(chave1))
