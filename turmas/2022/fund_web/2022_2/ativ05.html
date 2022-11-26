@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JS - Atividade 05</title>
+    <style>
+        td,th {
+            border: 1px solid #333;
+            padding: 3px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Exercício 05</h1>
+    <a href="exercicios_js.html">
+        Voltar
+    </a>
+    <p>
+        Na matemática um número é considerado primo se ele possuir apenas dois divisores, o número um e ele mesmo.
+    </p>
+    <p>
+        Para ajudar a gerar uma série de n números primos, crie uma função que ao receber o tamanho n retorne a respectiva série de números primos, por exemplo, ao receber o valor 4 o retorno será 2, 3, 5, 7. Contudo, se for recebido dois valores a interpretação será que a série deverá compreender o intervalo desses valores, portanto, os valores 2, 10 resultaram em 2, 3, 5, 7.
+    </p>
+
+    <table>
+        <tr><th>Entrada</th><th>Saída</th></tr>
+        <tr>
+            <td>4</td>
+            <td>2, 3, 5, 7</td>
+        </tr>
+        <tr>
+            <td>6</td>
+            <td>2, 3, 5, 7, 11, 13</td>
+        </tr>
+        <tr>
+            <td>2,10</td>
+            <td>2, 3, 5, 7</td>
+        </tr>
+        <tr>
+            <td>2,20</td>
+            <td>2, 3, 5, 7, 11, 13, 17, 19</td>
+        </tr>
+    </table>
+
+    <input type="text" id="numVal" placeholder="Entrada de primos - um valor ou dois">
+    <button id="primos">Exibir Primos</button>
+    <div id="output"></div>
+</body>
+</html>
