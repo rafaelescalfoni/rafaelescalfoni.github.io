@@ -1,0 +1,108 @@
+/*!
+ * Bandeira do Brasil com CSS
+ * by nandomoreira.me | https://github.com/nandomoreirame
+ */
+
+$flag-width: 50px;
+$flag-height: 30px;
+$losangue-width: 21px;
+$losangue-height: 26px;
+$circle-width: 16px;
+$circle-height: $circle-width;
+
+$color-white: #fff;
+$color-flag: $verde;
+$color-losangue: $amarelo;
+$color-circle: $azul;
+
+.brasil-flag {
+  position: relative;
+  background-color: $color-flag;
+  width: $flag-width;
+  height: $flag-height;
+
+  .circle,
+  .losangue:before,
+  .losangue:after {
+    position: absolute;
+  }
+
+  .losangue {
+    width: 100%;
+    height: 100%;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+
+    &:before,
+    &:after {
+      content: "";
+      width: 0;
+      height: 0;
+      left: 4px;
+      right: 4px;
+    }
+
+    &:before {
+      border-left: $losangue-width solid transparent;
+      border-right: $losangue-width solid transparent;
+      border-bottom: calc($losangue-height/2) solid $color-losangue;
+      top: 2px;
+    }
+
+    &:after {
+      border-left: $losangue-width solid transparent;
+      border-right: $losangue-width solid transparent;
+      border-top: calc($losangue-height/2) solid $color-losangue;
+      bottom: 2px;
+    }
+  }
+
+  .circle {
+    overflow: hidden;
+    z-index: 2;
+    display: block;
+    background-color: $color-circle;
+    height: $circle-height;
+    width: $circle-width;
+    margin-top: -8px;
+    margin-left: -8px;
+
+    &,
+    &:before,
+    &:after {
+      top: 50%;
+      left: 50%;
+      position: absolute;
+      border-radius: 50%;
+      -webkit-border-radius: 50%;
+      -moz-border-radius: 50%;
+    }
+
+    &:before,
+    &:after {
+      width: 18px;
+      height: 8px;
+      -ms-transform: rotate(14deg);
+      -webkit-transform: rotate(14deg);
+      transform: rotate(14deg);
+    }
+
+    &:before {
+      z-index: 3;
+      content: "";
+      margin-top: -4px;
+      margin-left: -9px;
+      background: $color-white;
+    }
+
+    &:after {
+      z-index: 4;
+      content: "";
+      margin-top: -2px;
+      margin-left: -9.6px;
+      background-color: $color-circle;
+    }
+  }
+}

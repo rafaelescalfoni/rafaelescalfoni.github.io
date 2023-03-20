@@ -1,0 +1,141 @@
+$altura-header: 80px;
+
+.header {
+  &__topo {
+    position: fixed;
+    width: 100vw;
+    height: $altura-header;
+    background: $branco;
+    z-index: 10;
+    transition: transform 0.2s ease-in-out;
+
+    @media #{$mq-mobile} {
+      box-shadow: 0px 20px 20px 20px #0000001f;
+    }
+  }
+
+  &__menu {
+    position: fixed;
+    width: 100%;
+    top: $altura-header;
+    background: $azul2;
+    z-index: 10;
+    transition: top 0.2s ease-in-out;
+
+    @media #{$mq-mobile} {
+      display: none;
+      z-index: 9;
+      width: 100vw;
+      height: 100vh;
+      transition: opacity 0.2s ease-in-out;
+      top: 0;
+
+      .conteudo {
+        background-color: #ffffff2a;
+      }
+    }
+
+    nav {
+      width: 100%;
+      @include flex(space-between, center);
+
+      @media #{$mq-mobile} {
+        height: 100%;
+        justify-content: center;
+        flex-direction: column;
+        gap: 10px;
+      }
+    }
+
+    &_links {
+      @include flex(flex-start, center);
+      gap: 10px;
+
+      @media #{$mq-mobile} {
+        justify-content: center;
+        flex-direction: column;
+        width: 100%;
+      }
+
+      li {
+        color: $branco;
+        font-family: $fonte-destaque;
+        padding: 15px;
+        border: 2px solid transparent;
+
+        @media #{$mq-mobile} {
+          width: 100%;
+          text-align: center;
+        }
+
+        &:hover,
+        &:active,
+        &.active {
+          background-color: #ffffff1f;
+          border-top: $verde solid 2px;
+        }
+
+        a {
+          height: 100%;
+          width: 100%;
+        }
+      }
+    }
+
+    &_conversao {
+      @media #{$mq-mobile} {
+        width: 100%;
+      }
+
+      .button {
+        text-transform: none;
+        border-color: $azul;
+
+        @media #{$mq-mobile} {
+          width: 100%;
+        }
+      }
+    }
+  }
+
+  box-shadow: 0px 20px 20px 20px #0000001f;
+
+  .conteudo {
+    height: 100%;
+    @include flex(space-between, center);
+  }
+
+  &__logo {
+    @include flex(center, center);
+    gap: 20px;
+
+    h1 {
+      @include font(600, 30px, normal, $fonte-destaque);
+      text-transform: uppercase;
+    }
+
+    @import "brasil-flag";
+  }
+
+  &__menu-mobile {
+    display: none;
+
+    @media #{$mq-mobile} {
+      display: inherit;
+
+      i {
+        font-size: 40px;
+      }
+    }
+  }
+}
+
+.header-up {
+  .header__topo {
+    transform: translateY(-100%);
+  }
+
+  .header__menu {
+    top: 0;
+  }
+}

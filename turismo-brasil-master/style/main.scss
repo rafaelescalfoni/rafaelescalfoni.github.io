@@ -1,0 +1,94 @@
+@import "variaveis";
+
+* {
+  font-size: 100%;
+  font-weight: normal;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  webkit-box-sizing: border-box;
+  moz-box-sizing: border-box;
+  box-sizing: border-box;
+  list-style: none;
+  font-family: $fonte-padrao;
+}
+
+a {
+  color: inherit;
+  text-decoration: inherit;
+}
+
+body {
+  overflow-x: hidden;
+  width: 100vw;
+}
+
+@import "mixins";
+
+.conteudo {
+  width: 100%;
+  max-width: 1700px;
+  padding: 0 55px;
+  margin: 0 auto;
+
+  @include flex(center, center);
+
+  @media #{$mq-mobile} {
+    padding: 0 20px;
+    flex-direction: column;
+  }
+}
+
+.titulo-padrao {
+  @include font(600, 40px, normal, $fonte-destaque);
+}
+
+.subtitulo-padrao {
+  @include font(300, 28px, normal);
+  margin-top: -5px;
+  margin-bottom: 15px;
+
+  @media #{$mq-mobile} {
+    font-size: 26px;
+  }
+}
+
+p {
+  margin-bottom: 10px;
+
+  @include font(400, 18px, normal);
+  text-align: justify;
+}
+
+.button {
+  background: $branco;
+  height: auto;
+  padding: 5px 10px;
+  border: 2px solid $preto;
+  border-radius: 5px;
+
+  @include font(700, 20px, normal);
+  text-align: center;
+  text-transform: lowercase;
+
+  &:hover,
+  &:active {
+    // border-image-slice: 1;
+    background: $azul2;
+    border-color: $azul2;
+    color: $branco;
+  }
+
+  &:active {
+    border-width: 3px;
+  }
+}
+
+@import "header";
+@import "conversao";
+@import "footer";
+
+@import "index";
+@import "cultura";
+@import "culinaria";
+@import "pontos-turisticos";
