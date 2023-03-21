@@ -40,7 +40,7 @@
                         <h1>Fundamentos da Web - 2023.1</h1>
                     </header>
 
-                    <span class="image main"><img src="/images/javascript.jpg" alt="Turma de Programação de Clientes Web 2022" /></span>
+                    <span class="image main"><img src="/images/javascript.jpg" alt="Turma de Programação de Clientes Web 2022" height="300"/></span>
 
                     <h2>Avisos</h2>
                     <p>
@@ -58,28 +58,91 @@
                     </p>
                     <ol>
                         <li>
-                            <h3>Organização do Site Pessoal</h3>
-                            <p>
-                            Tarefa: Hora de colocar em ordem no seu repositório GitHub Pages.
+                            <h3>A Internet e a Web</h3>
+                            <p>Nesta aula, abordamos o desenvolvimento das tecnologias da informação e da comunicação que fizeram da Internet o que conhecemos hoje. Discutindo a evolução da Internet, tecnologias relacionadas e protocolos mais usados. Então trataremos da Web - tecnologias, desafios e padrões web.
                             </p>
-                            <ul>
-                                <li>Disponibilizar uma página index.html bem formatada, com links para as atividades que serão solicitadas ao longo do curso. <br>
-                                    À princípio, crie uma página aula1.html com marcações de cabeçalho e parágrafos.</li>
-                                <li>Não pode haver links quebrados ou páginas que não permitam navegar para as demais páginas.</li>
-                                <li>Seu site deve obedecer a um padrão de diagramação e cores.</li>
-                            </ul>
+                            <p>Em seguida, apresentaremos as linguagens de marcação e dados semi-estruturados; Primeiro, introduzimos a linguagem XML, utilizada para estruturar dados de uma forma geral, para então abordarmos a linguagem HTML, utilizada para estruturar dados em páginas web. Para tais linguagens de marcação, discutimos a forma e sintaxe básica de cada uma delas. 
+                            </p>
+                            <h4>Tarefa</h4>
+                            <p>
+                                Crie uma estrutura de dados para comportar um currículo utilizando XML.
+                            </p>
+                            <h4>Material de apoio</h4>
+                            <p><a href="/disciplinas/fund_web/docs/01.intro.pdf" class="button" download="fund_web_01.pdf"><i class="fa fa-download" aria-hidden="true"></i>Slides de aula</a></p>
+                            <p>
+                                <em><strong>NÃO SE LIMITE A ESTUDAR PELAS TRANSPARÊNCIAS DE AULA. USE AS REFERÊNCIAS RECOMENDADAS NOS SLIDES E BUSQUE MAIS INFORMAÇÕES NOS SITES RECOMENDADOS DURANTE AS AULAS.</strong></em>
+                            </p>
                         </li>
                         <li>
                             <h3>Fundamentos de HTML</h3>
                             <p>
-                                Exercícios apresentados na sala.
+                                Iniciamos esta aula apresentando como os navegadores interpretam páginas web? Conhecer esse fluxo possibilita identificar de que formas tornar o carregamento mais eficiente.
                             </p>
-                            <h3>Dia 17/03/2023</h3>
-                            <p>Exercícios de tags de conteúdo <a href="./fund_web/index.html">Enunciados aqui</a></p>
+                            <p>
+                                O passo seguinte é discutir a estrutura dos documentos HTML: 
+                                <br>
+                                <strong>html</strong> 
+                                <br> &gt; <strong>head </strong>
+                                <br> &gt; <strong>body</strong>
+                                
+                            </p>
+                            <h4>Temas da aula</h4>
+                            <ul>
+                                <li>doctype</li>
+                                <li>Contêiner principal (html)</li>
+                                <li>head: metadescritores e tags de configuração</li>
+                                <li>body: a viewport</li>
+                                <li>Tags de conteúdo: h1-h6, hr, p, pre, br, strong, em, mark, del, ins, sub, sup, q, blockquote, cite, abbr, address, code, time, span.</li>
+                            </ul>
+                            <h4>Tarefa</h4>
+                            <ul>
+                                <li>Disponibilizar uma página index.html bem formatada, com informações sobre uma pessoa que te inspire.</li>
+                                <li>Seu site deve ser validado na ferramenta https://validator.w3.org </li>
+                            </ul>
+                            <h4>Material de apoio</h4>
+                            <p><a href="/disciplinas/fund_web/docs/02.fundamentos_html.pdf" class="button" download="fund_web_02.pdf"><i class="fa fa-download" aria-hidden="true"></i>Slides de aula</a>
+                            </p>
+                            <p>
+                                <em><strong>NÃO SE LIMITE A ESTUDAR PELAS TRANSPARÊNCIAS DE AULA. USE AS REFERÊNCIAS RECOMENDADAS NOS SLIDES E BUSQUE MAIS INFORMAÇÕES NOS SITES RECOMENDADOS DURANTE AS AULAS.</strong></em>
+                            </p>
                         </li>
                         <li>
-                            <h3>Proposta de Projeto de Site</h3>
+                            <h3>HTML - Links, Imagens, Listas e Tabelas</h3>
+                            <p>
+                                Aprenda as marcações básicas para exibição de imagens e links. Aprenda sobre endereçamento de recursos. Tipos de listas e estruturação de itens. Organize dados tabulares utilizando marcações para tabelas. O que são iframes e como utilizá-los para <em>mashups</em>.</p>
+                            </p>
+                            <h3>Diagramação de Sites e HTML Semântico</h3>
+                            <p>Também discutiremos como os conteúdos são estruturados e organizados nas páginas HTML. A abordagem inicial, trata do uso de marcações &lt;div&gt; para todo o trabalho. Com o avanço tecnológico e o uso cada vez mais frequente de <em>Web crawlers</em> e <em>Web scrappers</em> em busca de conteúdos em páginas, será que as divs são apropriadas? Como um desenvolvedor em busca de conteúdo fará para descobrir o significado dos dados estruturados em divs com ids em outros idiomas, por exemplo? Para resolver este e outros problemas, foram criados um conjunto de marcações novas, que possuem a mesma função das divs, porém deixam claro o significado do conteúdo inserido. Este é o assunto discutido nesta aula. Bons estudos!</p>
                             
+                            <h4>Exercícios de tags de conteúdo</h4>
+                            
+                            <p><a href="./fund_web/index.html">Enunciados aqui</a></p>
+
+                            <h4>Atividade</h4>
+                            <p>
+                                Juntos fizemos a diagramação de um site (consultoria James). O resultado no estado atual está disponível <a href="/turmas/2023/fund_web/aula03/james.html">aqui</a>. 
+                            </p>
+                            <p>
+                                O site é <a href="/turmas/2023/fund_web/aula03/img/index.png">assim</a>. Diferente? Como discutimos, o HTML apenas estrutura a página web! A apresentação será apresentada em mais detalhes quando tratarmos de CSS.
+                            </p>
+                            <h4>Git e GitHub</h4>
+                            <p>Fizemos um laboratório para a criação de uma conta no Github e discutimos o funcionamento básico do Git. Finalmente, todos os alunos publicaram suas primeiras páginas web. A partir de agora, os exercícios deverão ser publicados nos Github pages dos alunos.</p>
+                            <h4>Materiais de apoio</h4>
+                            <p>
+                                <a href="/disciplinas/fund_web/docs/03.imagens_e_agrupamento.pdf" class="button" download="fund_web_03a.pdf"><i class="fa fa-download" aria-hidden="true"></i>Slides de imagens e agrupamento</a>
+                                <a href="/disciplinas/fund_web/docs/04.diagramacao.pptx" class="button" download="fund_web_03b.pdf"><i class="fa fa-download" aria-hidden="true"></i>Slides de Diagramação</a>
+                                <a href="/disciplinas/fund_web/docs/GitGitHub.pdf" class="button" download="fund_web_git.pdf"><i class="fa fa-download" aria-hidden="true"></i>Git e GitHub</a>
+                            </p>
+                        </li>
+                        <li>
+                            <h3>Estilização de Páginas</h3>
+                            <p>O CSS3 trouxe uma série de avanços que permitiram separar de vez as responsabilidades do HTML, CSS e JavaScript. A partir de recursos avançados de transição e transformação, já não são mais necessários scripts para fazer animações de elementos, ficando tudo a cargo do CSS. Além do mais, os seletores avançados do CSS3 facilitam a aplicação de propriedades de visualização sem a necessidade de criar várias classes para isto (melhorando a escrita do HTML). As pseudo-classes e pseudo-elementos auxiliam neste sentido.
+                            </p>
+                            <h4>Materiais de apoio</h4>
+                            <p>
+                                <a href="/disciplinas/fund_web/docs/05.fundamentos_css.pdf" class="button" download="fund_web_05a.pdf"><i class="fa fa-download" aria-hidden="true"></i>Slides de CSS</a>
+                                <a href="/disciplinas/fund_web/docs/10.css_seletores.pptx" class="button" download="fund_web_05b.pptx"><i class="fa fa-download" aria-hidden="true"></i>Slides de Seletores avançados de CSS</a>
+                            </p>
                         </li>
                     </ol>
                     
