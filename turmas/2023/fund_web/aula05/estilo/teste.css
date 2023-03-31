@@ -3,9 +3,11 @@
     height: 400px;
     background-color: aqua;
     background-image: url(../img/cefet-friburgo.png);
+    /*
     animation-name: anima-cefet;
     animation-duration: 4s;
     animation-iteration-count: infinite;
+    */
 }
 
 .teste:hover {
@@ -21,4 +23,15 @@
     50% {transform:translate(200px, 200px);}
     75% {transform:translate(0, 200px);}
     100% {transform:translate(0, 0);}
+}
+
+tr:nth-child(even) {
+    background-color: #ccc;
+}
+
+tr:first-child {
+    background-color:#f35;
+}
+tr:last-child {
+    background-color:#acf;
 }
