@@ -1,0 +1,11 @@
+Cores
+
+marrom-fundo: rgb(27, 16, 2)
+laranja-fundo: rgb(209, 66, 35)
+rosa: rgb(174, 20, 60)
+
+cor dos ícones: rgb(79, 34, 9)
+
+família de fonte:
+
+Tahoma, arial ou sem serifa
